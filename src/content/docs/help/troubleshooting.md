@@ -35,8 +35,9 @@ change your plan. Disabled employees and inactive branches do not count.
 
 **"Add a register to a branch first"** — go to **Branches** and add a register.
 
-**"This till needs a secure connection"** — the till must be opened with an `https://` address.
-Contact your service provider.
+**"This till needs a secure connection"** — open the till at
+**[https://app.gpos.lk/pos/](https://app.gpos.lk/pos/)**, with `https://`. If it still appears, contact
+your service provider.
 
 **"Setting up needs an internet connection"** — connect the device, then try again.
 

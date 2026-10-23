@@ -15,7 +15,7 @@ Cashiers usually do **not** need to sign in to the back office. They unlock the 
 
 ## Sign in
 
-1. Open the web address of your GPOS back office.
+1. Open **[app.gpos.lk](https://app.gpos.lk)** in your browser.
 2. Fill in:
    - **Business code** — the short code of your business, for example `kandy-mart`. It is shown on
      the dashboard and under your business name in the menu. Every employee of the business uses

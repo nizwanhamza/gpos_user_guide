@@ -22,8 +22,8 @@ and **keeps working without internet**.
 1. **In the back office**, go to **POS devices** and select <span class="ui">Set up a till</span>
    next to the register. Keep that screen open; it shows a **code** and a **QR code** valid for
    15 minutes.
-2. **On the till device**, open your GPOS address with `/pos` at the end — for example
-   `https://your-gpos-address/pos`. (Signed in to the back office on the same device? Select
+2. **On the till device**, open **[https://app.gpos.lk/pos/](https://app.gpos.lk/pos/)** in Chrome or
+   Edge. (Signed in to the back office on the same device? Select
    **POS till ↗** in the menu.)
 3. The till shows **Set up this till**. Enter the **Setup code**, or scan the QR code with the
    device's camera.
@@ -50,8 +50,9 @@ and keep using it regularly.
 
 ## "This till needs a secure connection"
 
-The till must be opened with an **https://** address. If you see this message, contact your
-service provider for the correct address.
+The till must be opened with an **https://** address. Check that the address bar shows exactly
+**[https://app.gpos.lk/pos/](https://app.gpos.lk/pos/)** — not `http://`. If the message stays,
+contact your service provider.
 
 ## Replacing or moving a till
 

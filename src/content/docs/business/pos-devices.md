@@ -15,7 +15,7 @@ You need a [register](/business/branches/#add-registers) first.
 
 1. Next to the register, select <span class="ui">Set up a till</span>.
 2. GPOS shows a **code** and a **QR code**, valid for **15 minutes** and usable once.
-3. On the till device, open your GPOS address with **`/pos`** at the end, in **Chrome or Edge**.
+3. On the till device, open **[app.gpos.lk/pos](https://app.gpos.lk/pos/)** in **Chrome or Edge**.
 4. Enter the code, or scan the QR code with the till's camera.
 5. Wait until the till has downloaded the catalog. It then works offline.
 
