@@ -1,0 +1,229 @@
+---
+title: Quick start for new businesses
+description: From your first sign-in to your first sale in eight steps, following the setup checklist on your dashboard.
+sidebar:
+  label: Quick start
+  order: 0
+  badge:
+    text: Start here
+    variant: success
+---
+
+import { Steps, Aside, Tabs, TabItem, LinkCard } from '@astrojs/starlight/components';
+
+Welcome to GPOS! Your business has been enrolled and you have received:
+
+- the **web address** of your GPOS back office,
+- your **business code** (a short name for your business, for example `kandy-mart`),
+- the **e-mail and first password** of the owner account.
+
+This page takes you from there to your first sale. Plan about **an hour** — less if you import your
+products from a spreadsheet.
+
+<Aside type="tip" title="Follow the checklist on your dashboard">
+After you sign in, the dashboard shows a card called **Get your business ready** with the same
+eight steps as this page. Each step has an <span class="ui">Open</span> button that takes you
+straight to the right screen, and it **ticks itself** when GPOS sees the step is done.
+</Aside>
+
+## Before you start
+
+Have these ready:
+
+- A computer with **Chrome or Edge** for the back office.
+- The **till device** — a counter computer, laptop or tablet with Chrome or Edge. A USB or
+  Bluetooth barcode scanner and a receipt printer (58 mm or 80 mm) are optional but recommended.
+- Your **product list** with prices (and barcodes if you have them). A spreadsheet is ideal.
+- Your **VAT registration** details, if you are VAT-registered.
+- The **names and e-mail addresses** of the staff who will use GPOS.
+
+## Step 0 — Sign in for the first time
+
+<Steps>
+
+1. Open the web address of your GPOS back office.
+2. Enter your **Business code**, **Email** and **Password**, then select <span class="ui">Sign in</span>.
+3. You are asked to **choose a new password** (at least 12 characters — a memorable phrase works
+   well). Do this now; the first password was only temporary.
+4. Optional: pick your language with the language switch (English, සිංහල or தமிழ்).
+
+</Steps>
+
+More detail: [Signing in](/getting-started/signing-in/).
+
+## Step 1 — Business details and receipt header
+
+Tell GPOS who you are. This information is printed on your receipts.
+
+<Steps>
+
+1. Go to **Settings** → **Business profile**.
+2. Fill in your **Phone**, **Contact email** and the **Address** section.
+3. Check **Regional settings**: currency, time zone and the **Default language** for your staff.
+4. Scroll to **Receipts** and add the **Header lines** printed at the top of each receipt (up to 4
+   lines — for example your address and hotline) and a **Footer text** such as *Thank you, come
+   again!*
+5. Select <span class="ui">Save settings</span>.
+
+</Steps>
+
+Deep dive: [Business settings](/business/settings/).
+
+## Step 2 — Tax
+
+<Tabs>
+<TabItem label="We are VAT-registered">
+
+On the checklist, select <span class="ui">Add VAT 18%</span>. GPOS creates a **VAT** tax rate of 18%
+and a tax group **VAT 18%** for you. Then give your taxable products the tax group *VAT 18%* (you can
+do this while adding products in Step 4, or in the import spreadsheet's `tax_group` column with the
+code `VAT18`).
+
+By default **prices include tax** — the shelf price is what the customer pays and the tax is worked
+out of it. To add tax on top at checkout instead, untick **Prices include tax** in
+**Settings → Products and prices**.
+
+</TabItem>
+<TabItem label="We do not charge VAT">
+
+Select <span class="ui">We do not charge VAT</span> on the checklist. Products without a tax group
+are not taxed. You can add tax rates later at any time.
+
+</TabItem>
+</Tabs>
+
+<Aside type="caution">
+Confirm your tax rates with your accountant before you start selling.
+</Aside>
+
+Deep dive: [Taxes](/catalog/taxes/).
+
+## Step 3 — Payment methods
+
+**Cash, Card, QR payment and Bank transfer** are ready to use. Card, QR and bank payments are taken
+on your bank's terminal or app — GPOS only records them with the reference your cashier types.
+
+- If you accept all of them, select <span class="ui">These are fine</span>.
+- Otherwise go to **Settings → Payment methods** and **switch off** what you do not take, or
+  <span class="ui">Add payment method</span> for your own (for example a gift voucher).
+
+Deep dive: [Payment methods](/business/payment-methods/).
+
+## Step 4 — Products
+
+Choose the way that suits you:
+
+<Tabs>
+<TabItem label="Import a spreadsheet (many products)">
+
+<Steps>
+
+1. Go to **Products** → <span class="ui">Import / export</span>.
+2. Download the **Excel template** (or CSV template). Fill in **one row per item** — name, unit
+   (`pcs`, `kg`…), SKU, barcodes, cost and selling price.
+3. Select <span class="ui">Upload file…</span>. Nothing changes yet — GPOS shows what it would
+   create and lists any problems by row.
+4. Fix any problems in the file and upload it again. When it says **Ready to import**, select
+   <span class="ui">Import now</span>.
+
+</Steps>
+
+Deep dive: [Import and export](/catalog/import-export/).
+
+</TabItem>
+<TabItem label="Add products one by one">
+
+<Steps>
+
+1. Go to **Products** → <span class="ui">New product</span>.
+2. Enter the **Name**, choose the **Unit** and the **Tax group**.
+3. Under **Codes and price**, enter the **SKU**, **Barcodes** and **Selling price**.
+4. Select <span class="ui">Create product</span>.
+
+</Steps>
+
+Deep dive: [Products, variants and prices](/catalog/products/).
+
+</TabItem>
+</Tabs>
+
+## Step 5 — Opening stock
+
+So that stock levels start right, enter what is on your shelves today.
+
+<Steps>
+
+1. Go to **Inventory** → **Opening stock** and choose the **Store**.
+2. Paste rows from a spreadsheet — **SKU or barcode, quantity, optional unit cost** — or upload a CSV.
+3. Select <span class="ui">Check</span>. When all rows are fine, select <span class="ui">Post opening stock</span>.
+
+</Steps>
+
+Not tracking stock yet? Select <span class="ui">Skip for now</span> on the checklist.
+
+Deep dive: [Opening stock](/inventory/opening-stock/).
+
+## Step 6 — Pair the first till
+
+<Steps>
+
+1. Add a **register** (a checkout counter) first: go to **Branches**, and in your branch (called
+   **MAIN** to start with) select <span class="ui">Add</span> under **Registers**. Give it a code and
+   name, for example `R1` — *Counter 1*.
+2. Go to **POS devices**. Next to the register, select <span class="ui">Set up a till</span>.
+   A **one-time code** and a QR code appear (valid for 15 minutes).
+3. On the till device, open your GPOS address followed by **`/pos`** in Chrome or Edge.
+4. Enter the **Setup code** (or scan the QR code), give the till a name such as *Front counter*, and
+   select <span class="ui">Register this till</span>.
+5. Wait while the till downloads the catalog. From now on it also works **offline**.
+
+</Steps>
+
+Deep dive: [Set up a till](/till/set-up-a-till/).
+
+## Step 7 — Add staff
+
+<Steps>
+
+1. Go to **Employees** → <span class="ui">Add employee</span>.
+2. Enter their **Full name**, **Email** and an **Initial password** (at least 12 characters).
+3. Give them a **Role** — for example *Cashier* — and the **Branch** they work in.
+4. Select <span class="ui">Create employee</span>.
+5. To let them unlock the till, open the employee and select <span class="ui">Set POS PIN</span>
+   (6 digits). Tell them the PIN in person. They can also set it themselves under **My account**.
+
+</Steps>
+
+Working alone? Select <span class="ui">I work alone</span> on the checklist — but **set your own
+POS PIN** in **My account**, because you need it to unlock the till.
+
+Deep dive: [Employees](/business/employees/) · [Roles and permissions](/business/roles/).
+
+## Step 8 — Make the first sale
+
+<Steps>
+
+1. On the till, choose your name and **enter your PIN**.
+2. **Open a shift**: count the cash in the drawer (the *opening float*) and select <span class="ui">Open shift</span>.
+3. **Scan a barcode** or type a product name. The item appears in the sale.
+4. Select <span class="ui">Pay</span> (or press **F4**), enter the **Cash received** and select
+   <span class="ui">Complete sale</span>. The till shows the change to give.
+
+</Steps>
+
+🎉 The sale now appears in **Sales** and **Reports** in the back office, and the checklist shows
+**Your business is ready**. You can select <span class="ui">Hide checklist</span>.
+
+Deep dive: [Making a sale](/till/making-a-sale/) · [Cash shifts on the till](/till/shifts/).
+
+<Aside type="caution" title="About discounts and cash outs">
+Out of the box, **every** discount a cashier gives and **every** cash out needs a manager's PIN. To
+relax this, see [Checkout and cash](/business/settings/#checkout-and-cash).
+</Aside>
+
+## What next?
+
+<LinkCard title="Set discount limits, return window and cash rules" href="../business/settings/#checkout-and-cash" />
+<LinkCard title="Add quick-pick buttons for loose items (vegetables, bakery)" href="../catalog/quick-picks/" />
+<LinkCard title="Close the day: close the shift and check the daily summary" href="../sales/cash-shifts/" />
+<LinkCard title="Look at today's numbers in Reports" href="../reports/reports/" />
