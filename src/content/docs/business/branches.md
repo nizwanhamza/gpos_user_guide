@@ -5,6 +5,12 @@ sidebar:
   order: 2
 ---
 
+:::note[Depends on your plan]
+Having **more than one active branch** is a plan feature, and your plan can limit the number of
+**active branches** and **registers**. The dashboard shows your limits. See
+[Plans and features](/getting-started/plans/).
+:::
+
 GPOS organises your business like this:
 
 ```text

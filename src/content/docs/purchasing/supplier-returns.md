@@ -5,6 +5,10 @@ sidebar:
   order: 4
 ---
 
+:::note[Depends on your plan]
+This page is part of the **Suppliers, purchase orders and goods receiving** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+:::
+
 Goods sent back **leave the store's stock at the average cost**.
 
 1. Go to **Purchasing → Returns to suppliers** → <span class="ui">Return goods</span>.

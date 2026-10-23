@@ -5,6 +5,10 @@ sidebar:
   order: 11
 ---
 
+:::note[Depends on your plan]
+This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+:::
+
 ## Keyboard shortcuts
 
 | Key | Action |

@@ -5,6 +5,10 @@ sidebar:
   order: 6
 ---
 
+:::note[Depends on your plan]
+This page is part of the **Batch/lot and expiry tracking** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+:::
+
 For food, medicine and cosmetics you can track **batches** (lots) with **expiry dates**. This
 feature depends on your plan.
 

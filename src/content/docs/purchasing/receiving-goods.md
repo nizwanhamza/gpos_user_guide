@@ -5,6 +5,10 @@ sidebar:
   order: 3
 ---
 
+:::note[Depends on your plan]
+This page is part of the **Suppliers, purchase orders and goods receiving** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+:::
+
 Goods received go into the store's stock **at their cost**, and the average cost is updated.
 
 ## Receive against a purchase order

@@ -5,6 +5,11 @@ sidebar:
   order: 3
 ---
 
+:::note[Depends on your plan]
+Your plan can limit the number of **active employees**. Disabled employees do not count. See
+[Plans and features](/getting-started/plans/).
+:::
+
 Everyone who uses GPOS — in the back office or at the till — has their own **employee** account.
 Never share accounts: GPOS records who did what.
 
@@ -52,6 +57,16 @@ If someone forgets their password and cannot use the e-mail link:
 1. Open the employee and select <span class="ui">Reset password</span>.
 2. GPOS shows a **temporary password — only once**. Give it to the employee.
 3. They are signed out everywhere and must choose a new password at their next sign-in.
+
+## Reset two-step sign-in
+
+If an employee **lost their phone** (and their recovery codes), open the employee and select
+<span class="ui">Reset two-step sign-in</span>, then confirm. Their two-step sign-in is turned off
+(*Two-step sign-in was turned off*). They sign in with their password and set it up again on the
+new phone — straight away if your business requires it.
+
+Do this only after you have checked it is really them asking. You need the *Create, update and
+disable employees and their roles* permission.
 
 ## Disable or enable
 

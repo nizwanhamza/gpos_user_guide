@@ -21,6 +21,10 @@ sidebar:
 | **Z report** | The end-of-shift summary after closing. |
 | **Reconciled** | A closed shift for which the back office has every record from the till. |
 | **POS PIN** | A 6-digit number to unlock the till. |
+| **Two-step sign-in** | Signing in to the back office with your password plus a code from an authenticator app. |
+| **Authenticator app** | A phone app (Microsoft Authenticator, Google Authenticator…) that shows a new 6-digit code every 30 seconds. |
+| **Recovery code** | One of 10 single-use codes for two-step sign-in when you do not have your phone. |
+| **PDPA** | Sri Lanka's Personal Data Protection Act. Customers can ask for a copy of their data or for it to be erased. |
 | **SKU** | Your own code for a product variant. |
 | **Variant** | One sellable version of a product (size, colour). |
 | **Pack barcode** | A barcode for several units at once, written `code:quantity`. |

@@ -5,6 +5,10 @@ sidebar:
   order: 5
 ---
 
+:::note[Depends on your plan]
+This page is part of the **Stock ledger, counts, adjustments and transfers** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+:::
+
 A **transfer** moves stock between two stores — for example from your central warehouse to a
 branch. **Sending** takes the stock out of the first store (it is *in transit*); the receiving
 store enters **what arrived**. Anything short is recorded with a reason.

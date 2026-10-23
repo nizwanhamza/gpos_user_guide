@@ -5,6 +5,11 @@ sidebar:
   order: 3
 ---
 
+:::note[Depends on your plan]
+Your plan can limit the number of **products** (archived products do not count). Batch and expiry
+tracking is a separate plan feature. See [Plans and features](/getting-started/plans/).
+:::
+
 **Products** lists everything you sell. Search by **name, SKU or barcode**, and filter by
 **Category**, **Brand** or status.
 

@@ -5,6 +5,10 @@ sidebar:
   order: 5
 ---
 
+:::note[Depends on your plan]
+This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+:::
+
 **Quick-pick buttons** are product buttons on the till's main screen — ideal for items **without
 barcodes**, such as loose vegetables, bakery items or a cup of tea. Each **branch** has its own
 set of up to **40** buttons.

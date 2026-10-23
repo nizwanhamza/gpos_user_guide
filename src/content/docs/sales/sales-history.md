@@ -5,6 +5,10 @@ sidebar:
   order: 1
 ---
 
+:::note[Depends on your plan]
+This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+:::
+
 **Sales** lists the sales made on your tills as they arrive in the back office — newest first.
 Sales made offline appear once the till has synced.
 

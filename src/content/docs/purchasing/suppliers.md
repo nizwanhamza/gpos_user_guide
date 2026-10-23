@@ -5,6 +5,10 @@ sidebar:
   order: 1
 ---
 
+:::note[Depends on your plan]
+This page is part of the **Suppliers, purchase orders and goods receiving** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+:::
+
 Go to **Purchasing → Suppliers** → <span class="ui">Add supplier</span>.
 
 | Field | Example |

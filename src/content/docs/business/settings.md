@@ -106,6 +106,20 @@ manager's PIN for returns and voids unless their role allows them. See
 
 Receipts are printed from the till; see [Till settings](/till/shortcuts-and-settings/#receipt-printing).
 
+## Two-step sign-in
+
+Tick **Require two-step sign-in for all other users of the business** to make every employee use
+a code from an authenticator app when signing in to the back office. Those who have not set it
+up are asked to do so at their next sign-in, before anything else. The till is not affected —
+cashiers keep using their PIN.
+
+- **Only the business owner** can change this setting (others see *Only the business owner can
+  change this*).
+- Below it, Settings shows whether two-step sign-in is **required for you as the owner** (decided
+  by your service provider) or optional.
+
+See [Two-step sign-in](/getting-started/two-step-sign-in/).
+
 ## Payment methods, cash reasons and stock reasons
 
 Lower down the Settings page you also manage:

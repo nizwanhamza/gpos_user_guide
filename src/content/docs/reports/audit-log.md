@@ -10,6 +10,9 @@ roles, settings, prices and stock, device pairing, approvals, setup checklist st
 need the *View the business audit log* permission (owners, administrators, managers and
 accountants by default).
 
+When a customer is [erased](/sales/customers/#erase-a-customer), their personal details are
+cleared from the audit log too; the record of *what* happened and *who* did it stays.
+
 Each record shows the **Time**, the **Action**, the **Actor** (who did it), the **Record** it
 affected, the **IP** address and **Details**. Records cannot be changed or deleted.
 
@@ -20,3 +23,11 @@ business as one of your users. While it is active, the back office shows a banne
 session: you are acting as … Everything is recorded and visible to the business.* People, roles,
 passwords and settings cannot be changed during a support session. Actions taken during it are
 marked **via support** in the audit log.
+
+## Account recovery by your service provider
+
+If the owner is locked out (lost phone and recovery codes, or no access to the sign-in e-mail),
+your service provider can — after checking the owner's identity — send a password reset link,
+turn off two-step sign-in or change the owner's sign-in e-mail. Each action is written to your
+audit log with who did it, when and why, and the owner is told by e-mail. See
+[Lost or replaced phone](/getting-started/two-step-sign-in/#lost-or-replaced-phone).

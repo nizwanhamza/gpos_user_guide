@@ -5,6 +5,10 @@ sidebar:
   order: 4
 ---
 
+:::note[Depends on your plan]
+This page is part of the **Stock ledger, counts, adjustments and transfers** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+:::
+
 A **stock count** compares what is on the shelves with what GPOS expects, then posts the
 differences as adjustments. Each item keeps the system level **at the moment it was counted**, so
 the **tills can keep selling during a count**. Items not counted are left as they are.

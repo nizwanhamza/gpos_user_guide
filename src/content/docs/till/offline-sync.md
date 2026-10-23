@@ -5,6 +5,10 @@ sidebar:
   order: 10
 ---
 
+:::note[Depends on your plan]
+This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+:::
+
 The till keeps a copy of your products, prices, staff PINs, customers and settings **on the
 device**. When the internet is down it carries on selling and stores the sales. When the
 connection is back it sends them automatically. **Nothing is lost**, as long as the till's browser

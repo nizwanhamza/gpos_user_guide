@@ -5,6 +5,10 @@ sidebar:
   order: 4
 ---
 
+:::note[Depends on your plan]
+This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+:::
+
 Select <span class="ui">Pay</span> (**F4**) and choose a **Payment method**. The methods are set
 up in [Payment methods](/business/payment-methods/).
 

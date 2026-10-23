@@ -6,7 +6,7 @@ sidebar:
 ---
 
 Select <span class="ui">My account</span> at the bottom of the menu to manage your own sign-in
-details.
+details: your password, **two-step sign-in** and your POS PIN.
 
 ## Change your password
 
@@ -16,6 +16,11 @@ details.
 
 All your other sessions are signed out — for example, if you were still signed in on another
 computer.
+
+## Two-step sign-in
+
+Turn on a code from an authenticator app for extra protection, see how many recovery codes are
+left, or turn it off. Step by step: [Two-step sign-in](/getting-started/two-step-sign-in/).
 
 ## Set or change your POS PIN
 

@@ -14,7 +14,7 @@ Every business gets these roles. They are marked **system** and cannot be edited
 
 | Role | For | In short |
 |------|-----|----------|
-| **Owner** | The business owner | Full control of the business. |
+| **Owner** | The business owner | Full control of the business. Also the only one who accepts the terms of service and decides whether staff must use two-step sign-in. |
 | **Administrator** | Office administrator | Full administrative access. |
 | **Manager** | Shop manager | Runs a branch day to day: products and prices, stock, purchasing, customers, sales, discounts, returns, voids, cash shifts, reports and audit log. Cannot manage employees, roles, devices or settings. |
 | **Cashier** | Till staff | Sells at the till, opens and closes their own cash shift, looks up and adds customers. |
@@ -41,6 +41,7 @@ Every business gets these roles. They are marked **system** and cannot be edited
 | Inventory | Transfer stock between locations | Send and receive transfers. |
 | Purchasing | Manage suppliers and purchase orders | Suppliers, orders, receiving, supplier returns. |
 | Customers | View customers · Create and update customers | Customer profiles. |
+| Customers | Export and erase customer data (PDPA requests) | Download or erase a customer's personal data. Owner and Administrator only, by default. |
 | Sales | View sales | See sales in the back office. |
 | Sales | Create sales at the POS | Sell on the till. |
 | Sales | Apply manual discounts | Give discounts up to the higher limit and approve cashiers' discounts. |

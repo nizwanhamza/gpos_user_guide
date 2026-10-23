@@ -5,6 +5,11 @@ sidebar:
   order: 1
 ---
 
+:::note[Depends on your plan]
+You see the reports for the features in your plan — for example, stock reports need the inventory
+feature and purchasing reports need purchasing. See [Plans and features](/getting-started/plans/).
+:::
+
 **Reports** groups its reports into **Sales**, **Money**, **Stock** and **Purchasing**. You need
 the *View reports* permission. Cost, margin and stock value are only shown to people allowed to see
 costs (for example the *Accountant* role).

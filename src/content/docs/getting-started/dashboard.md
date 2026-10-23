@@ -16,8 +16,9 @@ The **Dashboard** is the first page after you sign in.
 - **Business** — your business name, **Business code**, currency, time zone, contact and the date
   you joined.
 - **Your access** — the roles and permissions you have, and for which branches.
-- **Plan** — your subscription plan and its limits: active branches, registers, employees and
-  products. *To change your plan, contact your service provider.*
+- **Plan** — your plan's name, every feature marked ✓ (included) or ✕ (not included), and its
+  limits: active branches, registers, employees and products. *To change your plan, contact your
+  service provider.* See [Plans and features](/getting-started/plans/).
 
 What appears depends on your permissions. A cashier, for example, does not see sales figures.
 
@@ -43,7 +44,8 @@ Tips:
 - On the **Tax** step, <span class="ui">Add VAT 18%</span> creates the standard VAT rate and a
   *VAT 18%* tax group in one click.
 - Marked a step by mistake? Select <span class="ui">Not done</span> to undo it.
-- Steps for features that are not in your plan are left out.
+- Steps for features that are not in your plan are left out — so your checklist may have fewer
+  than eight steps. See [Plans and features](/getting-started/plans/).
 - Only people who can manage business settings (owners and administrators) see the checklist.
 
 When everything is done the card says **Your business is ready**. Select

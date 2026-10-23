@@ -49,6 +49,8 @@ yourself: `SITE_URL=https://<owner>.github.io BASE_PATH=/<repo> npm run build`.
 | Unlocking the till | ✓ | ✓ |
 | Making a sale | ✓ | ✓ |
 | Cash shifts on the till | ✓ | ✓ |
+| Plans and features | ✓ | ✓ |
+| Two-step sign-in | ✓ | ✓ |
 
 All other pages fall back to English. Sinhala and Tamil text should be reviewed by a native
 speaker before publishing widely.

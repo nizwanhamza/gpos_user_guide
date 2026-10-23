@@ -5,6 +5,10 @@ sidebar:
   order: 5
 ---
 
+:::note[Depends on your plan]
+This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+:::
+
 A **till** is a browser on a counter computer, laptop or tablet that is registered to one
 **register**. It keeps working offline and sends its sales when back online. **POS devices** lists
 your registers per branch and the till on each.

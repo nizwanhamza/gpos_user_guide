@@ -60,9 +60,26 @@ Turn on **Use Sinhala/Tamil product names** in Settings and fill in the names. S
 Export the catalog from **Products → Import / export**, and any report with
 <span class="ui">Export CSV</span>.
 
+### Why can't I see a feature described in this guide?
+
+Features depend on your plan — for example **Basic**, **Standard** or **Custom**. If a menu item
+such as **Inventory**, **Purchasing** or **Customers** is missing, it is most likely not in your
+plan (or your role does not allow it). Check the **Plan** card on the dashboard: ✓ means included,
+✕ means not included. See [Plans and features](/getting-started/plans/).
+
 ### How do I change my plan?
 
 Contact your service provider. Your current plan and limits are on the dashboard.
+
+### Do cashiers need two-step sign-in on the till?
+
+No. Two-step sign-in is for the back office only. Cashiers keep unlocking the till with their
+6-digit PIN.
+
+### A customer asked us to delete their data. What do we do?
+
+Open the customer in **Customers** and use **Personal data (PDPA)** → **Erase customer**. You can
+also **Export data** to give them a copy first. See [Personal data (PDPA)](/sales/customers/#personal-data-pdpa).
 
 ### Is my data visible to other businesses?
 

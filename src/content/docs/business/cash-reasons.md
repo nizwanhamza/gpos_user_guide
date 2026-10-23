@@ -5,6 +5,10 @@ sidebar:
   order: 7
 ---
 
+:::note[Depends on your plan]
+This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+:::
+
 When a cashier puts cash **into** the drawer (for example extra change) or takes it **out** (for
 example to pay a delivery), they choose a **reason**. Manage reasons in **Settings → Cash in/out
 reasons**. Tills use the active reasons, also offline.

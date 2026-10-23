@@ -5,6 +5,10 @@ sidebar:
   order: 2
 ---
 
+:::note[Depends on your plan]
+This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+:::
+
 **Cash shifts** shows every shift from your tills. Each till opens a shift with a float and closes
 it with a count. The back office works out the **expected cash** from the sales and cash movements
 it received and shows the **difference**.

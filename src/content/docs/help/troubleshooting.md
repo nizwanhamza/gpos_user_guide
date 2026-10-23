@@ -18,6 +18,22 @@ if needed.
 **"This link is invalid, was already used or has expired"**
 Password reset links work once and for 30 minutes. Ask for a new one.
 
+**"The code is not correct"** (two-step sign-in)
+Use the current code from the authenticator app and check that the phone's date and time are set
+automatically. You can also use a recovery code. See [Two-step sign-in](/getting-started/two-step-sign-in/).
+
+**Lost the phone with the authenticator app**
+Sign in with a recovery code, or ask your owner or an administrator to
+**Reset two-step sign-in** in Employees. Owners: see
+[Lost or replaced phone](/getting-started/two-step-sign-in/#lost-or-replaced-phone).
+
+**"Set up two-step sign-in first"**
+Your business (or your service provider, for owners) requires two-step sign-in. Follow the
+**Set up two-step sign-in** screen.
+
+**"Accept the terms first"**
+The owner must accept the updated terms of service at the next sign-in.
+
 **"This business account is suspended"**
 Contact your service provider.
 
@@ -27,7 +43,12 @@ Your role does not allow it. Ask your owner or administrator — see
 
 **"This feature is not included in your plan" / "Your plan limit has been reached"**
 For example, adding another branch or employee beyond your plan. Contact your service provider to
-change your plan. Disabled employees and inactive branches do not count.
+change your plan. Disabled employees and inactive branches do not count. See
+[Plans and features](/getting-started/plans/).
+
+**A menu item described in this guide is missing**
+Either the feature is not in your plan, or your role does not include it. Check the **Plan** card
+on the dashboard (✓ / ✕) and ask your owner about your role.
 
 ## Pairing a till
 

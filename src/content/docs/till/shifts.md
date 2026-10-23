@@ -5,6 +5,10 @@ sidebar:
   order: 9
 ---
 
+:::note[Depends on your plan]
+This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+:::
+
 A **shift** is one period of selling on one till — usually one cashier's day or half-day. Every
 sale and cash movement belongs to the shift until it is closed. Press **F10** or select the shift
 label (*Shift 12*) at the top to manage it.
