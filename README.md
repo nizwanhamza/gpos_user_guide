@@ -13,7 +13,7 @@ npm run build      # static site in dist/
 npm run preview
 ```
 
-Requires Node.js 22 or newer.
+Requires Node.js 22.23.4 or newer (the deploy workflow uses Node 24).
 
 ## Publish on GitHub Pages
 
