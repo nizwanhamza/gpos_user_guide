@@ -25,6 +25,23 @@ The workflow passes the Pages URL and sub-path (`SITE_URL`, `BASE_PATH`) to the 
 work at `https://<owner>.github.io/<repo>/` as well as on a custom domain. To build for a sub-path
 yourself: `SITE_URL=https://<owner>.github.io BASE_PATH=/<repo> npm run build`.
 
+## Logo and icons
+
+The originals are in `brand/` (not published):
+
+| File | What |
+|------|------|
+| `brand/gpos-logo-full.png` | Icon + "POS" wordmark (transparent) |
+| `brand/gpos-icon.png` | Icon only, 512 × 512 |
+
+The site uses copies generated from them — header logo and home-page image in light and dark
+versions (`src/assets/`), favicons, Apple touch icon, app icons and the 1200 × 630 link-preview
+card (`public/`). After replacing a file in `brand/`, regenerate them with:
+
+```bash
+node scripts/brand-assets.mjs
+```
+
 ## Writing pages
 
 - Pages live in `src/content/docs/` as Markdown (`.md`) or MDX (`.mdx`). The folder decides the

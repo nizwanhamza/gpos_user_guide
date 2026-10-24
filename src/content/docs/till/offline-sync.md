@@ -41,8 +41,10 @@ Select the status bar to open **Sync and this till**:
 - **Waiting and problem operations** — each one with its status: *Waiting*, *Sending*, *Needs
   attention*, *Waiting for a manager*.
 - <span class="ui">Try again</span> — resend one that failed.
-- <span class="ui">Export (JSON)</span> — save the waiting operations to a file as a backup (for
-  your service provider if asked).
+- <span class="ui">Export (JSON)</span> — save the waiting operations to a file as a backup. Shown
+  to people who can manage POS devices (owners and administrators). Use it before replacing a
+  till that cannot connect. Keep the file and give it to your service provider: it cannot be
+  loaded back yet, but they can use it to reconcile the sales by hand.
 - <span class="ui">Download everything again</span> — if the catalog on the till looks wrong.
   **Waiting operations are kept.**
 - Details of **This till**: register, branch, app version, storage and screen status.

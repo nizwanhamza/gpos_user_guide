@@ -35,7 +35,9 @@ For each till you see:
 - **Clock off by … min** — the till's clock is wrong. Fix the date and time on the device.
 - **Status** — *Active*, *Finishing* (being decommissioned), *Revoked* or *Needs re-authorising*.
 
-A till that has not synced for a long time may need to be **re-authorised**.
+A till that has had **no contact for 90 days** shows *Needs re-authorising* — its sign-in has
+expired. Select <span class="ui">Re-authorise</span> and enter the new code on the till; its waiting
+sales are kept.
 
 ## Rename, re-authorise, decommission, revoke
 
@@ -44,7 +46,20 @@ A till that has not synced for a long time may need to be **re-authorised**.
 | <span class="ui">Rename</span> | Give the till a clearer name. |
 | <span class="ui">Re-authorise</span> | The till shows *This till is not registered* or *Needs re-authorising*. You get a new code to enter on the same till; its waiting work is kept. |
 | <span class="ui">Decommission</span> | You are **replacing** a till. It can still send what it has waiting, but cannot start new sales. |
-| <span class="ui">Revoke</span> | The till is **lost or stolen**. It is locked out immediately. Any work still waiting stays on the device. |
+| <span class="ui">Revoke</span> | The till is **lost or stolen**. It is locked out immediately. Any work still waiting stays on the device and cannot be sent. Afterwards, **change the POS PINs** of the cashiers who used it (Employees → each person → Set POS PIN). |
+
+## Replacing a till step by step
+
+1. **On the old till**, open the sync panel and select <span class="ui">Sync now</span> until
+   **nothing is waiting**. If it cannot connect, select <span class="ui">Export (JSON)</span> and keep
+   the file safe (see [Offline and sync](/till/offline-sync/#the-sync-panel)).
+2. **Here**, select <span class="ui">Decommission</span> on the old till.
+3. Select <span class="ui">Set up a till</span> on the **same register** and register the new device.
+   Its receipt numbers get a suffix (for example `CMB-R01.2-…`).
+
+If the old device **does not start at all**, the sales it had not sent yet are lost unless they
+were exported earlier; everything already synced is safe. Compare the last receipt numbers in
+**Sales** with your paper receipts to see what is missing.
 
 ## Sync issues
 

@@ -14,7 +14,7 @@ and **keeps working without internet**.
 
 ## What you need
 
-- A computer or tablet with **Chrome or Edge** (recommended).
+- A computer, laptop or tablet (Windows, Android or iPad) with **Chrome or Edge** (recommended).
 - An **internet connection for the setup** — afterwards it also works offline.
 - Optional: a **barcode scanner** (USB or Bluetooth, set to "keyboard" mode), a **receipt
   printer** (58 mm or 80 mm) installed on the device, and a cash drawer.
@@ -41,9 +41,10 @@ The till then shows **Who is using the till?** — it is ready. Continue with
 
 ## Install it as an app (recommended)
 
-In Chrome or Edge, use **Install** in the address bar (or the browser menu → *Install app*). The
-till then opens in its own window, starts faster and the browser is much less likely to clear its
-offline data.
+In Chrome or Edge, use **Install** in the address bar (or the browser menu → *Install app*; on
+Android *Add to Home screen*). The till then appears as an app with the **GPOS** name and icon,
+opens in its own window, starts faster, and the browser is much less likely to clear its offline
+data.
 
 :::caution[Keep the till's data safe]
 The till stores waiting sales on the device until they are sent. Do **not** clear the browser
@@ -60,7 +61,8 @@ contact your service provider.
 
 ## Replacing or moving a till
 
-- **New device:** in the back office, [decommission](/business/pos-devices/#rename-re-authorise-decommission-revoke)
-  the old till (it sends what it has waiting), then set up the new one.
+- **New device:** sync the old till until nothing is waiting, [decommission](/business/pos-devices/#rename-re-authorise-decommission-revoke)
+  it, then set up the new one on the same register — see
+  [Replacing a till step by step](/business/pos-devices/#replacing-a-till-step-by-step).
 - **"This till is not registered":** an administrator chooses <span class="ui">Re-authorise</span>
   for it in POS devices and you enter the new code on the till. Waiting work is kept.

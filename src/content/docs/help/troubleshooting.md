@@ -102,6 +102,15 @@ and turn off *Headers and footers* in the browser's print dialog.
 Open the sync panel and select <span class="ui">Try again</span>. If it stays, an administrator
 checks [Sync issues](/business/pos-devices/#sync-issues).
 
+**"Needs re-authorising" in POS devices**
+The till has had no contact for 90 days. Select <span class="ui">Re-authorise</span> and enter the
+new code on the till. Waiting sales are kept.
+
+**A till broke with sales still waiting**
+If it still starts, connect it and select <span class="ui">Sync now</span>, or
+<span class="ui">Export (JSON)</span> the waiting work. Then follow
+[Replacing a till step by step](/business/pos-devices/#replacing-a-till-step-by-step).
+
 **"This till is not registered"**
 The till was revoked or its authorisation expired. An administrator selects
 <span class="ui">Re-authorise</span> in **POS devices** and you enter the new code. Waiting work is

@@ -18,6 +18,20 @@ Each row shows the **Receipt** number, **Time**, **Branch · till**, **Cashier**
 (*Voided*, *Returned*, *Partly returned*). Use **Show** to filter: *All sales*, *Voided*,
 *Returned*, *Partly returned* or *Flagged for review*.
 
+## Receipt numbers
+
+Every till numbers its own receipts, so numbers never clash — even offline:
+
+```text
+CMB-R01-000123
+│   │   └── running number on that till
+│   └────── register code
+└────────── branch code
+```
+
+A **replacement** till on the same register adds a suffix — `CMB-R01.2-000001` — so its receipts
+never collide with the old till's. Search by receipt number on the till (**F9**) or in this list.
+
 ## Sale details
 
 Select a sale to see:

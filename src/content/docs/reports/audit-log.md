@@ -22,7 +22,8 @@ If you ask your service provider for help, they may open a **support session** t
 business as one of your users. While it is active, the back office shows a banner: *Support
 session: you are acting as … Everything is recorded and visible to the business.* People, roles,
 passwords and settings cannot be changed during a support session. Actions taken during it are
-marked **via support** in the audit log.
+marked **via support** in the audit log. A support session lasts **at most 30 minutes**; your
+service provider starts one only when you ask for help.
 
 ## Account recovery by your service provider
 

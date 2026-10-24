@@ -25,6 +25,7 @@ sidebar:
 | **Authenticator app** | A phone app (Microsoft Authenticator, Google Authenticator…) that shows a new 6-digit code every 30 seconds. |
 | **Recovery code** | One of 10 single-use codes for two-step sign-in when you do not have your phone. |
 | **PDPA** | Sri Lanka's Personal Data Protection Act. Customers can ask for a copy of their data or for it to be erased. |
+| **Receipt number** | `BRANCH-REGISTER-000123`, numbered per till; a replacement till adds `.2`, `.3`… |
 | **SKU** | Your own code for a product variant. |
 | **Variant** | One sellable version of a product (size, colour). |
 | **Pack barcode** | A barcode for several units at once, written `code:quantity`. |

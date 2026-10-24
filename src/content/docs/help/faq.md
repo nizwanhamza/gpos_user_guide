@@ -14,7 +14,7 @@ need internet to set up a till and to receive price changes. See [Offline and sy
 
 ### What devices can I use as a till?
 
-Any computer, laptop or tablet that runs **Chrome or Edge**. A barcode scanner, receipt printer
+Any computer, laptop or tablet — Windows, Android or iPad — that runs **Chrome or Edge**. A barcode scanner, receipt printer
 (58 or 80 mm) and cash drawer are optional.
 
 ### Can I use several tills in one shop?
