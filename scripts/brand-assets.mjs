@@ -27,10 +27,11 @@ await (await darkVariant(LOGO)).toBuffer().then((b) =>
   sharp(b).resize({ height: 96 }).png().toFile('src/assets/gpos-logo-dark.png'),
 );
 
-// Home-page hero image.
-await sharp(LOGO).resize({ width: 900 }).png().toFile('src/assets/gpos-hero-light.png');
+// Home-page hero image (in public/: Starlight's hero `image.file` crops to a square, so the
+// home pages show these at their natural shape through `image.html`).
+await sharp(LOGO).resize({ width: 900 }).webp({ quality: 90 }).toFile('public/gpos-hero-light.webp');
 await (await darkVariant(LOGO)).toBuffer().then((b) =>
-  sharp(b).resize({ width: 900 }).png().toFile('src/assets/gpos-hero-dark.png'),
+  sharp(b).resize({ width: 900 }).webp({ quality: 90 }).toFile('public/gpos-hero-dark.webp'),
 );
 
 // Browser and app icons.

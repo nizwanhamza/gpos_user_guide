@@ -25,3 +25,30 @@
   font-size: 0.92em;
   white-space: nowrap;
 }
+
+/* Header: the logo already says "GPOS", so only "User Guide" is written next to it. */
+.site-title img {
+  height: 2.25rem;
+  width: auto;
+}
+.site-title::after {
+  content: 'User Guide';
+  font-size: var(--sl-text-h4);
+  font-weight: 600;
+  color: var(--sl-color-text-accent);
+}
+:root[lang='si'] .site-title::after { content: 'පරිශීලක මාර්ගෝපදේශය'; }
+:root[lang='ta'] .site-title::after { content: 'பயனர் வழிகாட்டி'; }
+@media (max-width: 30rem) {
+  .site-title::after { display: none; }
+}
+
+/* Home-page logo: keep its natural (wide) shape. */
+.hero .hero-html {
+  display: flex;
+  justify-content: center;
+}
+.gpos-hero {
+  width: 100%;
+  height: auto;
+}

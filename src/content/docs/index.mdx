@@ -4,9 +4,9 @@ description: Everything your business needs to run GPOS — from your first sign
 template: splash
 hero:
   image:
-    light: ../../assets/gpos-hero-light.png
-    dark: ../../assets/gpos-hero-dark.png
-    alt: GPOS
+    html: |
+      <img class="gpos-hero light:sl-hidden" src="gpos-hero-dark.webp" alt="GPOS" width="900" height="292" />
+      <img class="gpos-hero dark:sl-hidden" src="gpos-hero-light.webp" alt="GPOS" width="900" height="292" />
   tagline: Set up your shop, sell at the counter (even offline) and keep an eye on stock and cash — step by step.
   actions:
     - text: Quick start
@@ -30,7 +30,7 @@ import { Aside, Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
 <Aside type="caution" title="Features depend on your plan">
 GPOS comes in different plans — for example **Basic**, **Standard** or **Custom**. Some features in
 this guide (such as inventory, purchasing, customers, several branches or expiry tracking) may not
-be in your plan, Check the **Plan** card on
+be in your plan. Check the **Plan** card on
 your dashboard and see [Plans and features](/getting-started/plans/).
 </Aside>
 

@@ -22,12 +22,18 @@ export default defineConfig({
   },
   integrations: [
     starlight({
-      title: 'GPOS User Guide',
+      // Browser tabs and search results; the header shows the logo plus "User Guide" (custom.css).
+      title: {
+        en: 'GPOS User Guide',
+        si: 'GPOS පරිශීලක මාර්ගෝපදේශය',
+        ta: 'GPOS பயனர் வழிகாட்டி',
+      },
       description: 'Step-by-step help for businesses using GPOS: back office, till and reports.',
       logo: {
         light: './src/assets/gpos-logo-light.png',
         dark: './src/assets/gpos-logo-dark.png',
         alt: 'GPOS',
+        replacesTitle: true,
       },
       favicon: '/favicon-32.png',
       head: [
