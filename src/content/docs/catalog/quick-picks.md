@@ -16,7 +16,9 @@ set of up to **40** buttons.
 ## Set up the buttons
 
 1. Go to **Branches** and select <span class="ui">Quick-pick buttons</span> on the branch.
-2. **Search products** on the right and add them.
+2. **Search products** on the right and add them. A product with **one** variant is added at
+   once; for a product with several (sizes, colours…) GPOS asks **Which …?** — pick the variant,
+   or select <span class="ui">Back</span>. Each button is one variant.
 3. Use <span class="ui">Move up</span> / <span class="ui">Move down</span> to put the most used
    items first, and <span class="ui">Remove</span> to take one off.
 4. Save.

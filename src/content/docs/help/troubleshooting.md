@@ -18,6 +18,16 @@ if needed.
 **"This link is invalid, was already used or has expired"**
 Password reset links work once and for 30 minutes. Ask for a new one.
 
+**"The robot check failed; please try again"**
+The sign-in, password and application pages may ask you to prove you are not a robot. Wait for the
+check to finish (or tick it), then try again. Turn off VPNs or ad blockers if it keeps failing.
+
+**The link to choose my password (after approval) has expired**
+It is valid for 7 days. Contact GPOS Support for a new one.
+
+**"We are not taking new applications online at the moment"**
+Online applications are closed for now. Contact GPOS Support to register your business.
+
 **"The code is not correct"** (two-step sign-in)
 Use the current code from the authenticator app and check that the phone's date and time are set
 automatically. You can also use a recovery code. See [Two-step sign-in](/getting-started/two-step-sign-in/).

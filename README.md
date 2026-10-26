@@ -68,6 +68,7 @@ node scripts/brand-assets.mjs
 | Cash shifts on the till | ✓ | ✓ |
 | Plans and features | ✓ | ✓ |
 | Two-step sign-in | ✓ | ✓ |
+| Apply for GPOS | ✓ | ✓ |
 
 All other pages fall back to English. Sinhala and Tamil text should be reviewed by a native
 speaker before publishing widely.

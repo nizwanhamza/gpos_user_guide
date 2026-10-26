@@ -22,7 +22,7 @@ Cashiers usually do **not** need to sign in to the back office. They unlock the 
      the same code.
    - **Email** — your own e-mail address.
    - **Password** — your own password.
-3. Select <span class="ui">Sign in</span>.
+3. Complete the **robot check** if one is shown, then select <span class="ui">Sign in</span>.
 4. If **two-step sign-in** is on for you, enter the 6-digit **Code** from your authenticator app
    (or a recovery code) and select <span class="ui">Continue</span>. See
    [Two-step sign-in](/getting-started/two-step-sign-in/).
@@ -30,7 +30,16 @@ Cashiers usually do **not** need to sign in to the back office. They unlock the 
 If you see **Incorrect business code, email or password**, check all three — the business code is
 the most common mistake.
 
+Not a GPOS customer yet? The sign-in page also has **New business? Apply for an account** and
+**Check my application** — see [Apply for GPOS](/getting-started/apply/).
+
 ## Your first sign-in
+
+:::note[Applied online?]
+You do not get a temporary password. Open the link in the approval e-mail to choose your password
+first, then sign in.
+:::
+
 
 When an administrator creates your account (or resets your password) you get a **temporary
 password**. At the first sign-in GPOS asks you to **set a new password**:

@@ -7,6 +7,7 @@ sidebar:
 
 | Word | Meaning |
 |------|---------|
+| **Application** | A request to open a GPOS account for your business, made at app.gpos.lk/register and reviewed by GPOS. |
 | **Back office** | The GPOS web admin for owners and managers. |
 | **Business code** | The short code of your business, used with your e-mail to sign in. |
 | **Branch** | A shop or outlet. |
@@ -44,4 +45,5 @@ sidebar:
 | **Return** | Giving back some or all items of a sale, with a refund. |
 | **Sync** | The till sending its work to the back office and receiving updates. |
 | **Sync issue** | Something from a till the back office could not accept as recorded; an administrator decides. |
+| **Robot check** | A quick check on public pages (sign-in, passwords, applications) that you are a person, not a bot. |
 | **Support session** | Your service provider helping you inside your account; always shown and recorded. |
