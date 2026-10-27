@@ -14,15 +14,18 @@ automatically.
 
 ## Find a customer
 
-1. Select <span class="ui">+ Customer (F3)</span>.
+1. Select <span class="ui">Customer</span> (**F3**). If you go to pay without one, the till also
+   asks **Customer for this sale?** — <span class="ui">Add customer</span> or
+   <span class="ui">Skip — pay now</span>.
 2. Type their **Phone number or name**.
-3. Select them. The sale shows the customer and, if they have one, *… % customer discount*.
+3. Select them (or use **↑ ↓** and **Enter**). The sale shows the customer and, if they have one, *… % customer discount*.
 
 To take them off, select <span class="ui">Remove the customer</span>.
 
 ## Add a new customer
 
-1. In the customer search, select <span class="ui">New customer</span>.
+1. In the customer search, select <span class="ui">New customer</span> — or, when nobody is found,
+   **Add "…" as a new customer** (**Enter**) to start with the number or name you typed.
 2. Enter the **Name** and **Mobile phone** (one customer per number).
 3. **May we send offers?** — ask the customer and tick only what they agree to: *SMS*,
    *WhatsApp*, *Email*.

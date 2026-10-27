@@ -10,8 +10,8 @@ Your plan can limit the number of **products** (archived products do not count).
 tracking is a separate plan feature. See [Plans and features](/getting-started/plans/).
 :::
 
-**Products** lists everything you sell. Search by **name, SKU or barcode**, and filter by
-**Category**, **Brand** or status.
+**Products** lists everything you sell. Search by **name, SKU or barcode**, filter by
+**Category**, **Brand**, status or **Added at till**, and sort by a column.
 
 ## Key ideas
 
@@ -97,6 +97,13 @@ lists, but **keeps its history, barcodes and prices**. Archived products are rea
 To bring it back, filter the list to archived products, open it and select
 <span class="ui">Restore</span>. It comes back **inactive**, so you can check it before selling
 again.
+
+## Products added at the till
+
+If your plan includes it, cashiers can [add a product at the till](/till/add-product-at-till/)
+when a barcode is not found. These products are sold by the piece without stock tracking and are
+marked **Added at till**. Filter the list by **Added at till**, open each one, check the name and
+price, and add the category, other names and stock tracking.
 
 ## Many products at once
 

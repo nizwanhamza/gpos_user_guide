@@ -11,7 +11,7 @@ This page is part of the **POS checkout, cash shifts and POS devices** feature. 
 
 A customer forgot something? **Hold** their sale and serve the next person.
 
-1. Select <span class="ui">Hold (F6)</span>. The sale is put aside and the screen is cleared.
+1. Select <span class="ui">Hold</span> (**F6**). The sale is put aside and the screen is cleared.
 2. Serve other customers as usual.
 3. Select <span class="ui">Held (n)</span> (or press **F7**) to see **Held sales**.
 4. Select <span class="ui">Resume</span> to bring the sale back — or <span class="ui">Discard</span>

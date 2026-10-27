@@ -11,7 +11,11 @@ This page is part of the **POS checkout, cash shifts and POS devices** feature. 
 
 A **shift** is one period of selling on one till — usually one cashier's day or half-day. Every
 sale and cash movement belongs to the shift until it is closed. Press **F10** or select the shift
-label (*Shift 12*) at the top to manage it.
+name at the top to manage it.
+
+Each shift is named after **who opened it and when**, for example
+`Shift-Chamari-20261027-8.00am`. The same name is used on the till, in the back office and in
+reports.
 
 ## Open a shift
 
@@ -39,7 +43,7 @@ By default **every** cash out needs one.
 
 ## X report (during the shift)
 
-Select <span class="ui">X report</span> for a snapshot of the shift so far: sales, tax, cash sales,
+Select <span class="ui">X report</span> (print it on the receipt printer or on **A4**) for a snapshot of the shift so far: sales, tax, cash sales,
 cash in and out, refunds and the **expected cash**. Select <span class="ui">Print</span> to print
 it. The shift stays open.
 

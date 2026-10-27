@@ -23,6 +23,12 @@ need internet to set up a till and to receive price changes. See [Offline and sy
 Any computer, laptop or tablet — Windows, Android or iPad — that runs **Chrome or Edge**. A barcode scanner, receipt printer
 (58 or 80 mm) and cash drawer are optional.
 
+### A customer brings an item we have never sold. Can we still sell it?
+
+Yes, if your plan includes **Add new products at the till**: scan it, select **Add as a new
+product**, enter the name, price and tax, and sell. Cashiers need a manager's PIN. Complete the
+product later in the back office. See [Add a product at the till](/till/add-product-at-till/).
+
 ### Can I use several tills in one shop?
 
 Yes. Add a **register** for each counter in **Branches** and pair one till to each. Your plan

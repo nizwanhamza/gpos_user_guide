@@ -63,5 +63,6 @@ Check that the request really comes from the customer before you export or erase
 Consent is recorded **per channel** and is **no by default**. Every change is kept with the date
 and who recorded it, so you can show when a customer agreed or withdrew.
 
-Search by **name or phone** and filter by **Status**. The *Sales by customer* report lists your
+Search by **name or phone**, filter by **Status** or **With a discount / Without a discount**, and
+sort by a column. The *Sales by customer* report lists your
 top customers by spend and visits.

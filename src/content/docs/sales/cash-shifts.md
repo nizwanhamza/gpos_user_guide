@@ -15,7 +15,8 @@ it received and shows the **difference**.
 
 ## Shifts tab
 
-Filter by **Branch** and **Status**. Each row shows the shift, **Branch · till**, **Opened**, number of
+Shifts are named after who opened them and when, for example `Shift-Chamari-20261027-8.00am`.
+**Search** by cashier or till, and filter by **Branch** and **Status**. Each row shows the shift, **Branch · till**, **Opened**, number of
 **Sales**, **Expected cash**, **Counted** and **Difference**.
 
 ### Shift statuses

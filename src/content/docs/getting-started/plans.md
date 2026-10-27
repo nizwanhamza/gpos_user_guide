@@ -26,6 +26,7 @@ cannot find something described here, it is probably not part of your plan.
 | **Customer profiles and customer discounts** | Customers in the back office and at the till, including PDPA export and erase | [Customers](/sales/customers/) |
 | **More than one active branch** | Running several shops | [Branches](/business/branches/) |
 | **Batch/lot and expiry tracking** | Batch numbers and expiry dates | [Batches and expiry](/inventory/batches-expiry/) |
+| **Add new products at the till** | Adding an unknown barcode as a product from the till | [Add a product at the till](/till/add-product-at-till/) |
 
 Pages about these features carry a **Depends on your plan** note.
 

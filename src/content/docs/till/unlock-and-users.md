@@ -30,7 +30,7 @@ time. The till shows how long to wait.
 
 ## Lock and change user
 
-- Select <span class="ui">Lock</span> when you leave the counter. The till asks for a PIN again.
+- Select <span class="ui">Lock</span> (or press **F12**) when you leave the counter. The till asks for a PIN again.
 - Select <span class="ui">Change user</span> to hand over to a colleague — the till goes back to
   *Who is using the till?*. A colleague can also choose <span class="ui">Someone else</span> on the
   lock screen.

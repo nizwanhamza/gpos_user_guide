@@ -22,6 +22,18 @@ The **Dashboard** is the first page after you sign in.
 
 What appears depends on your permissions. A cashier, for example, does not see sales figures.
 
+## Working with lists
+
+Every list in the back office — sales, shifts, products, customers, stock movements, purchase
+orders, suppliers, transfers, employees, POS devices, the audit log and more — works the same way:
+
+- **Search** box at the top (each list says what you can search, e.g. *Search receipt, customer
+  or cashier*);
+- **filters** such as branch, status or **From / To** dates;
+- select a **column heading** to sort by it;
+- the count shows how many are shown, e.g. *25 of 1,240*; select <span class="ui">Load more</span>
+  for the next ones.
+
 ## The setup checklist
 
 New businesses see a card called **Get your business ready** at the top of the dashboard. It shows

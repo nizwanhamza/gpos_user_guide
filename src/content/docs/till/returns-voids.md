@@ -20,7 +20,8 @@ Both need an **open shift** (refunds come out of its drawer) and, unless your ro
 
 ## Find the sale
 
-1. Select <span class="ui">Sales (F9)</span> to open **Sales on this till**.
+1. Select <span class="ui">Sales</span> (**F9**) to open **Sales on this till**. Here you can also
+   reprint a receipt or <span class="ui">Print A4</span> a full-page invoice.
 2. **Search receipt number**, or pick the sale from the list.
 3. Sale from **another till**? Type the receipt number and select
    <span class="ui">Find … (another till)</span> — this needs internet.

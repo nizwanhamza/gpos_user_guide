@@ -7,6 +7,7 @@ sidebar:
 
 | Word | Meaning |
 |------|---------|
+| **Added at till** | A product a cashier added at the till for an unknown barcode; complete its details in Products. |
 | **Application** | A request to open a GPOS account for your business, made at app.gpos.lk/register and reviewed by GPOS. |
 | **Back office** | The GPOS web admin for owners and managers. |
 | **Business code** | The short code of your business, used with your e-mail to sign in. |
@@ -14,7 +15,7 @@ sidebar:
 | **Register** | A checkout counter in a branch. Each has one till. |
 | **Till** | The device and screen used to sell, paired to a register. Also called POS. |
 | **Store / warehouse** | A place where stock is kept. Every branch has a default one. |
-| **Shift** | A period of selling on one till, from opening (with a float) to closing (with a count). |
+| **Shift** | A period of selling on one till, from opening (with a float) to closing (with a count). Named after who opened it and when, e.g. `Shift-Chamari-20261027-8.00am`. |
 | **Float** | The cash in the drawer when a shift opens, for giving change. |
 | **Cash in / cash out** | Money put in or taken out of the drawer that is not a sale or refund. |
 | **Blind close** | Counting the drawer before seeing the expected amount. |
@@ -40,6 +41,7 @@ sidebar:
 | **Reorder level** | The quantity at which an item counts as low stock. |
 | **Average cost** | The running average purchase cost of an item in a store. |
 | **PO** | Purchase order (numbered `PO-…`). |
+| **Go Green** | Finishing a sale without printing a receipt. |
 | **GRN** | Goods received note — a booked delivery (numbered `GRN-…`). |
 | **Void** | Cancelling a whole sale in the same shift. |
 | **Return** | Giving back some or all items of a sale, with a refund. |

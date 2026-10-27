@@ -11,7 +11,8 @@ This page is part of the **POS checkout, cash shifts and POS devices** feature. 
 
 ## Give a discount
 
-- **On one line:** select <span class="ui">Discount on this line</span> on the line.
+- **On one line:** select <span class="ui">Edit</span> on the line (**F1** for the last item) and
+  then <span class="ui">Add a discount</span>.
 - **On the whole sale:** select <span class="ui">Discount on the whole sale</span> (or press **F8**).
 
 Then:

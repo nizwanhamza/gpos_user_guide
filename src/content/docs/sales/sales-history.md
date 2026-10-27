@@ -15,7 +15,7 @@ Sales made offline appear once the till has synced.
 ## The list
 
 Each row shows the **Receipt** number, **Time**, **Branch · till**, **Cashier**, **Total** and status
-(*Voided*, *Returned*, *Partly returned*). Use **Show** to filter: *All sales*, *Voided*,
+(*Voided*, *Returned*, *Partly returned*). **Search** by receipt, customer or cashier, filter by **Branch** and dates, and use **Show** to filter: *All sales*, *Voided*,
 *Returned*, *Partly returned* or *Flagged for review*.
 
 ## Receipt numbers

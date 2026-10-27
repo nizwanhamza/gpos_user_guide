@@ -13,6 +13,9 @@ accountants by default).
 When a customer is [erased](/sales/customers/#erase-a-customer), their personal details are
 cleared from the audit log too; the record of *what* happened and *who* did it stays.
 
+**Search** by action, record or id, and filter by who acted — *Business user*, *Platform user*
+(your service provider), *System* or *Anonymous* — and by date.
+
 Each record shows the **Time**, the **Action**, the **Actor** (who did it), the **Record** it
 affected, the **IP** address and **Details**. Records cannot be changed or deleted.
 

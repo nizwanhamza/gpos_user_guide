@@ -35,6 +35,7 @@ Every business gets these roles. They are marked **system** and cannot be edited
 | Roles | Create and update roles | Build custom roles. |
 | Products | View products and catalogue | See products. |
 | Products | Create products · Update products · Archive products | Manage the catalog. |
+| Products | Add a new product at the till when a barcode is not found | Owner, Administrator and Manager by default; others need a manager's PIN. Plan feature. |
 | Prices | Change selling prices | Set and schedule prices. |
 | Inventory | View inventory | See stock levels and movements. |
 | Inventory | Post inventory adjustments | Opening stock, adjustments, write-offs, stock counts. |
