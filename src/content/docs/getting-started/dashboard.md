@@ -16,8 +16,9 @@ The **Dashboard** is the first page after you sign in.
 - **Business** — your business name, **Business code**, currency, time zone, contact and the date
   you joined.
 - **Your access** — the roles and permissions you have, and for which branches.
-- **Plan** — your plan's name, every feature marked ✓ (included) or ✕ (not included), and its
-  limits: active branches, registers, employees and products. *To change your plan, contact your
+- **Plan** — your plan's name, every feature your plan includes (marked ✓), and its
+  limits: active branches, registers, employees, products, and — when they are in your plan —
+  warehouses and customer profiles. *To change your plan, contact your
   service provider.* See [Plans and features](/getting-started/plans/).
 
 What appears depends on your permissions. A cashier, for example, does not see sales figures.

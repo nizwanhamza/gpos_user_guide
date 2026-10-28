@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This page is part of the **Suppliers, purchase orders and goods receiving** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+**Purchase orders** is a plan feature (it needs **Suppliers and goods received**). Without it, the **Purchase orders** tab does not appear — you can still receive goods without an order. See [Plans and features](/getting-started/plans/).
 :::
 
 A **purchase order (PO)** is what you order from a supplier. Using POs is optional — you can also

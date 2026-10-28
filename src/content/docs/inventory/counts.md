@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This page is part of the **Stock ledger, counts, adjustments and transfers** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+**Stock counts** is a plan feature (it needs **Stock control**). Without it, the **Counts** tab does not appear. See [Plans and features](/getting-started/plans/).
 :::
 
 A **stock count** compares what is on the shelves with what GPOS expects, then posts the

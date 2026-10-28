@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+**Quick buttons** is a plan feature (it needs **Selling at the counter (POS)**). Without it, you cannot set quick picks on a branch and the till shows none. See [Plans and features](/getting-started/plans/).
 :::
 
 **Quick-pick buttons** are product buttons on the till's main screen — ideal for items **without

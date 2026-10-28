@@ -5,6 +5,11 @@ sidebar:
   order: 2
 ---
 
+:::note[Depends on your plan]
+The **Audit log** screen is the plan feature **Activity history (audit log)**. Important actions
+are recorded in every plan. See [Plans and features](/getting-started/plans/).
+:::
+
 The **Audit log** records important actions in your business: sign-ins, changes to employees,
 roles, settings, prices and stock, device pairing, approvals, setup checklist steps and more. You
 need the *View the business audit log* permission (owners, administrators, managers and

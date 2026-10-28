@@ -6,8 +6,9 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-Having **more than one active branch** is a plan feature, and your plan can limit the number of
-**active branches** and **registers**. The dashboard shows your limits. See
+**More than one branch** and **Warehouses** are plan features, and your plan can limit the
+number of **active branches**, **registers** and **warehouses** (a branch's own store does not
+count as a warehouse). Without **Warehouses**, you cannot add stores beyond each branch's own. The dashboard shows your limits. See
 [Plans and features](/getting-started/plans/).
 :::
 

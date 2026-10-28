@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+This page is part of the **Selling at the counter (POS), cash shifts and tills** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
 :::
 
 Find **Payment methods** in **Settings**. They are the buttons cashiers see when a customer pays.

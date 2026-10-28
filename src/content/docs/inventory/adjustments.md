@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This page is part of the **Stock ledger, counts, adjustments and transfers** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+This page is part of the **Stock control** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
 :::
 
 Use **Inventory → Adjust / write off** to record a correction or a loss with a reason. Every

@@ -76,8 +76,8 @@ Export the catalog from **Products → Import / export**, and any report with
 
 Features depend on your plan — for example **Basic**, **Standard** or **Custom**. If a menu item
 such as **Inventory**, **Purchasing** or **Customers** is missing, it is most likely not in your
-plan (or your role does not allow it). Check the **Plan** card on the dashboard: ✓ means included,
-✕ means not included. See [Plans and features](/getting-started/plans/).
+plan (or your role does not allow it). Check the **Plan** card on the dashboard: it lists, with ✓, every
+feature your plan includes. See [Plans and features](/getting-started/plans/).
 
 ### How do I change my plan?
 

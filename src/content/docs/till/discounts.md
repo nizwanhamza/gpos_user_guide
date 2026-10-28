@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+**Discounts at the till** is a plan feature. Without it, the till has no <span class="ui">Discount</span> button (F7) and no discount in **Edit** (F1). A customer's own discount is the separate feature **Customer discounts**. See [Plans and features](/getting-started/plans/).
 :::
 
 ## Give a discount

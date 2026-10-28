@@ -6,8 +6,10 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-Your plan can limit the number of **products** (archived products do not count). Batch and expiry
-tracking is a separate plan feature. See [Plans and features](/getting-started/plans/).
+Your plan can limit the number of **products** (archived products do not count). **Sizes and
+colours (variants)**, **Product photos**, **Sell by weight**, **Different branch prices** and
+**Batches and expiry dates** are separate plan features — without one, its option does not appear
+on the product page. See [Plans and features](/getting-started/plans/).
 :::
 
 **Products** lists everything you sell. Search by **name, SKU or barcode**, filter by

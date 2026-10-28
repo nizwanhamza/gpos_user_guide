@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+Cash shifts are part of **Selling at the counter (POS)**. **Cash in / cash out** is a separate plan feature: without it, those buttons do not appear in the shift window. See [Plans and features](/getting-started/plans/).
 :::
 
 A **shift** is one period of selling on one till — usually one cashier's day or half-day. Every

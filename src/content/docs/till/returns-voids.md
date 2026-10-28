@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+**Returns** and **Voids** are two separate plan features. Without one, its button does not appear in **Sales** (F9) on the till. See [Plans and features](/getting-started/plans/).
 :::
 
 | | **Void** | **Return** |

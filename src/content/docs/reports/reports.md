@@ -6,8 +6,11 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-You see the reports for the features in your plan — for example, stock reports need the inventory
-feature and purchasing reports need purchasing. See [Plans and features](/getting-started/plans/).
+You see the reports for the features in your plan — for example, stock reports need **Stock
+control** and purchasing reports need purchasing. Also by plan: **Sales analysis reports** (sales by
+hour, product, category, brand, cashier, branch and till), **Profit and margin in reports** (cost,
+margin and stock value — hidden from everyone, owners included, when not in the plan) and
+**Download reports to Excel** (the CSV export button). See [Plans and features](/getting-started/plans/).
 :::
 
 **Reports** groups its reports into **Sales**, **Money**, **Stock** and **Purchasing**. You need

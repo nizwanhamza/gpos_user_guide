@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+**Hold a bill** is a plan feature. Without it, the till has no <span class="ui">Hold</span> (F6) or **Held** button. See [Plans and features](/getting-started/plans/).
 :::
 
 A customer forgot something? **Hold** their sale and serve the next person.

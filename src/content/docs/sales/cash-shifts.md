@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+This page is part of the **Selling at the counter (POS), cash shifts and tills** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
 :::
 
 **Cash shifts** shows every shift from your tills. Each till opens a shift with a float and closes
@@ -35,7 +35,8 @@ Select a shift to see who opened and closed it, the **Opening float**, sales per
 and coins**, every cash movement with who did it and *approved by …*, and the list of sales.
 
 Cash movements can be flagged: **No approval**, **Approver not allowed**, **After the shift
-closed**, **Reason switched off** or **Reason not for this**.
+closed**, **Reason switched off**, **Reason not for this** or **Cash in/out (not in plan)** (made on a
+till that had not yet received a plan change).
 
 ## Close a shift without a count
 

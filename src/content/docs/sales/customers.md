@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This page is part of the **Customer profiles and customer discounts** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+This page is part of the **Customer list** feature; **Customer discounts** is a separate feature. Your plan can also limit the number of **customer profiles** (erased customers do not count). See [Plans and features](/getting-started/plans/).
 :::
 
 **Customers** holds your customer profiles. Tills find customers by **phone or name**, can add new

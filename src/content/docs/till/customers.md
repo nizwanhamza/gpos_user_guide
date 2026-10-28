@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This page is part of the **POS checkout, cash shifts and POS devices** and **Customer profiles and customer discounts** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+Customers at the till need the **Customer list** feature. Without **Customer discounts**, a customer's discount is not shown or applied. See [Plans and features](/getting-started/plans/).
 :::
 
 Attach a customer to a sale to keep their purchase history and apply their **customer discount**

@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+**Card, QR and bank payments** and **Split payment** are plan features. Without the first, the till offers **cash only**; without the second, each sale is paid with **one** payment. See [Plans and features](/getting-started/plans/).
 :::
 
 Select <span class="ui">Pay</span> (**F4**) and choose a **Payment method**. The methods are set

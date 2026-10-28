@@ -5,6 +5,11 @@ sidebar:
   order: 4
 ---
 
+:::note[Depends on your plan]
+The ready-made roles are in every plan. Creating and changing **your own roles** is the plan
+feature **Your own roles**. See [Plans and features](/getting-started/plans/).
+:::
+
 A **role** is a set of **permissions**. You give employees roles in [Employees](/business/employees/),
 for one branch, one register or the whole business.
 

@@ -5,6 +5,11 @@ sidebar:
   order: 4
 ---
 
+:::note[Depends on your plan]
+**Excel / CSV upload and download** is a plan feature. Without it, **Products** has no
+<span class="ui">Import / export</span> button. See [Plans and features](/getting-started/plans/).
+:::
+
 Go to **Products** → <span class="ui">Import / export</span>.
 
 ## Import from a spreadsheet

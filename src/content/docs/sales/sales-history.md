@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This page is part of the **POS checkout, cash shifts and POS devices** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+This page is part of the **Selling at the counter (POS), cash shifts and tills** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
 :::
 
 **Sales** lists the sales made on your tills as they arrive in the back office — newest first.
@@ -57,3 +57,4 @@ GPOS never rejects a sale the till made — but it flags anything unusual for yo
 | **After shift closed** | The sale arrived for a shift that was already closed. | Check the shift's count. |
 | **Method switched off** | A payment method was used after it was switched off. | Usually a till that had not synced yet. |
 | **No reference** | A payment that needs a reference had none. | Check against the bank terminal. |
+| **… (not in plan)** | The till used a feature that is not in your plan: *Sold by weight*, *Split payment*, *Card/QR/bank payment*, *Discount* or *Customer discount*. It happens when a till worked offline and had not yet received a plan change. | Let the till go online so it picks up your plan. |

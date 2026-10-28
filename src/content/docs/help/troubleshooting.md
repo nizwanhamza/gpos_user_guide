@@ -58,7 +58,7 @@ change your plan. Disabled employees and inactive branches do not count. See
 
 **A menu item described in this guide is missing**
 Either the feature is not in your plan, or your role does not include it. Check the **Plan** card
-on the dashboard (✓ / ✕) and ask your owner about your role.
+on the dashboard (it lists the features you have) and ask your owner about your role.
 
 ## Pairing a till
 
