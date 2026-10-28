@@ -1,84 +1,96 @@
 ---
-title: පුරනය වීම
-description: GPOS පසුපස කාර්යාලයට පුරනය වන ආකාරය, පළමු මුරපදය වෙනස් කිරීම සහ අමතක වූ මුරපදයක් යළි සැකසීම.
+title: Sign in වීම
+description: GPOS back office එකට sign in වෙන විදිහ, පළමු password එක වෙනස් කරන විදිහ සහ අමතක වූ password එකක් reset කරන විදිහ.
 sidebar:
   order: 1
 ---
 
-**පසුපස කාර්යාලය** (back office) ඔබේ ව්‍යාපාරයේ වෙබ් පරිපාලනයයි. හිමිකරුවන්, කළමනාකරුවන්, ගබඩා
-කාර්ය මණ්ඩලය සහ ගණකාධිකාරීන් නවීන බ්‍රවුසරයක් (Chrome, Edge, Firefox හෝ Safari) සහිත ඕනෑම
-පරිගණකයකින් එය භාවිතා කරයි.
+**Back office** එක ඔබේ business එකේ web admin එකයි. Owners, managers, inventory staff සහ accountants
+අලුත් browser එකක් (Chrome, Edge, Firefox හෝ Safari) තියෙන ඕනෑම computer එකකින් එය භාවිතා කරනවා.
 
-:::note[පසුපස කාර්යාලයද, ටිල් එකද?]
-අයකැමිවරුන්ට සාමාන්‍යයෙන් පසුපස කාර්යාලයට පුරනය වීමට අවශ්‍ය **නැත**. ඔවුන් ඉලක්කම් 6ක **POS PIN**
-එකකින් ටිල් එක අගුළු හරියි — [ටිල් එක අගුළු හැරීම](/si/till/unlock-and-users/) බලන්න.
+:::note[Back office ද till ද?]
+Cashiers ට සාමාන්‍යයෙන් back office එකට sign in වෙන්න ඕන **නැහැ**. ඔවුන් ඉලක්කම් 6ක **POS PIN** එකකින්
+till එක unlock කරනවා — [Unlocking the till](/si/till/unlock-and-users/) බලන්න.
 :::
 
-## පුරනය වන්න
+## Sign in වෙන්න
 
-1. ඔබේ බ්‍රවුසරයේ **[app.gpos.lk](https://app.gpos.lk)** විවෘත කරන්න.
+1. Browser එකේ **[app.gpos.lk](https://app.gpos.lk)** open කරන්න.
 2. පුරවන්න:
-   - **ව්‍යාපාර කේතය** — ඔබේ ව්‍යාපාරයේ කෙටි කේතය, උදා. `kandy-mart`. එය උපකරණ පුවරුවේ සහ මෙනුවේ
-     ඔබේ ව්‍යාපාර නම යටතේ පෙන්වයි. ව්‍යාපාරයේ සියලුම සේවකයින් එකම කේතය භාවිතා කරයි.
-   - **ඊමේල්** — ඔබේම ඊමේල් ලිපිනය.
-   - **මුරපදය** — ඔබේම මුරපදය.
-3. පෙන්වන්නේ නම් **රොබෝ පරීක්ෂාව** සම්පූර්ණ කර, <span class="ui">පුරනය වන්න</span> තෝරන්න.
-4. ඔබට **පියවර දෙකේ පිවිසුම** සක්‍රිය නම්, ඔබේ සත්‍යාපන යෙදුමේ ඉලක්කම් 6 **කේතය** (හෝ ප්‍රතිසාධන කේතයක්)
-   ඇතුළත් කර <span class="ui">ඉදිරියට</span> තෝරන්න. [පියවර දෙකේ පිවිසුම](/si/getting-started/two-step-sign-in/) බලන්න.
+   - **Business code** — ඔබේ business එකේ කෙටි code එක, උදා. `kandy-mart`. එය dashboard එකේ සහ menu එකේ
+     business නම යට පෙන්නනවා. Business එකේ හැම employee කෙනෙක්ම එකම code එක භාවිතා කරනවා.
+   - **Email** — ඔබේම email address එක.
+   - **Password** — ඔබේම password එක.
+3. **Robot check** එකක් පෙන්නුවොත් එය complete කර <span class="ui">Sign in</span> තෝරන්න.
+4. ඔබට **two-step sign-in** on කරලා නම්, authenticator app එකේ ඉලක්කම් 6ක **Code** එක (හෝ recovery code
+   එකක්) type කර <span class="ui">Continue</span> තෝරන්න. [Two-step sign-in](/si/getting-started/two-step-sign-in/) බලන්න.
 
-*වැරදි ව්‍යාපාර කේතයක්, ඊමේල් හෝ මුරපදයක්* (Incorrect business code, email or password) ලෙස පෙන්වන්නේ නම්,
-තුනම පරීක්ෂා කරන්න — වැඩිපුරම සිදුවන වැරැද්ද ව්‍යාපාර කේතයයි.
+**Incorrect business code, email or password** පෙන්නුවොත් තුනම check කරන්න — වැඩිපුරම වැරදෙන්නේ business code එක.
 
-## ඔබේ පළමු පුරනය වීම
+තවම GPOS customer කෙනෙක් නෙවෙයිද? Sign-in page එකේ **New business? Apply for an account** සහ **Check my
+application** තියෙනවා — [GPOS සඳහා apply කරන්න](/si/getting-started/apply/) බලන්න.
 
-පරිපාලකයෙකු ඔබේ ගිණුම සාදන විට (හෝ ඔබේ මුරපදය යළි සකසන විට) ඔබට **තාවකාලික මුරපදයක්** ලැබේ.
-පළමු පුරනය වීමේදී GPOS ඔබෙන් **නව මුරපදයක් සැකසීමට** ඉල්ලයි:
+## පළමු sign in එක
 
-1. **තාවකාලික මුරපදය** ඇතුළත් කරන්න.
-2. **නව මුරපදය** ඇතුළත් කරන්න — අවම අක්ෂර **12**. `blue-tea-at-four-pm` වැනි මතක තබා ගත හැකි
-   වාක්‍ය ඛණ්ඩයක් හොඳින් ක්‍රියා කරයි.
-3. එය **නව මුරපදය තහවුරු කරන්න** තුළ නැවත ඇතුළත් කර <span class="ui">මුරපදය වෙනස් කරන්න</span> තෝරන්න.
-
-මෙය කරන තෙක් ඔබට පසුපස කාර්යාලය භාවිතා කළ නොහැක. අවශ්‍ය නම් <span class="ui">ඒ වෙනුවට ඉවත් වන්න</span> තෝරන්න.
-
-## පුරනය වූ පසු ඔබට පෙනිය හැකි තිර
-
-### සේවා නියමයන් (හිමිකරුවන්)
-
-පළමු පුරනය වීමේදී සහ නව අනුවාදයක් පළ වන සෑම විටම **හිමිකරුගෙන්** **සේවා නියමයන්**, **රහස්‍යතා ප්‍රතිපත්තිය**
-සහ **දත්ත සැකසීමේ නියමයන්** පිළිගැනීමට ඉල්ලනු ලැබේ.
-
-1. සෑම ලේඛනයක්ම විවෘත කර කියවන්න.
-2. **ව්‍යාපාරය වෙනුවෙන් මම මෙම ලේඛන කියවා පිළිගනිමි** සලකුණු කරන්න.
-3. <span class="ui">පිළිගෙන ඉදිරියට යන්න</span> තෝරන්න.
-
-හිමිකරු පිළිගන්නා තෙක් හිමිකරුට පසුපස කාර්යාලය භාවිතා කළ නොහැක. අනෙකුත් සේවකයින්ගෙන් නොඅසන අතර
-ඔවුන්ට දිගටම වැඩ කළ හැක; ටිල් දිගටම විකුණයි.
-
-### පියවර දෙකේ පිවිසුම සකසන්න
-
-ඔබේ ගිණුමට පියවර දෙකේ පිවිසුම **අනිවාර්ය** නම් සහ ඔබ තවම එය සකසා නැත්නම්, GPOS වෙන කිසිවකට පෙර
-**පියවර දෙකේ පිවිසුම සකසන්න** තිරය පෙන්වයි — [පියවර දෙකේ පිවිසුම](/si/getting-started/two-step-sign-in/) බලන්න.
-
-## මුරපදය අමතකද?
-
-1. පුරනය වීමේ පිටුවේ <span class="ui">මුරපදය අමතකද?</span> තෝරන්න.
-2. ඔබේ **ව්‍යාපාර කේතය** සහ **ඊමේල්** ඇතුළත් කර <span class="ui">සබැඳිය යවන්න</span> තෝරන්න.
-3. ඊමේල් පණිවිඩය විවෘත කර සබැඳිය අනුගමනය කරන්න (එය **මිනිත්තු 30ක්** වලංගු වන අතර එක් වරක් පමණක්
-   ක්‍රියා කරයි). එය නොලැබුණොත් ඔබේ spam ෆෝල්ඩරය පරීක්ෂා කරන්න.
-4. නව මුරපදයක් තෝරා <span class="ui">නව මුරපදය සුරකින්න</span> තෝරන්න.
-
-ඉන්පසු ඔබ සෑම තැනකින්ම ඉවත් කෙරෙන අතර නව මුරපදයෙන් නැවත පුරනය වන්න.
-
-:::tip[ඊමේල් ප්‍රවේශය නැද්ද?]
-ඔබේ හිමිකරුගෙන් හෝ පරිපාලකගෙන් **සේවකයින්** තුළ ඔබේ **මුරපදය යළි සකසන්න** ලෙස ඉල්ලන්න. ඔවුන්ට
-ඔබට දීමට තාවකාලික මුරපදයක් ලැබේ; පුරනය වීමේදී ඔබ ඔබේම මුරපදය තෝරා ගනී.
+:::note[Online apply කළාද?]
+ඔබට temporary password එකක් ලැබෙන්නේ නැහැ. මුලින්ම approval email එකේ link එක open කර password එක තෝරා
+ඊට පස්සේ sign in වෙන්න.
 :::
 
-## උත්සාහයන් වැඩියි
+Administrator කෙනෙක් ඔබේ account එක හැදුවාම (හෝ password එක reset කළාම) ඔබට **temporary password** එකක්
+ලැබෙනවා. පළමු sign in එකේදී GPOS **අලුත් password එකක් set කරන්න** කියලා අහනවා:
 
-පිළිවෙළින් වැරදි මුරපද කිහිපයකට පසු GPOS නැවත උත්සාහ කිරීමට පෙර **මිනිත්තුවක් රැඳී සිටින්න** ලෙස ඉල්ලයි.
+1. **Temporary password** එක type කරන්න.
+2. **New password** එකක් type කරන්න — අවම **අකුරු 12**. `blue-tea-at-four-pm` වගේ මතක තියාගන්න ලේසි
+   වාක්‍යයක් හොඳයි.
+3. එයම **Confirm new password** හි ආයෙත් type කර <span class="ui">Change password</span> තෝරන්න.
 
-## ඉවත් වීම
+මේක කරනකම් back office එක භාවිතා කරන්න බැහැ. කැමති නම් <span class="ui">Sign out instead</span> තෝරන්න.
 
-මෙනුවේ පහළින් ඇති <span class="ui">ඉවත් වන්න</span> තෝරන්න. බෙදාගත් පරිගණකවල සෑම විටම ඉවත් වන්න.
+## Sign in වුණාට පස්සේ පෙනෙන්න පුළුවන් screens
+
+### Terms of service (owners)
+
+පළමු sign in එකේදී සහ අලුත් version එකක් ආව හැම වෙලාවකම, **owner** ගෙන් **Terms of service**, **Privacy
+policy** සහ **Data processing terms** accept කරන්න කියලා අහනවා.
+
+1. හැම document එකක්ම open කර කියවන්න (links වල version එක පෙන්නනවා).
+2. **I have read and accept these documents on behalf of the business** tick කරන්න.
+3. <span class="ui">Accept and continue</span> තෝරන්න.
+
+Owner accept කරනකම් owner ට back office එක භාවිතා කරන්න බැහැ (*Accept the terms first*). අනිත් employees ගෙන්
+අහන්නේ නැහැ, ඔවුන්ට දිගටම වැඩ කරන්න පුළුවන්, tills දිගටම විකුණනවා.
+
+### Two-step sign-in setup කිරීම
+
+ඔබේ account එකට two-step sign-in **අනිවාර්ය** නම් සහ තවම setup කරලා නැත්නම්, GPOS හැම දේටම කලින් **Set up
+two-step sign-in** පෙන්නනවා. Screen එකේ පියවර අනුගමනය කරන්න — [Two-step sign-in](/si/getting-started/two-step-sign-in/)
+බලන්න. <span class="ui">Sign out</span> කර පස්සේ කරන්නත් පුළුවන්, නමුත් ඉවර කරනකම් back office එක භාවිතා කරන්න බැහැ.
+
+## Password එක අමතක වුණාද?
+
+1. Sign-in page එකේ <span class="ui">Forgot password?</span> තෝරන්න.
+2. ඔබේ **Business code** සහ **Email** type කර <span class="ui">Send link</span> තෝරන්න.
+3. Email එක open කර link එකට යන්න (**විනාඩි 30ක්** valid, එක පාරයි වැඩ කරන්නේ). ආවේ නැත්නම් spam folder එක බලන්න.
+4. අලුත් password එකක් තෝරා <span class="ui">Save new password</span> තෝරන්න.
+
+ඊට පස්සේ හැම තැනකින්ම sign out වෙනවා, අලුත් password එකෙන් ආයෙත් sign in වෙන්න.
+
+:::note
+Password එක reset කළාට two-step sign-in off වෙන්නේ නැහැ. Phone එකත් නැති වුණාද?
+[Two-step sign-in](/si/getting-started/two-step-sign-in/) හි *Phone එක නැති වුණොත් හෝ මාරු කළොත්* බලන්න.
+:::
+
+:::tip[Email එකට access නැද්ද?]
+**Employees** හි ඔබේ **password එක reset කරන්න** කියලා owner ගෙන් හෝ administrator ගෙන් ඉල්ලන්න. ඔවුන්ට ඔබට දෙන්න
+temporary password එකක් ලැබෙනවා; sign in වෙනකොට ඔබේම එකක් තෝරන්න.
+:::
+
+## Attempts වැඩි වුණාම
+
+පිළිවෙළින් වැරදි passwords කිහිපයක් දැම්මාම, ආයෙත් try කරන්න කලින් **විනාඩියක් ඉන්න** කියලා GPOS කියනවා.
+Passwords අනුමාන කරන අයගෙන් ඔබේ business එක ආරක්ෂා කරන්නයි මේ.
+
+## Sign out වීම
+
+Menu එකේ පහළ <span class="ui">Sign out</span> තෝරන්න. Shared computers වල හැම විටම sign out වෙන්න.

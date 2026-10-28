@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This is part of the **Add new products at the till** feature. If it is not in your plan, the till
+This is the plan feature **Add a new item at the till**. If it is not in your plan, the till
 only says *Nothing found*. See [Plans and features](/getting-started/plans/).
 :::
 

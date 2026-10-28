@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-This page is part of the **Batches and expiry dates** feature. If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
+This page is part of the **Batches and expiry dates** feature (it needs **Stock control**). If it is not in your plan, you will not see it in the menu. See [Plans and features](/getting-started/plans/).
 :::
 
 For food, medicine and cosmetics you can track **batches** (lots) with **expiry dates**. This

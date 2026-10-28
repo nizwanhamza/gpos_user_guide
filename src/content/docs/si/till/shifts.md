@@ -1,70 +1,67 @@
 ---
-title: ටිල් එකේ මුදල් මාරු
-description: ආරම්භක මුදලක් සමඟ මාරුවක් විවෘත කරන්න, මුදල් දමන්න හෝ ගන්න, X වාර්තාව මුද්‍රණය කරන්න සහ ගණන් කිරීමකින් මාරුව වසන්න.
+title: Till එකේ cash shifts
+description: Opening float එකක් එක්ක shift එකක් open කරන්න, cash in හෝ cash out කරන්න, X report එක print කරන්න සහ count එකක් එක්ක shift එක close කරන්න.
 sidebar:
   order: 9
 ---
 
-:::note[ඔබේ සැලැස්ම මත රඳා පවතී]
-මෙම පිටුව **කවුන්ටරයේ විකිණීම (POS), cash shifts සහ tills** විශේෂාංගයට අයත්ය. ඔබේ සැලැස්මේ එය නොමැති නම්, මෙනුවේ එය නොපෙනේ. [සැලසුම් සහ විශේෂාංග](/si/getting-started/plans/) බලන්න.
+:::note[ඔබේ plan එක අනුව වෙනස් වේ]
+Cash shifts **Selling at the counter (POS)** එකේ කොටසක්. **Cash in / cash out** වෙනම plan feature එකක්: ඒක නැත්නම් shift window
+එකේ ඒ buttons පෙනෙන්නේ නැහැ. [Plans and features](/si/getting-started/plans/) බලන්න.
 :::
 
-**මාරුවක්** (shift) යනු එක් ටිල් එකක විකිණීමේ එක් කාල පරිච්ඡේදයකි — සාමාන්‍යයෙන් එක් අයකැමිවරයෙකුගේ
-දිනයක් හෝ අර්ධ දිනයක්. සෑම විකුණුමක්ම සහ මුදල් චලනයක්ම මාරුව වසන තෙක් එයට අයත් වේ. එය
-කළමනාකරණය කිරීමට **F10** ඔබන්න හෝ ඉහළින් ඇති මාරුවේ නම තෝරන්න. සෑම මාරුවක්ම **විවෘත කළ අය සහ වේලාව**
-අනුව නම් කෙරේ, උදා. `Shift-Chamari-20261027-8.00am` — ටිල් එකේ, පසුපස කාර්යාලයේ සහ වාර්තාවල එකම නම.
+**Shift** එකක් කියන්නේ එක till එකක විකුණන එක කාල පරිච්ඡේදයක් — සාමාන්‍යයෙන් cashier කෙනෙකුගේ දවසක් හෝ භාගයක්. Shift එක
+close කරනකම් හැම sale එකක්ම සහ cash movement එකක්ම ඒකට අයිතියි. Manage කරන්න **F10** ඔබන්න හෝ උඩ තියෙන shift නම තෝරන්න.
 
-## මාරුවක් විවෘත කරන්න
+හැම shift එකකටම නම දෙන්නේ **open කළේ කවුද සහ කවදාද** අනුව, උදා. `Shift-Chamari-20261027-8.00am`. Till එකේ, back office එකේ සහ
+reports වල එකම නම භාවිතා වෙනවා.
 
-මාරුවක් විවෘත නැති විට ටිල් එක *කිසිදු මාරුවක් විවෘත කර නැත* ලෙස පෙන්වයි.
+## Shift එකක් open කරන්න
 
-1. **මාරුවක් විවෘත කරන්න** තෝරන්න.
-2. ලාච්චුවේ ඇති මුදල් — **ආරම්භක මුදල** — ගණන් කරන්න. එක්කෝ:
-   - <span class="ui">නෝට්ටු සහ කාසි ගණන් කරන්න</span> — එක් එක් නෝට්ටුව සහ කාසිය කීයක් තිබේදැයි ඇතුළත්
-     කරන්න, ටිල් එක ඒවා එකතු කරයි; නැතහොත්
-   - <span class="ui">මුළු මුදල ඇතුළත් කරන්න</span> — එකතුව ටයිප් කරන්න.
-3. <span class="ui">{amount} සමඟ මාරුව විවෘත කරන්න</span> තෝරන්න.
+Shift එකක් open නැත්නම් till එකේ *No shift is open* පෙන්නනවා.
 
-## මුදල් දැමීම සහ මුදල් ගැනීම
+1. **Open a shift** තෝරන්න.
+2. Drawer එකේ තියෙන cash — **opening float** එක — ගණන් කරන්න. එක්කෝ:
+   - <span class="ui">Count notes and coins</span> — හැම note එකක්ම සහ coin එකක්ම කීයද කියලා දාන්න, till එක එකතු කරනවා; නැත්නම්
+   - <span class="ui">Enter the total</span> — මුළු ගණන type කරන්න.
+3. <span class="ui">Open shift with {amount}</span> තෝරන්න.
 
-**විකුණුම් හැර** ලාච්චුවට දමන හෝ ඉන් ගන්නා මුදල් වාර්තා කළ යුතුය, නැතිනම් ගණන් කිරීම නොගැලපේ.
+## Cash in සහ cash out
 
-1. මාරුව තුළ <span class="ui">මුදල් දැමීම</span> හෝ <span class="ui">මුදල් ගැනීම</span> තෝරන්න.
-2. **මුදල** ඇතුළත් කර **හේතුව** තෝරන්න (උදා. *Paid out* හෝ *To the safe*).
-3. අවශ්‍ය නම් **සටහනක්** එක් කරන්න.
-4. <span class="ui">{amount} දමන්න</span> / <span class="ui">{amount} ගන්න</span> තෝරන්න.
+**Sales හැර** drawer එකට දාන හෝ ගන්න cash record කරන්න ඕන, නැත්නම් count එක ගැලපෙන්නේ නැහැ.
 
-ව්‍යාපාර සීමාවට වඩා වැඩි මුදල් ගැනීම් සඳහා කළමනාකරු අනුමැතිය අවශ්‍යයි. පෙරනිමියෙන් **සෑම** මුදල්
-ගැනීමකටම එය අවශ්‍යයි.
+1. Shift එකේ <span class="ui">Cash in</span> හෝ <span class="ui">Cash out</span> තෝරන්න.
+2. **Amount** එක දාලා **Reason** එක තෝරන්න (උදා. *Paid out* හෝ *To the safe*).
+3. ඕන නම් **Note** එකක් add කරන්න.
+4. <span class="ui">Put in {amount}</span> / <span class="ui">Take out {amount}</span> තෝරන්න.
 
-*මේ සඳහා හේතු සකසා නැත* ලෙස පෙන්වන්නේ නම්, පරිපාලකයෙකු **සැකසුම්** තුළ හේතු එක් කළ යුතුය.
+Business limit එකට වඩා වැඩි cash outs වලට manager ගේ approval ඕන — [Discounts](/si/till/discounts/) බලන්න. Default විදිහට **හැම**
+cash out එකකටම ඕන.
 
-## X වාර්තාව (මාරුව අතරතුර)
+## X report (shift එක අතරතුර)
 
-මෙතෙක් මාරුවේ සාරාංශයක් සඳහා <span class="ui">X වාර්තාව</span> තෝරන්න: විකුණුම්, බද්ද, මුදල් විකුණුම්,
-මුදල් දැමීම් සහ ගැනීම්, ආපසු ගෙවීම් සහ **අපේක්ෂිත මුදල්**. මුද්‍රණය කිරීමට <span class="ui">මුද්‍රණය කරන්න</span>.
-මාරුව විවෘතව පවතී.
+මේ වෙනකම් shift එකේ snapshot එකක් බලන්න <span class="ui">X report</span> තෝරන්න (receipt printer එකේ හෝ **A4** වල print කරන්න
+පුළුවන්): sales, tax, cash sales, cash in සහ out, refunds සහ **expected cash**. Print කරන්න <span class="ui">Print</span> තෝරන්න.
+Shift එක open විදිහටම තියෙනවා.
 
-## මාරුව වසන්න
+## Shift එක close කරන්න
 
-1. <span class="ui">මාරුව වසන්න</span> තෝරන්න.
-2. ලාච්චුවේ ඇති **සියලු** මුදල් ගණන් කරන්න (නෝට්ටු සහ කාසි, හෝ එකතුව).
-3. <span class="ui">ගණන් කළ {amount} සමඟ වසන්න</span> තෝරන්න.
+1. <span class="ui">Close shift</span> තෝරන්න.
+2. Drawer එකේ තියෙන **හැම** cash එකක්ම ගණන් කරන්න (notes සහ coins, හෝ මුළු ගණන).
+3. <span class="ui">Close with {amount} counted</span> තෝරන්න.
 
-ටිල් එක **අපේක්ෂිත මුදල්**, ඔබ **ගණන් කළ** මුදල සහ **වෙනස** සහිත **Z වාර්තාව** පෙන්වයි. **අන්ධ වසා
-දැමීම** සක්‍රිය නම්, අපේක්ෂිත මුදල පෙනෙන්නේ වසා දැමීමෙන් පසුව පමණි.
+Till එක expected cash, ඔබ ගණන් කරපු ගණන සහ **Difference** එක එක්ක **Z report** එක print කරනවා හෝ පෙන්නනවා. **Blind close** on
+නම්, expected amount එක පෙනෙන්නේ close කළාට පස්සේ විතරයි.
 
-- සමමුහුර්ත වීමට රැඳී ඇති විකුණුම් තිබේද? ඔබට දැන් වැසිය හැක; ඒවා පළමුව යවනු ලැබේ.
-- **මාරුව වසන විට රඳවා ඇති විකුණුම් ඉවත් කෙරේ** — පළමුව ඒවා අවසන් කරන්න.
+- Sales තවම sync වෙන්න බලාගෙනද? *You can close now; they are sent first.*
+- Shift එක close කරනකොට **held sales discard වෙනවා** — මුලින් ඒවා ඉවර කරන්න.
 
-සියලු විකුණුම් සහ මුදල් චලනයන් ළඟා වූ පසු පසුපස කාර්යාලය මාරුව **සමථනය** (reconcile) කරයි.
+හැම sale එකක්ම සහ cash movement එකක්ම ආවාට පස්සේ back office එක shift එක **reconcile** කරනවා. [Cash shifts](/si/sales/cash-shifts/) බලන්න.
 
-## පෙර මාරු
+## කලින් shifts
 
-ගණන් කළ මුදල් සමඟ **මෙම ටිල් එකේ පෙර මාරු** බැලීමට <span class="ui">මාරු</span> තෝරන්න.
+**Earlier shifts on this till** සහ ගණන් කරපු දේ බලන්න <span class="ui">Shifts</span> තෝරන්න.
 
-:::tip[දවස අවසානයේ කළ යුතු දේ]
-1. සෑම අයකැමිවරයෙකුම ටිල් එකේ තම මාරුව වසා ලාච්චුව ගණන් කරයි.
-2. කළමනාකරු පසුපස කාර්යාලයේ **මුදල් මාරු** පරීක්ෂා කරයි — සියලු මාරු *Reconciled*, වෙනස්කම් පැහැදිලි කර ඇත.
-3. **දෛනික සාරාංශය** සහ **Cash over / short** වාර්තාව බලන්න.
-:::
+## "Shift … was closed by a manager"
+
+Manager කෙනෙකුට back office එකෙන් shift එකක් close කරන්න පුළුවන් (උදා. till එක කැඩුණොත්). එතකොට අලුත් shift එකක් open කරන්න කියලා till එක අහනවා.

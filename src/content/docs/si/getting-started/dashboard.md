@@ -1,53 +1,67 @@
 ---
-title: උපකරණ පුවරුව සහ පිහිටුවීමේ ලැයිස්තුව
-description: උපකරණ පුවරුව පෙන්වන දේ, පිහිටුවීමේ ලැයිස්තුව ක්‍රියා කරන ආකාරය සහ එය සැඟවූ පසු නැවත ගෙන එන ආකාරය.
+title: Dashboard එක සහ setup checklist එක
+description: Dashboard එකේ පෙන්නන දේ, setup checklist එක වැඩ කරන විදිහ, සහ hide කළාට පස්සේ ආයෙත් ගේන විදිහ.
 sidebar:
   order: 2
-  label: උපකරණ පුවරුව සහ ලැයිස්තුව
+  label: Dashboard & checklist
 ---
 
-**උපකරණ පුවරුව** (Dashboard) පුරනය වූ පසු පෙනෙන පළමු පිටුවයි.
+Sign in වුණාම මුලින්ම පෙනෙන page එක **Dashboard** එකයි.
 
-## ඔබ දකින දේ
+## පෙනෙන දේ
 
-- **අද** — අද දක්වා ශුද්ධ විකුණුම්, විකුණුම් ගණන, සාමාන්‍ය විකුණුම සහ ආපසු දීම්, <span class="ui">සියලු වාර්තා</span> වෙත සබැඳියක් සමඟ.
-- **අද වැඩියෙන්ම විකිණුණු** — අද වැඩිපුරම අලෙවි වන නිෂ්පාදන.
-- **ව්‍යාපාරය** — ඔබේ ව්‍යාපාර නම, **ව්‍යාපාර කේතය**, මුදල් ඒකකය, වේලා කලාපය, සම්බන්ධතා සහ එක් වූ දිනය.
-- **ඔබේ ප්‍රවේශය** — ඔබට ඇති භූමිකා සහ අවසර, සහ ඒවා අදාළ ශාඛා.
-- **සැලැස්ම** — ඔබේ සැලැස්මේ නම, ✓ ලෙස සලකුණු කළ, ඔබේ සැලැස්මේ ඇතුළත් සෑම විශේෂාංගයක්ම, සහ එහි සීමා. *ඔබේ සැලැස්ම වෙනස් කිරීමට, ඔබේ සේවා සපයන්නා අමතන්න.*
+- **Today** — අද මේ වෙනකම් net sales, sales ගණන, average sale සහ returns, සහ <span class="ui">All reports</span> link එක.
+- **Best sellers today** — අද වැඩියෙන්ම විකිණෙන products.
+- **Business** — business නම, **Business code** එක, currency, time zone, contact විස්තර සහ join වූ දිනය.
+- **Your access** — ඔබට තියෙන roles සහ permissions, සහ ඒවා කුමන branches වලටද කියලා.
+- **Plan** — plan එකේ නම, ඔබේ plan එකේ තියෙන හැම feature එකක්ම (✓ සමඟ), සහ limits: active branches,
+  registers, employees, products, සහ plan එකේ තියෙනවා නම් warehouses සහ customer profiles. *Plan එක වෙනස්
+  කරන්න ඔබේ service provider අමතන්න.* [Plans and features](/si/getting-started/plans/) බලන්න.
 
-පෙනෙන දේ ඔබේ අවසර මත රඳා පවතී. උදාහරණයක් ලෙස අයකැමිවරයෙකුට විකුණුම් සංඛ්‍යා නොපෙනේ.
+පෙනෙන දේ ඔබේ permissions අනුව වෙනස් වෙනවා. උදාහරණයක් ලෙස cashier කෙනෙකුට sales figures පෙනෙන්නේ නැහැ.
 
-## පිහිටුවීමේ ලැයිස්තුව
+## Lists එක්ක වැඩ කිරීම
 
-නව ව්‍යාපාරවලට උපකරණ පුවරුවේ ඉහළින් **ඔබේ ව්‍යාපාරය සූදානම් කරන්න** නමැති කාඩ්පතක් පෙනේ. එය
-ප්‍රගතිය (උදා. *8 න් 3 ක් අවසන්*) සහ මෙම පියවර පෙන්වයි:
+Back office එකේ හැම list එකක්ම — sales, shifts, products, customers, stock movements, purchase orders,
+suppliers, transfers, employees, POS devices, audit log සහ තවත් — එකම විදිහට වැඩ කරනවා:
 
-| # | පියවර | ඔබව ගෙන යන තැන | ස්වයංක්‍රීයව සලකුණු වන්නේ… | අතින් සලකුණු කළ හැක |
-|---|------|----------------|----------------------------|---------------------|
-| 1 | ව්‍යාපාර විස්තර සහ රිසිට්පත් ශීර්ෂය | සැකසුම් | දුරකථනය, ලිපිනය හෝ රිසිට්පත් ශීර්ෂ පේළි පුරවා ඇති විට | <span class="ui">අවසන්</span> |
-| 2 | බද්ද | නාමාවලි සැකසුම → බදු | සක්‍රිය බදු අනුපාතයක් ඇති විට | <span class="ui">අපි VAT අය නොකරමු</span> |
-| 3 | ගෙවීම් ක්‍රම | සැකසුම් | ගෙවීම් ක්‍රමයක් වෙනස් කළ හෝ එක් කළ විට | <span class="ui">මේවා හොඳයි</span> |
-| 4 | භාණ්ඩ | නිෂ්පාදන | අවම වශයෙන් එක් නිෂ්පාදනයක් ඇති විට | — |
-| 5 | ආරම්භක තොගය | තොග → ආරම්භක තොගය | ඕනෑම තොගයක් සටහන් කර ඇති විට | <span class="ui">දැනට මඟ හරින්න</span> |
-| 6 | පළමු ටිල් එක සම්බන්ධ කරන්න | POS උපාංග | ටිල් එකක් ලියාපදිංචි කර ඇති විට | — |
-| 7 | කාර්ය මණ්ඩලය එක් කරන්න | සේවකයින් | සක්‍රිය සේවකයින් එක් අයෙකුට වඩා ඇති විට | <span class="ui">මම තනිව වැඩ කරමි</span> |
-| 8 | පළමු විකුණුම කරන්න | ටිල් එක විවෘත කරයි | පළමු විකුණුම පසුපස කාර්යාලයට ළඟා වූ විට | — |
+- උඩින් **Search** box එකක් (මොනවද search කරන්න පුළුවන් කියලා list එකේම කියනවා, උදා. *Search receipt,
+  customer or cashier*);
+- branch, status හෝ **From / To** dates වගේ **filters**;
+- **column heading** එකක් තේරුවාම ඒ අනුව sort වෙනවා;
+- පෙන්නන ගණන count එකේ තියෙනවා, උදා. *25 of 1,240*; ඊළඟ ඒවාට <span class="ui">Load more</span> තෝරන්න.
 
-ඉඟි:
+## Setup checklist එක
 
-- සෑම පියවරකටම නිවැරදි තිරයට ගෙන යන <span class="ui">විවෘත කරන්න</span> බොත්තමක් ඇත.
-- **බද්ද** පියවරේ <span class="ui">VAT 18% එක් කරන්න</span> එක ක්ලික් කිරීමකින් සම්මත VAT අනුපාතය සහ *VAT 18%* බදු කණ්ඩායම සාදයි.
-- වැරදීමකින් පියවරක් සලකුණු කළාද? එය අහෝසි කිරීමට <span class="ui">අවසන් නැත</span> තෝරන්න.
-- ඔබේ සැලැස්මේ නැති විශේෂාංග සඳහා පියවර ඉවත් කර ඇත — එබැවින් ඔබේ ලැයිස්තුවේ පියවර අටකට වඩා අඩු විය හැක.
-  [සැලසුම් සහ විශේෂාංග](/si/getting-started/plans/) බලන්න.
-- ලැයිස්තුව පෙනෙන්නේ ව්‍යාපාර සැකසුම් කළමනාකරණය කළ හැකි අයට (හිමිකරුවන් සහ පරිපාලකයින්) පමණි.
+අලුත් businesses වලට dashboard එකේ උඩින්ම **Get your business ready** කියන card එකක් පෙනෙනවා. එහි progress
+එක — උදා. *3 of 8 done* — සහ මේ පියවර පෙන්නනවා:
 
-සියල්ල අවසන් වූ විට කාඩ්පත **ඔබේ ව්‍යාපාරය සූදානම්** ලෙස පෙන්වයි. එය ඉවත් කිරීමට
-<span class="ui">ලැයිස්තුව සඟවන්න</span> තෝරන්න.
+| # | පියවර | යන තැන | තනියම tick වෙන්නේ… | අතින් mark කරන්න |
+|---|-------|--------|---------------------|------------------|
+| 1 | Business details සහ receipt header | Settings | phone, address හෝ receipt header lines පුරවලා තියෙනකොට | <span class="ui">Done</span> |
+| 2 | Tax | Catalog setup → Taxes | active tax rate එකක් තියෙනකොට | <span class="ui">We do not charge VAT</span> |
+| 3 | Payment methods | Settings | payment method එකක් වෙනස් කළාම හෝ add කළාම | <span class="ui">These are fine</span> |
+| 4 | Products | Products | අඩුම තරමේ product එකක් තියෙනකොට | — |
+| 5 | Opening stock | Inventory → Opening stock | stock post කරලා තියෙනකොට | <span class="ui">Skip for now</span> |
+| 6 | පළමු till එක pair කිරීම | POS devices | till එකක් register කරලා තියෙනකොට | — |
+| 7 | Staff add කිරීම | Employees | active employees එක්කෙනෙකුට වඩා ඉන්නකොට | <span class="ui">I work alone</span> |
+| 8 | පළමු sale එක | till එක open කරනවා | පළමු sale එක back office එකට ආවාම | — |
 
-### ලැයිස්තුව නැවත ගෙන එන්න
+Tips:
 
-ඉක්මනින් සැඟවූවාද? **සැකසුම්** වෙත ගොස් **පිහිටුවීමේ ලැයිස්තුව නැවත උපකරණ පුවරුවේ පෙන්වන්න** තෝරන්න.
+- හැම පියවරකම <span class="ui">Open</span> button එකක් තියෙනවා, එයින් හරි screen එකට යනවා.
+- **Tax** පියවරේදී <span class="ui">Add VAT 18%</span> තේරුවාම standard VAT rate එකයි *VAT 18%* tax group එකයි
+  එක click එකකින් හැදෙනවා.
+- වැරදිලා පියවරක් mark කළාද? Undo කරන්න <span class="ui">Not done</span> තෝරන්න.
+- ඔබේ plan එකේ නැති features වල පියවර checklist එකේ නැහැ — ඒ නිසා පියවර අටට වඩා අඩු වෙන්න පුළුවන්.
+  [Plans and features](/si/getting-started/plans/) බලන්න.
+- Checklist එක පෙනෙන්නේ business settings manage කරන්න පුළුවන් අයට විතරයි (owners සහ administrators).
 
-ලැයිස්තුවේ පියවරෙන් පියවර අනුවාදය [ඉක්මන් ආරම්භය](/si/quick-start/) වේ.
+හැම දේම ඉවර වුණාම card එකේ **Your business is ready** කියලා පෙන්නනවා. එය අයින් කරන්න
+<span class="ui">Hide checklist</span> තෝරන්න.
+
+### Checklist එක ආයෙත් ගේන්න
+
+ඉක්මනට hide කළාද? **Settings** වෙත ගිහින් **Show the setup checklist on the dashboard again** තෝරන්න.
+
+Checklist එකේ පියවරෙන් පියවර version එක [Quick start](/si/quick-start/) එකයි.

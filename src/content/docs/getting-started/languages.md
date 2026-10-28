@@ -29,5 +29,6 @@ reasons and similar lists also have optional Sinhala and Tamil names.
 
 ## This guide
 
-Use the language menu at the top of any page to switch. Pages that are not yet translated are
-shown in English with a short notice.
+Use the language menu at the top of any page to switch. Every page is available in all three
+languages. The Sinhala and Tamil pages use everyday language and keep technical words — and the
+names of buttons and menus — in English, as they appear in the English app.

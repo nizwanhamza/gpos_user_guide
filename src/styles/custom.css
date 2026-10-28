@@ -37,8 +37,6 @@
   font-weight: 600;
   color: var(--sl-color-text-accent);
 }
-:root[lang='si'] .site-title::after { content: 'පරිශීලක මාර්ගෝපදේශය'; }
-:root[lang='ta'] .site-title::after { content: 'பயனர் வழிகாட்டி'; }
 @media (max-width: 30rem) {
   .site-title::after { display: none; }
 }

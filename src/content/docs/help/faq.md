@@ -25,7 +25,7 @@ Any computer, laptop or tablet — Windows, Android or iPad — that runs **Chro
 
 ### A customer brings an item we have never sold. Can we still sell it?
 
-Yes, if your plan includes **Add new products at the till**: scan it, select **Add as a new
+Yes, if your plan includes **Add a new item at the till**: scan it, select **Add as a new
 product**, enter the name, price and tax, and sell. Cashiers need a manager's PIN. Complete the
 product later in the back office. See [Add a product at the till](/till/add-product-at-till/).
 

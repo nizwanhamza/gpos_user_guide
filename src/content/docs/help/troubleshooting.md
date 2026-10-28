@@ -87,7 +87,8 @@ Open a shift first: see [Cash shifts on the till](/till/shifts/).
 
 **A scanned item is "Nothing found"**
 The barcode is not on any product. Add it to the product's **Barcodes** in the back office, then
-sync the till. Meanwhile, search by name.
+sync the till. Meanwhile, search by name — or, if your plan includes it,
+[add it at the till](/till/add-product-at-till/).
 
 **"No price" or "Not for sale"**
 The product has no price yet, or is inactive/archived. Fix it in **Products**.

@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note[Depends on your plan]
-**Discounts at the till** is a plan feature. Without it, the till has no <span class="ui">Discount</span> button (F7) and no discount in **Edit** (F1). A customer's own discount is the separate feature **Customer discounts**. See [Plans and features](/getting-started/plans/).
+**Discounts at the till** is a plan feature. Without it, the till has no <span class="ui">Discount on the whole sale</span> button (F8) and no discount in **Edit** (F1). A customer's own discount is the separate feature **Customer discounts**. See [Plans and features](/getting-started/plans/).
 :::
 
 ## Give a discount

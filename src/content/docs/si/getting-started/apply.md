@@ -1,88 +1,126 @@
 ---
-title: GPOS සඳහා අයදුම් කරන්න
-description: ඔබේ ව්‍යාපාරය GPOS සඳහා අන්තර්ජාලයෙන් ලියාපදිංචි කරන්න, ඊමේල් තහවුරු කරන්න, අයදුම්පත නිරීක්ෂණය කරන්න, අනුමත වූ පසු ගිණුම සක්‍රිය කරන්න.
+title: GPOS සඳහා apply කරන්න
+description: ඔබේ business එක GPOS සඳහා online register කරන්න, email එක confirm කරන්න, application එක follow කරන්න, approve වුණාම account එක activate කරන්න.
 sidebar:
   order: 0
   badge:
-    text: නව ව්‍යාපාර
+    text: අලුත් business
     variant: tip
 ---
 
-තවම GPOS භාවිතා නොකරනවාද? අන්තර්ජාලයෙන් අයදුම් කරන්න. GPOS හි පුද්ගලයෙකු සෑම අයදුම්පතක්ම සමාලෝචනය කර,
-සාමාන්‍යයෙන් **වැඩ කරන දින කිහිපයක් ඇතුළත** ඔබට ඊමේල් කරයි. ඔබේ ව්‍යාපාර ගිණුම සාදනු ලබන්නේ අයදුම්පත
-අනුමත වූ පසුව පමණි.
+තවම GPOS භාවිතා කරන්නේ නැද්ද? Online apply කරන්න. GPOS එකේ කෙනෙක් හැම application එකක්ම review කර ඔබට
+email කරනවා — සාමාන්‍යයෙන් **වැඩ කරන දින කිහිපයක් ඇතුළත**. Application එක approve වුණාට පස්සේ විතරයි ඔබේ
+business account එක හදන්නේ.
 
-**අයදුම් කරන්න: [https://app.gpos.lk/register](https://app.gpos.lk/register)** — නැතහොත්
-[පුරනය වීමේ පිටුවේ](https://app.gpos.lk) **නව ව්‍යාපාරයක්ද? ගිණුමක් සඳහා අයදුම් කරන්න** තෝරන්න.
+**Apply කරන්න: [https://app.gpos.lk/register](https://app.gpos.lk/register)** — නැත්නම්
+[sign-in page එකේ](https://app.gpos.lk) **New business? Apply for an account** තෝරන්න.
 
 :::note
-*දැනට අපි අන්තර්ජාලයෙන් නව අයදුම්පත් භාර නොගනිමු* ලෙස පෙන්වන්නේ නම්, GPOS Support අමතන්න; ඔවුන් ඔබේ
-ව්‍යාපාරය ඔබ වෙනුවෙන් සකසනු ඇත.
+Page එකේ *We are not taking new applications online at the moment* කියලා පෙන්නුවොත්, GPOS Support අමතන්න —
+ඔවුන් ඔබේ business එක setup කරලා දෙයි.
 :::
 
-## ආරම්භ කිරීමට පෙර
+## පටන් ගන්න කලින්
 
-- ව්‍යාපාර නම සහ, ලියාපදිංචි නම්, **ව්‍යාපාර ලියාපදිංචි (BR) අංකය** සහ ලියාපදිංචි **නීතිමය නම**;
-- ව්‍යාපාරයේ ලිපිනය, දුරකථනය සහ ඊමේල්;
-- **ඔබේම ඊමේල් ලිපිනය** — අනුමත වූ පසු ඔබ එයින් පුරනය වේ;
-- ඔබේ ජංගම දුරකථන අංකය.
+මේවා සූදානම් කරගන්න:
 
-## 1. අයදුම්පත පුරවන්න
+- business එකේ නම, සහ register කරලා නම් **business registration (BR) number** එක සහ register කළ විදිහටම
+  **legal name** එක;
+- business එකේ address, phone සහ email;
+- **ඔබේම email address එක** — approve වුණාම sign in වෙන්නේ මේකෙන්, ඒ නිසා දිගටම තියාගන්න email එකක් දෙන්න;
+- ඔබේ mobile number එක.
 
-**ඔබේ ව්‍යාපාරය** කොටසේ: ව්‍යාපාර නම, ව්‍යාපාර වර්ගය, නීතිමය ස්වරූපය, ලියාපදිංචි තත්ත්වය (සමාගමක් ලියාපදිංචි
-විය යුතුය), ලියාපදිංචි අංකය, නීතිමය නම (සමාගමකට අනිවාර්යයි), ලිපිනය, නගරය, දිස්ත්‍රික්කය, ව්‍යාපාර දුරකථනය සහ
-ඊමේල්, වෙබ් අඩවිය (අත්‍යවශ්‍ය නැත), ශාඛා ගණන, දැනට භාවිතා කරන POS පද්ධතිය (අත්‍යවශ්‍ය නැත).
+## 1. Application එක පුරවන්න
 
-**ඔබ කැමති ව්‍යාපාර කේතය** — ඔබේ ව්‍යාපාරයේ සියල්ලන්ම පුරනය වීමට භාවිතා කරන කෙටි කේතය, උදා. `lanka-mart`
-(කුඩා අකුරු, ඉලක්කම් සහ hyphen). අනුමත කරන විට අපි එය තහවුරු කරමු; **පසුව වෙනස් කළ නොහැක**.
+### ඔබේ business එක
 
-**ඔබ ගැන** කොටසේ: සම්පූර්ණ නම, ව්‍යාපාරයේ ඔබේ භූමිකාව (ඔබ හිමිකරු විය යුතු නැත, නමුත් අයදුම් කිරීමට බලය
-තිබිය යුතුය), ජංගම අංකය, ඊමේල් භාෂාව සහ **ඔබේ ඊමේල්** (අනුමත වූ පසු පුරනය වීමට).
+| Field | දාන්න ඕන දේ |
+|-------|-------------|
+| **Business name** | Customers ඔබව දන්නා නම. |
+| **Type of business** | උදා. grocery, pharmacy, clothing, restaurant. |
+| **Legal form** | Sole proprietorship, partnership, private හෝ public limited company, company limited by guarantee, හෝ වෙනත් registered entity එකක්. |
+| **Business registration** | *Registered*, *Not registered* හෝ *Registration in progress*. Company එකක් නම් register කරලා තියෙන්නම ඕන. |
+| **Registration number** | Register කරලා නම් ඔබේ BR number එක. |
+| **Legal name** | Register කළ විදිහටම — company එකකට අනිවාර්යයි. |
+| **Address**, **Town / city**, **District** | Business එක තියෙන තැන (ශ්‍රී ලංකාව). |
+| **Business phone**, **Business e-mail**, **Website** | Business එකට කතා කරන්න පුළුවන් විදිහ. Website එක අනිවාර්ය නැහැ. |
+| **Number of branches** | ඔබට shops කීයක් තියෙනවාද. |
+| **POS system you use now** | අනිවාර්ය නැහැ — GPOS වලට මාරු වෙන්න උදව් කරන්න අපිට ප්‍රයෝජනවත්. |
+| **Business code you would like** | ඔබේ business එකේ හැමෝම sign in වෙන්න භාවිතා කරන කෙටි code එක, උදා. `lanka-mart` (simple අකුරු, ඉලක්කම් සහ hyphens). Approve කරනකොට අපි එය confirm කරනවා; **පස්සේ වෙනස් කරන්න බැහැ**. |
 
-ඉන්පසු:
+### ඔබ ගැන
 
-1. **මෙම ව්‍යාපාරය සඳහා අයදුම් කිරීමට මට බලය ඇති අතර විස්තර නිවැරදියි** සලකුණු කරන්න.
-2. නියමයන් පිළිගන්නා බව සලකුණු කරන්න.
-3. පෙන්වන්නේ නම් **රොබෝ පරීක්ෂාව** සම්පූර්ණ කරන්න.
-4. <span class="ui">අයදුම්පත යවන්න</span> තෝරන්න.
+| Field | දාන්න ඕන දේ |
+|-------|-------------|
+| **Your full name** | |
+| **Your role in the business** | Owner, director, partner, manager, accountant, employee හෝ other. Owner වෙන්නම ඕන නැහැ, නමුත් apply කරන්න අවසර තියෙන්න ඕන. |
+| **Mobile number** | |
+| **Language for e-mails** | English, Sinhala හෝ Tamil. |
+| **Your e-mail** | Approve වුණාම sign in වෙන්නේ මේකෙන්. |
 
-## 2. ඔබේ ඊමේල් තහවුරු කරන්න
+ඊට පස්සේ:
 
-GPOS **ඔබේ විද්‍යුත් තැපෑල පරීක්ෂා කරන්න** ලෙස පෙන්වයි. අප එවූ සබැඳිය **පැය 24ක් ඇතුළත** විවෘත කරන්න. ඉන්පසු
-පමණක් අයදුම්පත සමාලෝචනය කෙරේ. තහවුරු නොකළ අයදුම්පත් දින 7කට පසු මකා දැමේ. එක් ඊමේල් ලිපිනයකට එකවර
-**විවෘත අයදුම්පතක් එකක්** පමණි.
+1. **I am authorised to apply for this business, and the details are correct** tick කරන්න.
+2. Terms accept කරන බව tick කරන්න (links වලින් ඒවා open වෙනවා).
+3. **Robot check** එකක් පෙන්නුවොත් එය complete කරන්න.
+4. <span class="ui">Send application</span> තෝරන්න.
 
-## 3. ඔබේ අයදුම්පත නිරීක්ෂණය කරන්න
+## 2. Email එක confirm කරන්න
 
-පුරනය වීමේ පිටුවේ **මගේ අයදුම්පත පරීක්ෂා කරන්න** තෝරා, අයදුම් කළ ඊමේල් ඇතුළත් කර <span class="ui">මට සබැඳියක් එවන්න</span>
-තෝරන්න. සබැඳිය (පැය 24) **ඔබේ අයදුම්පත** තත්ත්වය සහ ඉතිහාසය සමඟ විවෘත කරයි.
+GPOS **Check your e-mail** කියලා පෙන්නනවා. Address එක confirm කරන්න, අපි එවපු link එක **පැය 24ක් ඇතුළත**
+open කරන්න. ඊට පස්සේ විතරයි application එක review කරන්නේ. Email එක ආවේ නැත්නම් spam folder එක බලන්න.
 
-| තත්ත්වය | අර්ථය |
-|---------|-------|
-| **විද්‍යුත් තැපෑල තහවුරු කර නැත** | අප එවූ සබැඳිය විවෘත කරන්න. |
-| **සමාලෝචනය සඳහා රැඳී සිටී** | පුද්ගලයෙකු සමාලෝචනය කරයි; අපි ඊමේල් කරමු. |
-| **තවත් තොරතුරු අවශ්‍යයි** | අපි ප්‍රශ්නයක් ඇසුවෙමු — පහත බලන්න. |
-| **අනුමතයි** | ඔබේ ව්‍යාපාරය සූදානම්; මුරපදය තේරීමට සබැඳියක් ඊමේල් කළෙමු. |
-| **අනුමත නොකෙරිණි** | හේතුව ඉතිහාසයේ ඇත. |
-| **ඉල්ලා අස්කර ගන්නා ලදී** | ඔබ අයදුම්පත ඉල්ලා අස්කර ගත්තා. |
+:::caution
+Confirm නොකරපු applications දින 7කට පස්සේ delete වෙනවා. එක වෙලාවකට **එක email address එකකට open
+application එකයි** තියාගන්න පුළුවන්.
+:::
 
-**තොරතුරු අවශ්‍ය විට:** සබැඳිය (දින 7) විවෘත කර **ඔබේ පිළිතුර** ලියන්න, අවශ්‍ය නම් **මගේ විස්තරද නිවැරදි කරන්න**
-සලකුණු කර නිවැරදි කරන්න, ඉන්පසු <span class="ui">පිළිතුර යවන්න</span>. ඖෂධ හල්, සායන, රෝහල් හෝ වෛද්‍ය සැපයුම් වැනි
-නියාමිත ව්‍යාපාරවලින් බලපත්‍ර විස්තර ඉල්ලිය හැක.
+## 3. Application එක follow කරන්න
 
-අදහස වෙනස් වුණාද? <span class="ui">අයදුම්පත ඉල්ලා අස්කර ගන්න</span> තෝරන්න. පසුව නැවත අයදුම් කළ හැක.
+Sign-in page එකේ **Check my application** තෝරන්න (නැත්නම් form එකේ **I already applied**), apply කරපු email
+එක type කර <span class="ui">Send me a link</span> තෝරන්න. Link එකෙන් (පැය 24ක් valid) **Your application**
+open වෙනවා — status එක සහ history එකත් එක්ක.
 
-## 4. අනුමතයි — ඔබේ ගිණුම සක්‍රිය කරන්න
+| Status | තේරුම |
+|--------|-------|
+| **E-mail not confirmed** | Address එක confirm කරන්න අපි email කරපු link එක open කරන්න. |
+| **Waiting for review** | කෙනෙක් ඔබේ application එක review කරනවා. අපි email කරන්නම්. |
+| **More information needed** | අපි ප්‍රශ්නයක් ඇහුවා — පහත බලන්න. |
+| **Approved** | ඔබේ business එක ready. Password එක තෝරන්න link එකක් අපි email කළා. |
+| **Not approved** | හේතුව history එකේ තියෙනවා. |
+| **Withdrawn** | ඔබ application එක withdraw කළා. |
 
-අනුමත වූ විට ප්‍රධාන ශාඛාවක් සමඟ ඔබේ ව්‍යාපාරය සාදනු ලබන අතර **ඔබ එහි හිමිකරු** වේ. අන්තර්ජාල අයදුම්පත් සඳහා
-එකඟ වූ සැලැස්ම පවරනු ලැබේ ([සැලසුම් සහ විශේෂාංග](/si/getting-started/plans/)). **මුරපදය තේරීමට** සබැඳියක්
-(**දින 7** වලංගු) ඊමේල් කෙරෙන අතර, ඔබේ අයදුම්පත් පිටුව **ඔබේ ව්‍යාපාර කේතය** පෙන්වයි.
+### අපිට තව විස්තර ඕන වුණාම
 
-1. ඊමේල් සබැඳිය විවෘත කර මුරපදයක් තෝරන්න (අවම අක්ෂර 12).
-2. [app.gpos.lk](https://app.gpos.lk) හි ව්‍යාපාර කේතය, ඊමේල් සහ නව මුරපදය සමඟ පුරනය වන්න.
-3. සේවා නියමයන් පිළිගෙන, ඉල්ලුවහොත් [පියවර දෙකේ පිවිසුම](/si/getting-started/two-step-sign-in/) සකසන්න.
-4. **[ඉක්මන් ආරම්භය](/si/quick-start/)** සමඟ ඉදිරියට යන්න.
+අපි ප්‍රශ්නය link එකක් එක්ක email කරනවා (දින 7ක් valid). ඔබේ application page එකේ:
 
-:::tip[සබැඳිය කල් ඉකුත් වුණාද?]
-දින 7ක් ඇතුළත විවෘත නොකළේ නම්, නව සබැඳියක් සඳහා GPOS Support අමතන්න.
+1. **Your answer** ලියන්න.
+2. Application එකේ මොකක් හරි වැරදි නම් **Also correct my details** tick කර එය හදන්න.
+3. <span class="ui">Send answer</span> තෝරන්න. Application එක ආයෙත් review එකට යනවා.
+
+Regulated trades වල businesses — උදා. **pharmacies, clinics, hospitals හෝ medical supplies** — licence විස්තර
+ඉල්ලන්න පුළුවන්.
+
+### හිත වෙනස් වුණාද?
+
+<span class="ui">Withdraw application</span> තෝරන්න. පස්සේ ආයෙත් apply කරන්න පුළුවන්.
+
+## 4. Approved — account එක activate කරන්න
+
+Application එක approve වුණාම:
+
+- main branch එකක් එක්ක ඔබේ business එක හදනවා, **ඔබ එහි owner වෙනවා**;
+- online applications සඳහා එකඟ වූ plan එක දෙනවා ([Plans and features](/si/getting-started/plans/) බලන්න);
+- **password එක තෝරන්න** link එකක් අපි email කරනවා — **දින 7ක්** valid — සහ ඔබේ application page එකේ
+  **Your business code** පෙන්නනවා.
+
+ඊට පස්සේ:
+
+1. Email එකේ link එක open කර password එකක් තෝරන්න (අවම අකුරු 12).
+2. [app.gpos.lk](https://app.gpos.lk) හි ඔබේ **business code**, **email** සහ අලුත් password එකෙන් sign in වෙන්න.
+3. Terms of service accept කරන්න, ඇහුවොත් [two-step sign-in](/si/getting-started/two-step-sign-in/) setup කරන්න.
+4. **[Quick start](/si/quick-start/)** එකෙන් දිගටම යන්න.
+
+:::tip[Link එක expire වුණාද?]
+Email link එක දින 7ක් ඇතුළත open කළේ නැත්නම්, password එක තෝරන්න අලුත් link එකක් GPOS Support ගෙන් ඉල්ලන්න.
 :::

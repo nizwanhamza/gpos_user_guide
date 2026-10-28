@@ -1,80 +1,81 @@
 ---
-title: GPOS පරිශීලක මාර්ගෝපදේශය
-description: ඔබේ පළමු පුරනය වීමේ සිට දෛනික වාර්තා දක්වා — GPOS භාවිතයට ඔබේ ව්‍යාපාරයට අවශ්‍ය සියල්ල.
+title: GPOS User Guide
+description: පළමු sign in එකේ සිට දිනපතා reports දක්වා — GPOS භාවිතා කරන්න ඔබේ business එකට අවශ්‍ය සියල්ල.
 template: splash
 hero:
   image:
     html: |
       <img class="gpos-hero light:sl-hidden" src="../gpos-hero-dark.webp" alt="GPOS" width="900" height="292" />
       <img class="gpos-hero dark:sl-hidden" src="../gpos-hero-light.webp" alt="GPOS" width="900" height="292" />
-  tagline: ඔබේ සාප්පුව සකසන්න, කවුන්ටරයේ විකුණන්න (අන්තර්ජාලය නැතිවත්), තොග සහ මුදල් ගැන අවධානයෙන් සිටින්න — පියවරෙන් පියවර.
+  tagline: ඔබේ shop එක setup කරන්න, counter එකේ විකුණන්න (internet නැති වුණත්), stock සහ cash ගැන හොඳ අවධානයක් තබා ගන්න — පියවරෙන් පියවර.
   actions:
-    - text: ඉක්මන් ආරම්භය
+    - text: Quick start
       link: quick-start/
       icon: right-arrow
-    - text: ටිල් එක භාවිතය
-      link: till/making-a-sale/
+    - text: Till එක භාවිතා කිරීම
+      link: till/set-up-a-till/
       icon: open-book
       variant: minimal
 ---
 
 import { Aside, Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
 
-## GPOS ලිපින
+## GPOS addresses
 
-| | ලිපිනය | භාවිතා කරන්නේ |
-|-|--------|---------------|
-| **පසුපස කාර්යාලය** | **[https://app.gpos.lk](https://app.gpos.lk)** | හිමිකරුවන්, කළමනාකරුවන්, ගබඩා කාර්ය මණ්ඩලය, ගණකාධිකාරීන් |
-| **ටිල් / POS** | **[https://app.gpos.lk/pos/](https://app.gpos.lk/pos/)** | අයකැමිවරුන්, කවුන්ටර් පරිගණකයේ හෝ ටැබ්ලටයේ |
+| | Address | භාවිතා කරන්නේ |
+|-|---------|---------------|
+| **Back office** | **[https://app.gpos.lk](https://app.gpos.lk)** | Owners, managers, inventory staff, accountants |
+| **Till / POS** | **[https://app.gpos.lk/pos/](https://app.gpos.lk/pos/)** | Cashiers — counter එකේ computer එකේ හෝ tablet එකේ |
 
-<Aside type="caution" title="විශේෂාංග ඔබේ සැලැස්ම මත රඳා පවතී">
-GPOS විවිධ සැලසුම් යටතේ ලැබේ — උදාහරණයක් ලෙස **Basic**, **Standard** හෝ **Custom**. මෙම මාර්ගෝපදේශයේ
-සමහර විශේෂාංග (තොග, මිලදී ගැනීම්, පාරිභෝගිකයින්, ශාඛා කිහිපයක් හෝ කල් ඉකුත්වීම් නිරීක්ෂණය වැනි) ඔබේ
-සැලැස්මේ නොතිබිය හැකි අතර, ඔබේ ලැයිස්තුවේ පියවර අටකට වඩා අඩු විය හැක. ඔබේ උපකරණ පුවරුවේ **සැලැස්ම**
-කාඩ්පත පරීක්ෂා කර [සැලසුම් සහ විශේෂාංග](/si/getting-started/plans/) බලන්න.
+<Aside type="caution" title="Features ඔබේ plan එක අනුව වෙනස් වේ">
+GPOS plans කිහිපයක් තියෙනවා — උදාහරණයක් ලෙස **Basic**, **Standard** හෝ **Custom**. මේ guide එකේ තියෙන
+සමහර features (inventory, purchasing, customers, branches කිහිපයක්, expiry tracking වගේ) ඔබේ plan එකේ
+නැති වෙන්න පුළුවන්. Dashboard එකේ **Plan** card එක බලන්න, සහ
+[Plans and features](/si/getting-started/plans/) කියවන්න.
 </Aside>
 
 ## GPOS වලට අලුත්ද?
 
-තවම ලියාපදිංචි නැද්ද? [app.gpos.lk/register](https://app.gpos.lk/register) හි
-**[GPOS සඳහා අයදුම් කරන්න](/si/getting-started/apply/)**.
+තවම register වෙලා නැද්ද? **[GPOS සඳහා apply කරන්න](/si/getting-started/apply/)** —
+[app.gpos.lk/register](https://app.gpos.lk/register) හරහා online.
 
-ඔබේ ව්‍යාපාරය දැන් ලියාපදිංචි කර ඇත්නම්, **[ඉක්මන් ආරම්භය](/si/quick-start/)** සමඟ අරඹන්න. ඔබේ
-උපකරණ පුවරුවේ පෙනෙන පිහිටුවීමේ ලැයිස්තුවේ පියවර අට හරහා එය ඔබව රැගෙන යන අතර, පැයක පමණ
-කාලයකින් ඔබව පළමු විකුණුම දක්වා ගෙන යයි.
+ඔබේ business එක දැන් enroll කරලා නම්, **[Quick start](/si/quick-start/)** එකෙන් පටන් ගන්න. Dashboard
+එකේ පෙනෙන setup checklist එකේ පියවර අට එකින් එක එහි තියෙනවා. පැයක් වගේ කාලයකින් ඔබට පළමු sale එක
+කරන්න පුළුවන්.
 
 <CardGrid>
-  <Card title="පසුපස කාර්යාලය (Back office)" icon="laptop">
-    හිමිකරුවන් සහ කළමනාකරුවන් ශාඛා, කාර්ය මණ්ඩලය, නිෂ්පාදන, මිල ගණන්, බදු සහ ගෙවීම් ක්‍රම
-    සකසන, විකුණුම්, තොග සහ මුදල් නිරීක්ෂණය කරන වෙබ් පරිපාලනය.
+  <Card title="Back office" icon="laptop">
+    Owners සහ managers branches, staff, products, prices, taxes සහ payment methods setup කරන, සහ
+    sales, stock සහ cash බලන web admin එක.
   </Card>
-  <Card title="ටිල් එක (POS)" icon="rocket">
-    ඔබේ කවුන්ටර් පරිගණකයේ හෝ ටැබ්ලටයේ ඇති ගෙවීම් තිරය. බාර්කේත ස්කෑන් කරයි, මුදල්, කාඩ් සහ QR
-    ගෙවීම් ලබා ගනී, සහ **අන්තර්ජාලය නැති විටත් විකුණුම් කරයි**.
+  <Card title="Till (POS)" icon="rocket">
+    Counter එකේ computer එකේ හෝ tablet එකේ checkout screen එක. Barcodes scan කරනවා, cash, card සහ QR
+    payments ගන්නවා, **internet නැති වුණත් දිගටම විකුණනවා**.
   </Card>
-  <Card title="තොග සහ මිලදී ගැනීම්" icon="list-format">
-    ආරම්භක තොගය, සකස් කිරීම්, තොග ගණන් කිරීම්, ගබඩා අතර මාරු කිරීම්, මිලදී ගැනීමේ ඇණවුම්,
-    භාණ්ඩ ලැබීම සහ කල් ඉකුත් වන දින.
+  <Card title="Inventory & purchasing" icon="list-format">
+    Opening stock, adjustments, stock counts, stores අතර transfers, purchase orders, goods receiving සහ
+    expiry dates.
   </Card>
-  <Card title="වාර්තා" icon="document">
-    දෛනික විකුණුම්, වැඩිපුර අලෙවි වන භාණ්ඩ, ගෙවීම්, බදු සාරාංශය, මුදල් වැඩි/අඩු, තොග වටිනාකම සහ
-    තවත් — CSV ලෙස අපනයනය කරන්න හෝ PDF ලෙස මුද්‍රණය කරන්න.
+  <Card title="Reports" icon="document">
+    Daily sales, best sellers, payments, tax summary, cash over/short, stock value සහ තවත් — CSV වලට
+    export කරන්න හෝ PDF ලෙස print කරන්න.
   </Card>
 </CardGrid>
 
-## ඔබට අවශ්‍ය දේ සොයා ගන්න
+## ඔබට අවශ්‍ය දේ හොයාගන්න
 
 <CardGrid>
-  <LinkCard title="පුරනය වී මඟ සොයා ගන්න" href="getting-started/signing-in/" />
-  <LinkCard title="උපකරණ පුවරුව සහ පිහිටුවීමේ ලැයිස්තුව" href="getting-started/dashboard/" />
-  <LinkCard title="ටිල් එක අගුළු හරින්න (PIN)" href="till/unlock-and-users/" />
-  <LinkCard title="විකුණුමක් කරන්න" href="till/making-a-sale/" />
-  <LinkCard title="මුදල් මාරුවක් විවෘත කර වසන්න" href="till/shifts/" />
-  <LinkCard title="යමක් ක්‍රියා නොකරයි (ඉංග්‍රීසි)" href="help/troubleshooting/" />
+  <LinkCard title="Sign in වී back office එකේ යන විදිහ" href="getting-started/signing-in/" />
+  <LinkCard title="Products add කරන්න හෝ spreadsheet එකක් import කරන්න" href="catalog/products/" />
+  <LinkCard title="Till එකක් pair කර sale එකක් කරන්න" href="till/making-a-sale/" />
+  <LinkCard title="Cash shift එකක් open සහ close කරන්න" href="till/shifts/" />
+  <LinkCard title="Employees add කර PIN එක set කරන්න" href="business/employees/" />
+  <LinkCard title="යමක් වැඩ කරන්නේ නැද්ද?" href="help/troubleshooting/" />
 </CardGrid>
 
 ## ඔබේ භාෂාව
 
-මෙම මාර්ගෝපදේශය **English**, **සිංහල** සහ **தமிழ்** භාෂාවලින් ඇත. මාරු වීමට පිටුවේ ඉහළ ඇති භාෂා
-මෙනුව භාවිතා කරන්න. තවමත් පරිවර්තනය නොකළ පිටු කෙටි දැනුම්දීමක් සමඟ ඉංග්‍රීසියෙන් පෙන්වයි.
-GPOS පසුපස කාර්යාලය සහ ටිල් එක ද භාෂා තුනෙන්ම භාවිතා කළ හැක.
+මේ guide එක **English**, **සිංහල** සහ **தமிழ்** භාෂාවලින් තියෙනවා. Page එකේ උඩ තියෙන language menu එකෙන්
+මාරු කරන්න. Buttons සහ menus වල නම් මෙහි **English** වලින් තියෙනවා — GPOS app එකේ English භාෂාවේ
+පෙනෙන විදිහටම. Back office සහ till භාෂා තුනෙන්ම භාවිතා කරන්න පුළුවන් —
+[Languages](/si/getting-started/languages/) බලන්න.

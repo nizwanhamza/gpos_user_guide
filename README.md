@@ -52,23 +52,19 @@ node scripts/brand-assets.mjs
   `/si/till/making-a-sale/`); the base path is added automatically. Inside components
   (`<LinkCard href=…>`) use relative links instead.
 - Write on-screen button names as `<span class="ui">Save</span>` and use the exact wording of the
-  app (English, Sinhala or Tamil) so readers can find them.
+  English app, on every language version, so readers can find them.
 - Starlight's own interface text for Sinhala and Tamil is in `src/content/i18n/`.
 
-### Translated so far
+### Sinhala and Tamil
 
-| Page | සිංහල | தமிழ் |
-|------|-------|-------|
-| Home | ✓ | ✓ |
-| Quick start | ✓ | ✓ |
-| Signing in | ✓ | ✓ |
-| Dashboard & checklist | ✓ | ✓ |
-| Unlocking the till | ✓ | ✓ |
-| Making a sale | ✓ | ✓ |
-| Cash shifts on the till | ✓ | ✓ |
-| Plans and features | ✓ | ✓ |
-| Two-step sign-in | ✓ | ✓ |
-| Apply for GPOS | ✓ | ✓ |
+**Every page is translated** into Sinhala (`si/`) and Tamil (`ta/`). Style:
 
-All other pages fall back to English. Sinhala and Tamil text should be reviewed by a native
-speaker before publishing widely.
+- everyday Sinhala / Tamil sentences, but **technical words stay in English** — till, shift,
+  cash out, receipt, barcode, product, stock, branch, discount, settings… Pure Sinhala or Tamil
+  terms were found hard to understand in shops;
+- button, menu, field and feature names stay in English exactly as in the app (`<span class="ui">`);
+- links point to the same language (`/si/…`, `/ta/…`); avoid `#anchors` to other translated pages,
+  because translated headings get different anchors.
+
+When you change an English page, update both translations in the same change. Sinhala and Tamil
+text should be reviewed by a native speaker before publishing widely.

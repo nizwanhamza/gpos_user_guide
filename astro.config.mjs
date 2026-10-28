@@ -25,8 +25,8 @@ export default defineConfig({
       // Browser tabs and search results; the header shows the logo plus "User Guide" (custom.css).
       title: {
         en: 'GPOS User Guide',
-        si: 'GPOS පරිශීලක මාර්ගෝපදේශය',
-        ta: 'GPOS பயனர் வழிகாட்டி',
+        si: 'GPOS User Guide (සිංහල)',
+        ta: 'GPOS User Guide (தமிழ்)',
       },
       description: 'Step-by-step help for businesses using GPOS: back office, till and reports.',
       logo: {
@@ -60,42 +60,42 @@ export default defineConfig({
       tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
       sidebar: [
         {
-          ...group('Start here', 'මෙතැනින් අරඹන්න', 'இங்கே தொடங்குங்கள்'),
+          ...group('Start here', 'මෙතැනින් පටන් ගන්න', 'இங்கே தொடங்குங்கள்'),
           items: [
             { slug: 'quick-start' },
             { autogenerate: { directory: 'getting-started' } },
           ],
         },
         {
-          ...group('Set up your business', 'ව්‍යාපාරය සකසන්න', 'வணிகத்தை அமையுங்கள்'),
+          ...group('Set up your business', 'Business එක setup කරන්න', 'Business ஐ setup செய்யுங்கள்'),
           items: [{ autogenerate: { directory: 'business' } }],
         },
         {
-          ...group('Products & catalog', 'නිෂ්පාදන සහ නාමාවලිය', 'பொருட்கள் மற்றும் பட்டியல்'),
+          ...group('Products & catalog', 'Products සහ catalog', 'Products மற்றும் catalog'),
           items: [{ autogenerate: { directory: 'catalog' } }],
         },
         {
-          ...group('Using the till', 'ටිල් එක භාවිතය', 'டில்லைப் பயன்படுத்துதல்'),
+          ...group('Using the till', 'Till එක භාවිතා කිරීම', 'Till ஐப் பயன்படுத்துதல்'),
           items: [{ autogenerate: { directory: 'till' } }],
         },
         {
-          ...group('Sales & cash', 'විකුණුම් සහ මුදල්', 'விற்பனை மற்றும் பணம்'),
+          ...group('Sales & cash', 'Sales සහ cash', 'Sales மற்றும் cash'),
           items: [{ autogenerate: { directory: 'sales' } }],
         },
         {
-          ...group('Inventory', 'තොග', 'சரக்கு'),
+          ...group('Inventory', 'Inventory (stock)', 'Inventory (stock)'),
           items: [{ autogenerate: { directory: 'inventory' } }],
         },
         {
-          ...group('Purchasing', 'මිලදී ගැනීම්', 'கொள்முதல்'),
+          ...group('Purchasing', 'Purchasing (සැපයුම්කරුවන්ගෙන් ගැනීම)', 'Purchasing (supplier களிடம் வாங்குதல்)'),
           items: [{ autogenerate: { directory: 'purchasing' } }],
         },
         {
-          ...group('Reports & records', 'වාර්තා සහ වාර්තාගත කිරීම්', 'அறிக்கைகள் மற்றும் பதிவுகள்'),
+          ...group('Reports & records', 'Reports සහ records', 'Reports மற்றும் records'),
           items: [{ autogenerate: { directory: 'reports' } }],
         },
         {
-          ...group('Help', 'උදව්', 'உதவி'),
+          ...group('Help', 'Help (උදව්)', 'Help (உதவி)'),
           items: [{ autogenerate: { directory: 'help' } }],
         },
       ],

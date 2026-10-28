@@ -1,8 +1,8 @@
 ---
-title: නව ව්‍යාපාර සඳහා ඉක්මන් ආරම්භය
-description: ඔබේ පළමු පුරනය වීමේ සිට පළමු විකුණුම දක්වා පියවර අටකින් — උපකරණ පුවරුවේ පිහිටුවීමේ ලැයිස්තුව අනුව.
+title: අලුත් businesses සඳහා Quick start
+description: පළමු sign in එකේ සිට පළමු sale එක දක්වා පියවර අටකින් — dashboard එකේ setup checklist එක අනුව.
 sidebar:
-  label: ඉක්මන් ආරම්භය
+  label: Quick start
   order: 0
   badge:
     text: මෙතැනින්
@@ -11,234 +11,248 @@ sidebar:
 
 import { Steps, Aside, Tabs, TabItem, LinkCard } from '@astrojs/starlight/components';
 
-GPOS වෙත සාදරයෙන් පිළිගනිමු! තවම ලියාපදිංචි නැද්ද? පළමුව [GPOS සඳහා අයදුම් කරන්න](/si/getting-started/apply/).
+GPOS වෙත සාදරයෙන් පිළිගනිමු! තවම register වෙලා නැද්ද? මුලින්ම [GPOS සඳහා apply කරන්න](/si/getting-started/apply/).
 
-ඔබේ ව්‍යාපාරය ලියාපදිංචි කර ඇති අතර ඔබට මේවා ලැබී ඇත:
+ඔබේ business එක enroll කර ඇති අතර ඔබට මේවා ලැබී ඇත:
 
-- ඔබේ **ව්‍යාපාර කේතය** (ඔබේ ව්‍යාපාරයට කෙටි නමක්, උදා. `kandy-mart`),
-- හිමිකරු ගිණුමේ **ඊමේල් සහ පළමු මුරපදය** — නැතහොත්, ඔබ අන්තර්ජාලයෙන් අයදුම් කළේ නම්, **මුරපදය තේරීමට**
-  සබැඳියක් සහිත ඊමේල් එකක්.
+- ඔබේ **business code** එක (business එකේ කෙටි නමක්, උදා. `kandy-mart`),
+- owner account එකේ **email එක සහ පළමු password එක** — නැත්නම් ඔබ online apply කළා නම්, **password එක
+  තෝරා ගන්න** link එකක් සහිත email එකක්.
 
-<Aside type="note" title="GPOS ලිපින">
-- **පසුපස කාර්යාලය** (හිමිකරුවන්, කළමනාකරුවන්, කාර්යාල කාර්ය මණ්ඩලය): **[https://app.gpos.lk](https://app.gpos.lk)**
-- **ටිල් / POS** (ගෙවීම් කවුන්ටරය): **[https://app.gpos.lk/pos/](https://app.gpos.lk/pos/)**
+<Aside type="note" title="GPOS addresses">
+- **Back office** (owners, managers, office staff): **[https://app.gpos.lk](https://app.gpos.lk)**
+- **Till / POS** (checkout counter එක): **[https://app.gpos.lk/pos/](https://app.gpos.lk/pos/)**
 
-දෙකම bookmark කරන්න. සෑම විටම `https://` සමඟ ටයිප් කරන්න.
+දෙකම bookmark කරගන්න. හැම විටම `https://` සමඟ type කරන්න.
 </Aside>
 
-මෙම පිටුව ඔබව එතැන් සිට පළමු විකුණුම දක්වා රැගෙන යයි. **පැයක් පමණ** වෙන් කරන්න — ඔබේ නිෂ්පාදන
-පැතුරුම්පතකින් ආයාත කරන්නේ නම් ඊටත් අඩුයි.
+මේ page එක ඔබව එතැන් සිට පළමු sale එක දක්වා රැගෙන යනවා. **පැයක් පමණ** කාලයක් වෙන් කරගන්න — products
+spreadsheet එකකින් import කරනවා නම් ඊටත් අඩුයි.
 
-<Aside type="tip" title="උපකරණ පුවරුවේ ලැයිස්තුව අනුගමනය කරන්න">
-පුරනය වූ පසු, උපකරණ පුවරුවේ **ඔබේ ව්‍යාපාරය සූදානම් කරන්න** (Get your business ready) නමැති කාඩ්පතක
-මෙම පිටුවේ ඇති පියවර අටම පෙන්වයි. සෑම පියවරකටම <span class="ui">විවෘත කරන්න</span> බොත්තමක් ඇති
-අතර එය ඔබව නිවැරදි තිරයට ගෙන යයි. පියවර සම්පූර්ණ වූ බව GPOS දුටු විට එය **ස්වයංක්‍රීයව සලකුණු** වේ.
+<Aside type="tip" title="Dashboard එකේ checklist එක අනුගමනය කරන්න">
+Sign in වූ පසු dashboard එකේ **Get your business ready** කියන card එකක් පෙනෙනවා — මේ page එකේ තියෙන
+පියවර අටම එහි තියෙනවා. හැම පියවරකම <span class="ui">Open</span> button එකක් තියෙනවා, එයින් අදාළ screen
+එකට කෙලින්ම යන්න පුළුවන්. පියවර ඉවර වුණාම GPOS එය **තනියම tick කරනවා**.
 </Aside>
 
-<Aside type="note">
-මෙම මාර්ගෝපදේශයේ බොත්තම් සහ මෙනු නම් GPOS සිංහල අතුරු මුහුණතේ පෙනෙන ආකාරයටම ලියා ඇත.
-ඔබ GPOS ඉංග්‍රීසියෙන් භාවිතා කරන්නේ නම්, ඉංග්‍රීසි නම වරහන් තුළ දක්වා ඇත.
+<Aside type="caution" title="Features ඔබේ plan එක අනුව වෙනස් වේ">
+GPOS plans කිහිපයක් තියෙනවා — උදා. **Basic**, **Standard** හෝ **Custom**. මේ guide එකේ සමහර features
+(inventory, purchasing, customers, branches කිහිපයක්, expiry tracking වගේ) ඔබේ plan එකේ නැති වෙන්න පුළුවන්,
+ඒ නිසා checklist එකේ පියවර අටට වඩා අඩු වෙන්නත් පුළුවන්. Dashboard එකේ **Plan** card එක බලන්න, සහ
+[Plans and features](/si/getting-started/plans/) කියවන්න.
 </Aside>
 
-<Aside type="caution" title="විශේෂාංග ඔබේ සැලැස්ම මත රඳා පවතී">
-GPOS විවිධ සැලසුම් යටතේ ලැබේ — උදාහරණයක් ලෙස **Basic**, **Standard** හෝ **Custom**. මෙම මාර්ගෝපදේශයේ
-සමහර විශේෂාංග (තොග, මිලදී ගැනීම්, පාරිභෝගිකයින්, ශාඛා කිහිපයක් හෝ කල් ඉකුත්වීම් නිරීක්ෂණය වැනි) ඔබේ
-සැලැස්මේ නොතිබිය හැකි අතර, ඔබේ ලැයිස්තුවේ පියවර අටකට වඩා අඩු විය හැක. ඔබේ උපකරණ පුවරුවේ **සැලැස්ම**
-කාඩ්පත පරීක්ෂා කර [සැලසුම් සහ විශේෂාංග](/si/getting-started/plans/) බලන්න.
-</Aside>
+## පටන් ගන්න කලින්
 
-## ආරම්භ කිරීමට පෙර
+මේවා සූදානම් කරගන්න:
 
-මේවා සූදානම් කර ගන්න:
+- Back office එකට **Chrome හෝ Edge** තියෙන computer එකක්.
+- **Till device** එක — Chrome හෝ Edge තියෙන counter computer, laptop හෝ tablet එකක්. USB හෝ Bluetooth
+  barcode scanner එකක් සහ receipt printer එකක් (58 mm හෝ 80 mm) අනිවාර්ය නැහැ, නමුත් හොඳයි.
+- Prices සමඟ ඔබේ **product list** එක (barcodes තියෙනවා නම් ඒවාත්). Spreadsheet එකක් නම් වඩාත් හොඳයි.
+- ඔබ VAT registered නම් **VAT registration** විස්තර.
+- GPOS භාවිතා කරන staff අයගේ **නම් සහ email addresses**.
 
-- පසුපස කාර්යාලය සඳහා **Chrome හෝ Edge** සහිත පරිගණකයක්.
-- **ටිල් උපාංගය** — Chrome හෝ Edge සහිත කවුන්ටර් පරිගණකයක්, ලැප්ටොප් එකක් හෝ ටැබ්ලටයක්. USB හෝ
-  Bluetooth බාර්කේත ස්කෑනරයක් සහ රිසිට්පත් මුද්‍රකයක් (58 mm හෝ 80 mm) අත්‍යවශ්‍ය නොවේ, නමුත් නිර්දේශිතයි.
-- මිල ගණන් (සහ තිබේ නම් බාර්කේත) සහිත ඔබේ **නිෂ්පාදන ලැයිස්තුව**. පැතුරුම්පතක් වඩාත් සුදුසුයි.
-- ඔබ VAT ලියාපදිංචි නම්, ඔබේ **VAT ලියාපදිංචි** විස්තර.
-- GPOS භාවිතා කරන කාර්ය මණ්ඩලයේ **නම් සහ ඊමේල් ලිපින**.
-
-## පියවර 0 — පළමු වරට පුරනය වන්න
+## පියවර 0 — පළමු වරට sign in වීම
 
 <Steps>
 
-1. පසුපස කාර්යාලය **[app.gpos.lk](https://app.gpos.lk)** විවෘත කරන්න.
-2. ඔබේ **ව්‍යාපාර කේතය**, **ඊමේල්** සහ **මුරපදය** ඇතුළත් කර <span class="ui">පුරනය වන්න</span> (Sign in) තෝරන්න.
-3. **නව මුරපදයක් තෝරා ගැනීමට** ඔබෙන් අසනු ඇත (අවම අක්ෂර 12 — මතක තබා ගත හැකි වාක්‍ය ඛණ්ඩයක්
-   හොඳින් ක්‍රියා කරයි). දැන්ම මෙය කරන්න; පළමු මුරපදය තාවකාලික පමණි.
-4. **සේවා නියමයන්** (සහ රහස්‍යතා සහ දත්ත සැකසීමේ නියමයන්) කියවා පිළිගන්න: කොටුව සලකුණු කර
-   <span class="ui">පිළිගෙන ඉදිරියට යන්න</span> තෝරන්න. ඉල්ලනු ලබන්නේ හිමිකරුගෙන් පමණි.
-5. GPOS **පියවර දෙකේ පිවිසුම සකසන්න** ලෙස ඉල්ලුවහොත්, ඔබේ දුරකථනයේ සත්‍යාපන යෙදුමකින් QR කේතය ස්කෑන් කර
-   ප්‍රතිසාධන කේත ආරක්ෂිතව තබා ගන්න — [පියවර දෙකේ පිවිසුම](/si/getting-started/two-step-sign-in/) බලන්න.
-   විකල්ප වුවත්, හිමිකරුට එය අපි නිර්දේශ කරමු.
-6. අවශ්‍ය නම්: භාෂා ස්විචය මගින් ඔබේ භාෂාව තෝරන්න (English, සිංහල හෝ தமிழ்).
+1. **[app.gpos.lk](https://app.gpos.lk)** හි back office එක open කරන්න.
+2. ඔබේ **Business code**, **Email** සහ **Password** type කර <span class="ui">Sign in</span> තෝරන්න.
+3. ඔබට පළමු password එකක් දී තිබුණා නම්, **අලුත් password එකක් තෝරන්න** කියලා අහනවා (අවම අකුරු 12 —
+   මතක තියාගන්න ලේසි වාක්‍යයක් හොඳයි). දැන්ම එය කරන්න; පළමු password එක තාවකාලිකයි.
+4. **Terms of service** (සහ privacy සහ data-processing terms) කියවා accept කරන්න: box එක tick කර
+   <span class="ui">Accept and continue</span> තෝරන්න. මෙය අහන්නේ owner ගෙන් පමණයි.
+5. GPOS **Set up two-step sign-in** කියලා ඇහුවොත්, phone එකේ authenticator app එකකින් QR code එක scan කර
+   recovery codes ආරක්ෂිතව තබාගන්න — [Two-step sign-in](/si/getting-started/two-step-sign-in/) බලන්න.
+   අනිවාර්ය නැති වුණත් owner ට එය දාගන්න කියලා අපි නිර්දේශ කරනවා.
+6. අවශ්‍ය නම්: language switch එකෙන් භාෂාව තෝරන්න (English, සිංහල හෝ தமிழ்).
 
 </Steps>
 
-වැඩි විස්තර: [පුරනය වීම](/si/getting-started/signing-in/).
+වැඩි විස්තර: [Signing in](/si/getting-started/signing-in/).
 
-## පියවර 1 — ව්‍යාපාර විස්තර සහ රිසිට්පත් ශීර්ෂය
+## පියවර 1 — Business details සහ receipt header
 
-ඔබ කවුදැයි GPOS වෙත කියන්න. මෙම තොරතුරු ඔබේ රිසිට්පත්වල මුද්‍රණය වේ.
+ඔබ කවුද කියලා GPOS ට කියන්න. මේ විස්තර receipts වල print වෙනවා.
 
 <Steps>
 
-1. **සැකසුම්** (Settings) → **ව්‍යාපාර පැතිකඩ** වෙත යන්න.
-2. ඔබේ **දුරකථන**, **සම්බන්ධතා ඊමේල්** සහ **ලිපිනය** කොටස පුරවන්න.
-3. **ප්‍රාදේශීය සැකසුම්** පරීක්ෂා කරන්න: මුදල් ඒකකය, වේලා කලාපය සහ ඔබේ කාර්ය මණ්ඩලය සඳහා **පෙරනිමි භාෂාව**.
-4. **රිසිට්පත්** දක්වා පහළට ගොස්, සෑම රිසිට්පතකම ඉහළින් මුද්‍රණය වන **ශීර්ෂ පේළි** (පේළි 4ක් දක්වා —
-   උදා. ලිපිනය සහ දුරකථන අංකය) සහ *ස්තූතියි, නැවත එන්න!* වැනි **පාද පාඨය** එක් කරන්න.
-5. <span class="ui">සැකසුම් සුරකින්න</span> තෝරන්න.
+1. **Settings** → **Business profile** වෙත යන්න.
+2. ඔබේ **Phone**, **Contact email** සහ **Address** කොටස පුරවන්න.
+3. **Regional settings** බලන්න: currency, time zone සහ staff අයට **Default language** එක.
+4. **Receipts** දක්වා scroll කර, හැම receipt එකකම උඩින් print වෙන **Header lines** add කරන්න (lines 4ක්
+   දක්වා — උදා. address එක සහ hotline එක) සහ *Thank you, come again!* වගේ **Footer text** එකක්.
+5. <span class="ui">Save settings</span> තෝරන්න.
 
 </Steps>
 
-## පියවර 2 — බද්ද
+විස්තරාත්මකව: [Business settings](/si/business/settings/).
+
+## පියවර 2 — Tax
 
 <Tabs>
-<TabItem label="අපි VAT ලියාපදිංචියි">
+<TabItem label="අපි VAT registered">
 
-ලැයිස්තුවේ <span class="ui">VAT 18% එක් කරන්න</span> තෝරන්න. GPOS ඔබ වෙනුවෙන් 18% **VAT** බදු අනුපාතයක්
-සහ **VAT 18%** බදු කණ්ඩායමක් සාදයි. ඉන්පසු ඔබේ බදු අය කළ යුතු නිෂ්පාදනවලට *VAT 18%* බදු කණ්ඩායම
-දෙන්න (පියවර 4 දී නිෂ්පාදන එක් කරන විට, හෝ ආයාත පැතුරුම්පතේ `tax_group` තීරුවේ `VAT18` කේතය ලෙස).
+Checklist එකේ <span class="ui">Add VAT 18%</span> තෝරන්න. GPOS 18% ක **VAT** tax rate එකක් සහ **VAT 18%**
+කියන tax group එකක් හදනවා. ඊට පස්සේ tax අය වෙන products වලට *VAT 18%* tax group එක දෙන්න (පියවර 4 දී
+products add කරන ගමන් කරන්න පුළුවන්, නැත්නම් import spreadsheet එකේ `tax_group` column එකේ `VAT18` code
+එක දාන්න).
 
-පෙරනිමියෙන් **මිලට බදු ඇතුළත්** — රාක්කයේ මිල පාරිභෝගිකයා ගෙවන මුදලයි, බද්ද එයින් ගණනය කෙරේ.
-ගෙවීමේදී බද්ද ඉහළින් එක් කිරීමට නම්, **සැකසුම් → නිෂ්පාදන සහ මිල ගණන්** හි **මිලට බදු ඇතුළත්** ඉවත් කරන්න.
+Default විදිහට **prices include tax** — shelf price එක තමයි customer ගෙවන්නේ, tax එක ඒ ඇතුළෙන් ගණනය
+වෙනවා. Checkout එකේදී tax එක උඩින් එකතු කරන්න ඕන නම්, **Settings → Products and prices** හි **Prices
+include tax** untick කරන්න.
 
 </TabItem>
-<TabItem label="අපි VAT අය නොකරමු">
+<TabItem label="අපි VAT අය කරන්නේ නැහැ">
 
-ලැයිස්තුවේ <span class="ui">අපි VAT අය නොකරමු</span> තෝරන්න. බදු කණ්ඩායමක් නැති නිෂ්පාදනවලට බදු අය නොවේ.
-ඔබට පසුව ඕනෑම වේලාවක බදු අනුපාත එක් කළ හැක.
+Checklist එකේ <span class="ui">We do not charge VAT</span> තෝරන්න. Tax group එකක් නැති products වලට tax
+අය වෙන්නේ නැහැ. පස්සේ ඕනෑම වෙලාවක tax rates add කරන්න පුළුවන්.
 
 </TabItem>
 </Tabs>
 
 <Aside type="caution">
-විකිණීම ආරම්භ කිරීමට පෙර ඔබේ බදු අනුපාත ඔබේ ගණකාධිකාරී සමඟ තහවුරු කර ගන්න.
+විකුණන්න පටන් ගන්න කලින් ඔබේ tax rates accountant එක්ක confirm කරගන්න.
 </Aside>
 
-## පියවර 3 — ගෙවීම් ක්‍රම
+විස්තරාත්මකව: [Taxes](/si/catalog/taxes/).
 
-**මුදල්, කාඩ්, QR ගෙවීම සහ බැංකු මාරුව** භාවිතයට සූදානම්. කාඩ්, QR සහ බැංකු ගෙවීම් ඔබේ බැංකුවේ
-ටර්මිනලයෙන් හෝ ඇප් එකෙන් ලබා ගනී — GPOS ඒවා අයකැමි ටයිප් කරන යොමුව සමඟ වාර්තා කරයි පමණි.
+## පියවර 3 — Payment methods
 
-- ඔබ ඒ සියල්ල පිළිගන්නේ නම්, <span class="ui">මේවා හොඳයි</span> තෝරන්න.
-- නැතිනම් **සැකසුම් → ගෙවීම් ක්‍රම** වෙත ගොස් ඔබ නොගන්නා ඒවා <span class="ui">අක්‍රිය කරන්න</span>, හෝ
-  ඔබේම ක්‍රමයක් සඳහා <span class="ui">ගෙවීම් ක්‍රමයක් එක් කරන්න</span> (උදා. තෑගි වවුචරයක්).
+**Cash, Card, QR payment සහ Bank transfer** භාවිතයට සූදානම්. Card, QR සහ bank payments ගන්නේ ඔබේ bank
+එකේ terminal එකෙන් හෝ app එකෙන් — GPOS ඒවා cashier type කරන reference එකත් එක්ක record කරනවා විතරයි.
 
-## පියවර 4 — නිෂ්පාදන
+- ඒ හැම එකම ඔබ ගන්නවා නම්, <span class="ui">These are fine</span> තෝරන්න.
+- නැත්නම් **Settings → Payment methods** වෙත ගිහින් ඔබ නොගන්න ඒවා **switch off** කරන්න, හෝ ඔබේම method
+  එකක් (උදා. gift voucher) සඳහා <span class="ui">Add payment method</span> තෝරන්න.
+
+විස්තරාත්මකව: [Payment methods](/si/business/payment-methods/).
+
+## පියවර 4 — Products
 
 ඔබට ගැලපෙන ක්‍රමය තෝරන්න:
 
 <Tabs>
-<TabItem label="පැතුරුම්පතක් ආයාත කරන්න (නිෂ්පාදන බොහොමයක්)">
+<TabItem label="Spreadsheet එකක් import කරන්න (products ගොඩක්)">
 
 <Steps>
 
-1. **නිෂ්පාදන** (Products) → <span class="ui">ආයාත / අපනයන</span> වෙත යන්න.
-2. **Excel අච්චුව** (හෝ CSV අච්චුව) බාගන්න. **එක් භාණ්ඩයකට එක් පේළියක්** පුරවන්න — නම, ඒකකය
-   (`pcs`, `kg`…), SKU, බාර්කේත, පිරිවැය සහ විකුණුම් මිල.
-3. <span class="ui">ගොනුව උඩුගත කරන්න…</span> තෝරන්න. තවම කිසිවක් වෙනස් නොවේ — GPOS එය සාදන දේ පෙන්වන
-   අතර ගැටලු ඇත්නම් පේළිය අනුව ලැයිස්තුගත කරයි.
-4. ගැටලු ගොනුවේ නිවැරදි කර නැවත උඩුගත කරන්න. **ආයාත කිරීමට සූදානම්** ලෙස පෙන්වූ විට
-   <span class="ui">දැන් ආයාත කරන්න</span> තෝරන්න.
+1. **Products** → <span class="ui">Import / export</span> වෙත යන්න.
+2. **Excel template** එක (හෝ CSV template එක) download කරන්න. **Item එකකට එක row එකක්** පුරවන්න — නම,
+   unit (`pcs`, `kg`…), SKU, barcodes, cost සහ selling price.
+3. <span class="ui">Upload file…</span> තෝරන්න. තවම කිසිම දෙයක් වෙනස් වෙන්නේ නැහැ — GPOS හදන්න යන දේ
+   පෙන්නනවා, ප්‍රශ්න තියෙනවා නම් row අනුව list කරනවා.
+4. File එකේ ප්‍රශ්න හදලා ආයෙත් upload කරන්න. **Ready to import** කියලා පෙන්නුවාම
+   <span class="ui">Import now</span> තෝරන්න.
 
 </Steps>
 
-තීරු පිළිබඳ විස්තර: [Import and export](/si/catalog/import-export/) (ඉංග්‍රීසි).
+විස්තරාත්මකව: [Import and export](/si/catalog/import-export/).
 
 </TabItem>
-<TabItem label="නිෂ්පාදන එකින් එක එක් කරන්න">
+<TabItem label="Products එකින් එක add කරන්න">
 
 <Steps>
 
-1. **නිෂ්පාදන** → <span class="ui">නව නිෂ්පාදනය</span> වෙත යන්න.
-2. **නම** ඇතුළත් කර, **ඒකකය** සහ **බදු කණ්ඩායම** තෝරන්න.
-3. **කේත සහ මිල** යටතේ **SKU**, **බාර්කේත** සහ **විකුණුම් මිල** ඇතුළත් කරන්න.
-4. <span class="ui">නිෂ්පාදනය සාදන්න</span> තෝරන්න.
+1. **Products** → <span class="ui">New product</span> වෙත යන්න.
+2. **Name** type කර **Unit** සහ **Tax group** තෝරන්න.
+3. **Codes and price** යටතේ **SKU**, **Barcodes** සහ **Selling price** type කරන්න.
+4. <span class="ui">Create product</span> තෝරන්න.
 
 </Steps>
+
+විස්තරාත්මකව: [Products, variants and prices](/si/catalog/products/).
 
 </TabItem>
 </Tabs>
 
-## පියවර 5 — ආරම්භක තොගය
+## පියවර 5 — Opening stock
 
-තොග මට්ටම් නිවැරදිව ආරම්භ වීමට, අද ඔබේ රාක්කවල ඇති දේ ඇතුළත් කරන්න.
-
-<Steps>
-
-1. **තොග** (Inventory) → **ආරම්භක තොගය** වෙත ගොස් **ගබඩාව** තෝරන්න.
-2. පැතුරුම්පතකින් පේළි අලවන්න — **SKU හෝ බාර්කේතය, ප්‍රමාණය, අවශ්‍ය නම් ඒකක පිරිවැය** — හෝ CSV එකක් උඩුගත කරන්න.
-3. <span class="ui">පරීක්ෂා කරන්න</span> තෝරන්න. සියලු පේළි හරි නම්, <span class="ui">ආරම්භක තොගය සටහන් කරන්න</span> තෝරන්න.
-
-</Steps>
-
-තවම තොග නිරීක්ෂණය නොකරනවාද? ලැයිස්තුවේ <span class="ui">දැනට මඟ හරින්න</span> තෝරන්න.
-
-## පියවර 6 — පළමු ටිල් එක සම්බන්ධ කරන්න
+Stock levels හරියට පටන් ගන්න, අද shelves වල තියෙන ප්‍රමාණය දාන්න.
 
 <Steps>
 
-1. පළමුව **මුදල් ලාච්චුවක්** (register — ගෙවීම් කවුන්ටරයක්) එක් කරන්න: **ශාඛා** වෙත ගොස්, ඔබේ ශාඛාවේ
-   (ආරම්භයේදී **MAIN** ලෙස නම් කර ඇත) **මුදල් ලාච්චු** යටතේ <span class="ui">එක් කරන්න</span> තෝරන්න.
-   කේතයක් සහ නමක් දෙන්න, උදා. `R1` — *කවුන්ටරය 1*.
-2. **POS උපාංග** වෙත යන්න. මුදල් ලාච්චුව අසල <span class="ui">ටිල් එකක් සකසන්න</span> තෝරන්න.
-   **එක් වරක් පමණක් භාවිතා කළ හැකි කේතයක්** සහ QR කේතයක් පෙන්වයි (මිනිත්තු 15ක් වලංගුයි).
-3. ටිල් උපාංගයේ, Chrome හෝ Edge තුළ **[app.gpos.lk/pos](https://app.gpos.lk/pos/)** විවෘත කරන්න.
-4. **සැකසුම් කේතය** ඇතුළත් කරන්න (හෝ QR කේතය ස්කෑන් කරන්න), ටිල් එකට *ඉදිරිපස කවුන්ටරය* වැනි නමක්
-   දී <span class="ui">මෙම ටිල් එක ලියාපදිංචි කරන්න</span> තෝරන්න.
-5. ටිල් එක නාමාවලිය බාගන්නා තෙක් රැඳී සිටින්න. මෙතැන් සිට එය **නොබැඳිව (offline)** ද ක්‍රියා කරයි.
+1. **Inventory** → **Opening stock** වෙත ගිහින් **Store** එක තෝරන්න.
+2. Spreadsheet එකකින් rows paste කරන්න — **SKU හෝ barcode, quantity, unit cost (අවශ්‍ය නම්)** — නැත්නම්
+   CSV එකක් upload කරන්න.
+3. <span class="ui">Check</span> තෝරන්න. හැම row එකම හරි නම් <span class="ui">Post opening stock</span> තෝරන්න.
 
 </Steps>
 
-## පියවර 7 — කාර්ය මණ්ඩලය එක් කරන්න
+තවම stock track කරන්නේ නැද්ද? Checklist එකේ <span class="ui">Skip for now</span> තෝරන්න.
+
+විස්තරාත්මකව: [Opening stock](/si/inventory/opening-stock/).
+
+## පියවර 6 — පළමු till එක pair කරන්න
 
 <Steps>
 
-1. **සේවකයින්** (Employees) → <span class="ui">සේවකයෙකු එක් කරන්න</span> වෙත යන්න.
-2. ඔවුන්ගේ **සම්පූර්ණ නම**, **ඊමේල්** සහ **ආරම්භක මුරපදය** (අවම අක්ෂර 12) ඇතුළත් කරන්න.
-3. ඔවුන්ට **භූමිකාවක්** — උදා. *Cashier* (අයකැමි) — සහ ඔවුන් වැඩ කරන **ශාඛාව** දෙන්න.
-4. <span class="ui">සේවකයා සාදන්න</span> තෝරන්න.
-5. ටිල් එක අගුළු හැරීමට ඉඩ දීමට, සේවකයා විවෘත කර <span class="ui">POS PIN සකසන්න</span> (ඉලක්කම් 6)
-   තෝරන්න. PIN එක පුද්ගලිකව ඔවුන්ට කියන්න. ඔවුන්ට එය **මගේ ගිණුම** තුළ තමන්ම සැකසිය හැක.
+1. මුලින්ම **register** එකක් (checkout counter එකක්) add කරන්න: **Branches** වෙත ගිහින්, ඔබේ branch එකේ
+   (මුලින් නම **MAIN**) **Registers** යටතේ <span class="ui">Add</span> තෝරන්න. Code එකක් සහ නමක් දෙන්න,
+   උදා. `R1` — *Counter 1*.
+2. **POS devices** වෙත යන්න. Register එක ළඟ <span class="ui">Set up a till</span> තෝරන්න. **One-time code**
+   එකක් සහ QR code එකක් පෙනෙනවා (විනාඩි 15ක් valid).
+3. Till device එකේ Chrome හෝ Edge වලින් **[app.gpos.lk/pos](https://app.gpos.lk/pos/)** open කරන්න.
+4. **Setup code** එක type කරන්න (හෝ QR code එක scan කරන්න), till එකට *Front counter* වගේ නමක් දී
+   <span class="ui">Register this till</span> තෝරන්න.
+5. Till එක catalog එක download කරනකම් ඉන්න. මෙතැන් සිට එය **offline** ත් වැඩ කරනවා.
 
 </Steps>
 
-තනිව වැඩ කරනවාද? ලැයිස්තුවේ <span class="ui">මම තනිව වැඩ කරමි</span> තෝරන්න — නමුත් **මගේ ගිණුම** තුළ
-**ඔබේම POS PIN එක සකසන්න**, මන්ද ටිල් එක අගුළු හැරීමට එය අවශ්‍යයි.
+විස්තරාත්මකව: [Set up a till](/si/till/set-up-a-till/).
 
-## පියවර 8 — පළමු විකුණුම කරන්න
+## පියවර 7 — Staff add කරන්න
 
 <Steps>
 
-1. ටිල් එකේ, ඔබේ නම තෝරා **ඔබේ PIN ඇතුළත් කරන්න**.
-2. **මාරුවක් විවෘත කරන්න**: ලාච්චුවේ ඇති මුදල් (*ආරම්භක මුදල*) ගණන් කර <span class="ui">මාරුව විවෘත කරන්න</span> තෝරන්න.
-3. **බාර්කේතයක් ස්කෑන් කරන්න** හෝ නිෂ්පාදන නමක් ටයිප් කරන්න. භාණ්ඩය විකුණුමට එක් වේ.
-4. <span class="ui">ගෙවන්න</span> තෝරන්න (හෝ **F4** ඔබන්න), **ලැබුණු මුදල** ඇතුළත් කර
-   <span class="ui">විකුණුම සම්පූර්ණ කරන්න</span> තෝරන්න. දිය යුතු ඉතිරි මුදල ටිල් එක පෙන්වයි.
+1. **Employees** → <span class="ui">Add employee</span> වෙත යන්න.
+2. ඔවුන්ගේ **Full name**, **Email** සහ **Initial password** එකක් (අවම අකුරු 12) type කරන්න.
+3. **Role** එකක් දෙන්න — උදා. *Cashier* — සහ ඔවුන් වැඩ කරන **Branch** එක.
+4. <span class="ui">Create employee</span> තෝරන්න.
+5. Till එක unlock කරන්න ඉඩ දෙන්න, employee open කර <span class="ui">Set POS PIN</span> තෝරන්න (ඉලක්කම් 6).
+   PIN එක ඔවුන්ට කෙලින්ම කියන්න. ඔවුන්ට **My account** එකෙන් තමන්ම එය set කරන්නත් පුළුවන්.
 
 </Steps>
 
-🎉 විකුණුම දැන් පසුපස කාර්යාලයේ **විකුණුම්** සහ **වාර්තා** තුළ පෙනේ, ලැයිස්තුව **ඔබේ ව්‍යාපාරය සූදානම්**
-ලෙස පෙන්වයි. ඔබට <span class="ui">ලැයිස්තුව සඟවන්න</span> තේරිය හැක.
+තනියම වැඩ කරනවාද? Checklist එකේ <span class="ui">I work alone</span> තෝරන්න — නමුත් **My account** එකේ
+**ඔබේම POS PIN එක set කරන්න**, මොකද till එක unlock කරන්න එය ඕන.
 
-<Aside type="caution" title="වට්ටම් සහ මුදල් ගැනීම් ගැන">
-ආරම්භයේදී, අයකැමිවරයෙකු දෙන **සෑම වට්ටමකටම** සහ **සෑම මුදල් ගැනීමකටම** (cash out) කළමනාකරුවෙකුගේ
-PIN අවශ්‍යයි. මෙය වෙනස් කිරීමට **සැකසුම් → ගෙවීම් සහ මුදල්** බලන්න
-([Business settings](/si/business/settings/#checkout-and-cash), ඉංග්‍රීසි).
+විස්තරාත්මකව: [Employees](/si/business/employees/) · [Roles and permissions](/si/business/roles/).
+
+## පියවර 8 — පළමු sale එක කරන්න
+
+<Steps>
+
+1. Till එකේ ඔබේ නම තෝරා **PIN එක type කරන්න**.
+2. **Shift එකක් open කරන්න**: drawer එකේ තියෙන cash (*opening float*) ගණන් කර
+   <span class="ui">Open shift</span> තෝරන්න.
+3. **Barcode එකක් scan කරන්න** හෝ product නමක් type කරන්න. Item එක sale එකට එකතු වෙනවා.
+4. <span class="ui">Pay</span> තෝරන්න (හෝ **F4** ඔබන්න), **Cash received** type කර
+   <span class="ui">Complete sale</span> තෝරන්න. දෙන්න ඕන change එක till එක පෙන්නනවා.
+
+</Steps>
+
+🎉 දැන් sale එක back office එකේ **Sales** සහ **Reports** වල පෙනෙනවා, checklist එකේ **Your business is
+ready** කියලා පෙන්නනවා. <span class="ui">Hide checklist</span> තෝරන්න පුළුවන්.
+
+විස්තරාත්මකව: [Making a sale](/si/till/making-a-sale/) · [Cash shifts on the till](/si/till/shifts/).
+
+<Aside type="caution" title="Discounts සහ cash outs ගැන">
+මුලින්ම, cashier දෙන **හැම** discount එකකටම සහ **හැම** cash out එකකටම manager ගේ PIN එක ඕන. මේක ලිහිල්
+කරන්න [Business settings](/si/business/settings/) හි *Checkout and cash* බලන්න.
 </Aside>
 
-:::tip[සාප්පුව විවෘත කිරීමට පෙර]
-- එක් එක් ටිල් එකේ ඔබේ පරීක්ෂණ විකුණුම **ආපසු ගැනීමක්** ද කර බලන්න (**F9** → විකුණුම → *ආපසු*), සහ
-  **Daily sales** වාර්තාව විවෘත කරන්න.
-- විශ්වාසවන්ත දෙවන පුද්ගලයෙකුට **Administrator** භූමිකාව දෙන්න — හිමිකරුට කිසි දිනෙක පිවිසිය නොහැකි
-  වුවහොත් ව්‍යාපාරයටම උදව් කර ගත හැක.
+:::tip[Shop එක open කරන්න කලින්]
+- හැම till එකකම ඔබේ test sale එකේ **test return** එකක් කරන්න (**F9** → sale එක → *Return*) —
+  [Returns and voids](/si/till/returns-voids/) බලන්න — සහ **Daily sales** report එක open කරන්න.
+- විශ්වාසවන්ත දෙවැනි කෙනෙකුට **Administrator** role එක දෙන්න. එතකොට owner lock out වුණොත් business එකට
+  තනියම ප්‍රශ්නය විසඳගන්න පුළුවන්.
 :::
 
-## ඊළඟට කුමක්ද?
+## ඊළඟට මොකද?
 
-<LinkCard title="ටිල් එක අගුළු හැරීම සහ පරිශීලකයින්" href="../till/unlock-and-users/" />
-<LinkCard title="විකුණුමක් කිරීම" href="../till/making-a-sale/" />
-<LinkCard title="ටිල් එකේ මුදල් මාරු — දවස අවසන් කිරීම" href="../till/shifts/" />
-<LinkCard title="උපකරණ පුවරුව සහ පිහිටුවීමේ ලැයිස්තුව" href="../getting-started/dashboard/" />
+<LinkCard title="Discount limits, return window සහ cash rules set කරන්න" href="../business/settings/" />
+<LinkCard title="Loose items (එළවළු, bakery) සඳහා quick-pick buttons add කරන්න" href="../catalog/quick-picks/" />
+<LinkCard title="දවස close කරන්න: shift එක close කර daily summary එක බලන්න" href="../sales/cash-shifts/" />
+<LinkCard title="අද numbers Reports වල බලන්න" href="../reports/reports/" />
