@@ -41,10 +41,14 @@ status හෝ **Added at till** අනුව filter කරන්න, column එ�
 4. **Codes and price** — හැම variant එකකටම (තව rows වලට <span class="ui">+ Add variant</span>):
    - **SKU** — ඔබේම product code එක, හැම variant එකකටම වෙනස්.
    - **Barcodes** — කිහිපයක් නම් `;` එකෙන් වෙන් කරන්න. **Pack barcode** එකකට `code:quantity` ලියන්න, උදා.
-     `4791234567890:24` — ඒක scan කළාම units 24ක් add වෙනවා.
+     `4791234567890:24` — ඒක scan කළාම units 24ක් add වෙනවා. Barcode එකක් නැද්ද? ඔබේ plan එකේ තියෙනවා නම්
+     item එකට in-store barcode එකක් දෙන්න <span class="ui">Generate</span> තෝරන්න — [Barcodes සහ labels](/si/catalog/barcodes-and-labels/) බලන්න.
    - **Cost** — ඔබ ගෙවන ගණන, margin reports සඳහා.
    - **Selling price** — උදා. `1250.00` (උපරිම දශම 2).
 5. <span class="ui">Create product</span> තෝරන්න.
+
+ඔබේ plan එකේ **Print barcode labels** තියෙනවා නම් GPOS ඊට පස්සේ *Product saved. Print barcode labels for it?* අහනවා —
+[Barcodes සහ labels](/si/catalog/barcodes-and-labels/) බලන්න.
 
 :::note
 Product එක හැදුවාට පස්සේ options **ගණන** වෙනස් කරන්න බැහැ (නම් වෙනස් කරන්න පුළුවන්). Variants තියෙන product එකක්
@@ -57,6 +61,9 @@ Product එක open කර details වෙනස් කර <span class="ui">Save 
 
 පස්සේ තව size එකක් හෝ colour එකක් add කරන්න <span class="ui">Add variant</span> තෝරන්න. Variant එකක SKU, barcodes,
 cost හෝ reorder level වෙනස් කරන්න ඒකේ row එකේ <span class="ui">Edit</span> තෝරන්න.
+
+Product එකට barcode labels print කරන්න <span class="ui">Print labels</span> තෝරන්න —
+[Barcodes සහ labels](/si/catalog/barcodes-and-labels/) බලන්න.
 
 **Reorder level** කියන්නේ inventory සහ reports වල item එකක් *low stock* ලෙස ගණන් වෙන quantity එක.
 

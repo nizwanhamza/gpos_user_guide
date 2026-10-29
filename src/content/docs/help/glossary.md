@@ -27,10 +27,12 @@ sidebar:
 | **Authenticator app** | A phone app (Microsoft Authenticator, Google Authenticator…) that shows a new 6-digit code every 30 seconds. |
 | **Recovery code** | One of 10 single-use codes for two-step sign-in when you do not have your phone. |
 | **PDPA** | Sri Lanka's Personal Data Protection Act. Customers can ask for a copy of their data or for it to be erased. |
-| **Receipt number** | `BRANCH-REGISTER-000123`, numbered per till; a replacement till adds `.2`, `.3`… |
+| **Receipt number** | `BRANCH-REGISTER-000123`, numbered per till; a replacement till adds `.2`, `.3`… Printed as a barcode at the bottom of each receipt. |
 | **SKU** | Your own code for a product variant. |
 | **Variant** | One sellable version of a product (size, colour). |
 | **Pack barcode** | A barcode for several units at once, written `code:quantity`. |
+| **In-store barcode** | A barcode GPOS makes for an item without one: EAN-13 starting with `20`, so it never clashes with a manufacturer's barcode. |
+| **Barcode label** | A sticker with the item's name, barcode and (optionally) price and shop name, printed on a label printer or A4 sheet. |
 | **Tax group** | What a product is given; combines one or more tax rates. |
 | **Quick-pick** | A product button on the till for items without barcodes. |
 | **Opening stock** | The quantities you start with. |

@@ -22,9 +22,11 @@ Both need an **open shift** (refunds come out of its drawer) and, unless your ro
 
 1. Select <span class="ui">Sales</span> (**F9**) to open **Sales on this till**. Here you can also
    reprint a receipt or <span class="ui">Print A4</span> a full-page invoice.
-2. **Search receipt number**, or pick the sale from the list.
+2. **Search receipt number**, or pick the sale from the list. Quicker: **scan the barcode at the
+   bottom of the receipt** — in the till's search box or here — and the sale opens at once.
 3. Sale from **another till**? Type the receipt number and select
-   <span class="ui">Find … (another till)</span> — this needs internet.
+   <span class="ui">Find … (another till)</span> — this needs internet. A scanned receipt from
+   another till is looked up automatically.
 
 ## Return items
 

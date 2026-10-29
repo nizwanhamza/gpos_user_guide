@@ -23,12 +23,17 @@ Goods received go into the store's stock **at their cost**, and the average cost
 
 GPOS shows *Received as GRN-…* — the goods are in stock.
 
+If your plan includes **Print barcode labels**, select <span class="ui">Print labels for these
+items</span> to print one label per item received (change the numbers if needed). See
+[Barcodes and labels](/catalog/barcodes-and-labels/).
+
 ## Receive without an order
 
 1. Go to **Purchasing → Receive goods** → <span class="ui">Receive without an order</span>.
 2. Choose the **Supplier** and **Store**.
 3. Add items with **Unit** (or pack), **Quantity** and **Cost per unit**.
-4. Enter the invoice details and select <span class="ui">Post goods received</span>.
+4. Enter the invoice details and select <span class="ui">Post goods received</span>. You can print
+   labels for the items here too.
 
 ## Packs and cases
 

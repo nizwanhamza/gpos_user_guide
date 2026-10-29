@@ -17,11 +17,14 @@ product ஆக add செய்து விற்கவும். இது **o
 
 1. Barcode ஐ scan செய்யுங்கள். Till *Nothing found for …* மற்றும் <span class="ui">Add as a new product</span> button ஐக் காட்டும்.
    அதைத் தேர்ந்தெடுங்கள்.
-2. **New product** இல் **Barcode** ஐச் சரிபார்த்து இவற்றை உள்ளிடுங்கள்:
+2. **New product** இல் **Barcode** ஐச் சரிபாருங்கள் — அல்லது item க்கு barcode இல்லையெனில் in-store barcode கொடுக்க
+   <span class="ui">Generate</span> ஐத் தேர்ந்தெடுங்கள் ([Barcodes மற்றும் labels](/ta/catalog/barcodes-and-labels/) ஐப் பாருங்கள்). பிறகு இவற்றை உள்ளிடுங்கள்:
    - **Product name** — receipt இல் தெரிய வேண்டியபடி;
    - **Selling price**;
    - **Tax** — tax group, அல்லது *Not taxed*.
-3. <span class="ui">Add and sell at {price}</span> ஐத் தேர்ந்தெடுங்கள். Item sale இல் சேரும்.
+3. உங்கள் plan இல் **Print barcode labels** இருந்தால், item க்கு barcode label ஐ print செய்ய **Print a label for it** ஐ tick
+   செய்யுங்கள் (barcode ஐ generate செய்திருந்தால் ஏற்கனவே tick ஆகியிருக்கும்).
+4. <span class="ui">Add and sell at {price}</span> ஐத் தேர்ந்தெடுங்கள். Item sale இல் சேரும்.
 
 Barcode 3–32 எழுத்துகள், இலக்கங்கள், `-` அல்லது `.` ஆக இருக்க வேண்டும்; EAN/UPC barcodes இல் check digit சரியாக இருக்க வேண்டும்.
 

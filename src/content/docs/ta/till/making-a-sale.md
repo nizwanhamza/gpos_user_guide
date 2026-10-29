@@ -11,6 +11,7 @@ sidebar:
 :::
 
 நாளின் முதல் sale க்கு முன் till இல் **shift open ஆக இருக்க வேண்டும்** — [Cash shifts on the till](/ta/till/shifts/) ஐப் பாருங்கள்.
+அதுவரை till prices ஐச் சரிபார்க்க மட்டுமே முடியும்.
 
 ## 1. Items ஐ add செய்யுங்கள்
 
@@ -26,6 +27,11 @@ Barcode கிடைக்கவில்லையா? உங்கள் plan �
 [Add a product at the till](/ta/till/add-product-at-till/) ஐப் பாருங்கள்.
 
 ஒவ்வொரு result உம் price (*incl. tax* அல்லது *plus tax*), tax group, stock track செய்யப்பட்டால் *In stock here: …* ஐக் காட்டும்.
+உங்கள் plan உம் role உம் அனுமதித்தால், <span class="ui">Print label</span> (result அருகே உள்ள tag button) item க்கு barcode
+label ஐ print செய்யும் — [Barcodes மற்றும் labels](/ta/catalog/barcodes-and-labels/) ஐப் பாருங்கள்.
+
+**Receipt இன் கீழே உள்ள barcode** ஐ scan செய்தால் அதற்குப் பதிலாக அந்த sale open ஆகும் — reprint செய்ய, items ஐ return செய்ய
+அல்லது void செய்ய. [Returns மற்றும் voids](/ta/till/returns-voids/) ஐப் பாருங்கள்.
 
 ### எடைக்கு விற்கப்படும் items
 
@@ -75,6 +81,9 @@ Till **Print after each sale** க்கு set செய்யப்பட்�
 
 Customer க்குப் பிறகு receipt வேண்டுமா? கடைசி receipt ஐ மீண்டும் print செய்ய **F5** ஐ அழுத்துங்கள். பழைய sales: **F9** (*Sales*) →
 sale → reprint, அல்லது முழு page **invoice** க்கு <span class="ui">Print A4</span>. Reprints இல் **COPY** என mark ஆகும்.
+
+ஒவ்வொரு receipt உம் (A4 invoice உம்) அதன் **receipt number ஐ barcode ஆகக்** கொண்டு முடியும். அந்த sale ஐ open செய்ய till இல்
+அதை scan செய்யுங்கள்.
 
 ## Offline ஆக வேலை செய்யும்
 

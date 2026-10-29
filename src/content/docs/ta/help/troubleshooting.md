@@ -75,8 +75,9 @@ features ஐ அது பட்டியலிடும்), உங்கள்
 **"Too many wrong PINs. Try again in …"**
 காட்டப்படும் நேரம் காத்திருங்கள். PIN மறந்துவிட்டால் புதியதை set செய்ய administrator இடம் கேளுங்கள்.
 
-**விற்க முடியவில்லை — "No shift is open"**
-முதலில் shift ஐ open செய்யுங்கள்: [Cash shifts on the till](/ta/till/shifts/) ஐப் பாருங்கள்.
+**விற்க முடியவில்லை — "No shift open: sales are off"**
+Shift open ஆகும் வரை till prices ஐச் சரிபார்க்க மட்டுமே முடியும். முதலில் shift ஐ open செய்யுங்கள் (அல்லது அனுமதி உள்ளவரைக்
+கேளுங்கள்): [Cash shifts on the till](/ta/till/shifts/) ஐப் பாருங்கள்.
 
 **Scan செய்த item க்கு "Nothing found"**
 Barcode எந்த product இலும் இல்லை. Back office இல் product இன் **Barcodes** இல் அதைச் சேர்த்து till ஐ sync செய்யுங்கள். அதுவரை பெயர்

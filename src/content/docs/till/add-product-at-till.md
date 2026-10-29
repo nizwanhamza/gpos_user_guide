@@ -18,11 +18,15 @@ back office before the sale that sells it.
 
 1. Scan the barcode. The till shows *Nothing found for …* and a button
    <span class="ui">Add as a new product</span>. Select it.
-2. In **New product**, check the **Barcode** and enter:
+2. In **New product**, check the **Barcode** — or, if the item has none, select
+   <span class="ui">Generate</span> to give it an in-store barcode (see
+   [Barcodes and labels](/catalog/barcodes-and-labels/#at-the-till)). Then enter:
    - **Product name** — as it should appear on the receipt;
    - **Selling price**;
    - **Tax** — the tax group, or *Not taxed*.
-3. Select <span class="ui">Add and sell at {price}</span>. The item is added to the sale.
+3. If your plan includes **Print barcode labels**, tick **Print a label for it** to print a
+   barcode label for the item (ticked already when you generated the barcode).
+4. Select <span class="ui">Add and sell at {price}</span>. The item is added to the sale.
 
 The barcode must be 3–32 letters, digits, `-` or `.`; for EAN/UPC barcodes the check digit must be
 right.

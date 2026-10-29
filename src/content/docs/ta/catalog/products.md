@@ -41,10 +41,14 @@ features — ஒன்று இல்லாவிட்டால் அதன�
 4. **Codes and price** — ஒவ்வொரு variant க்கும் (மேலும் rows க்கு <span class="ui">+ Add variant</span>):
    - **SKU** — உங்கள் சொந்த product code, ஒவ்வொரு variant க்கும் தனித்துவமானது.
    - **Barcodes** — பல இருந்தால் `;` மூலம் பிரியுங்கள். **Pack barcode** க்கு `code:quantity` என எழுதுங்கள், உதா.
-     `4791234567890:24` — அதை scan செய்தால் 24 units சேரும்.
+     `4791234567890:24` — அதை scan செய்தால் 24 units சேரும். Barcode இல்லையா? உங்கள் plan இல் இருந்தால் item க்கு
+     in-store barcode கொடுக்க <span class="ui">Generate</span> ஐத் தேர்ந்தெடுங்கள் — [Barcodes மற்றும் labels](/ta/catalog/barcodes-and-labels/) ஐப் பாருங்கள்.
    - **Cost** — நீங்கள் செலுத்துவது, margin reports க்கு.
    - **Selling price** — உதா. `1250.00` (அதிகபட்சம் 2 தசமங்கள்).
 5. <span class="ui">Create product</span> ஐத் தேர்ந்தெடுங்கள்.
+
+உங்கள் plan இல் **Print barcode labels** இருந்தால் GPOS பின்னர் *Product saved. Print barcode labels for it?* எனக் கேட்கும் —
+[Barcodes மற்றும் labels](/ta/catalog/barcodes-and-labels/) ஐப் பாருங்கள்.
 
 :::note
 Product உருவானதும் options இன் **எண்ணிக்கை** மாற்ற முடியாது (பெயர்களை மாற்றலாம்). Variants உள்ள product ஐ உருவாக்கும் முன்
@@ -57,6 +61,9 @@ Product ஐ open செய்து, details ஐ மாற்றி <span class=
 
 பின்னர் இன்னொரு size அல்லது colour ஐச் சேர்க்க <span class="ui">Add variant</span> ஐத் தேர்ந்தெடுங்கள். Variant இன் SKU, barcodes,
 cost அல்லது reorder level ஐ மாற்ற அதன் row இல் <span class="ui">Edit</span> ஐத் தேர்ந்தெடுங்கள்.
+
+Product க்கு barcode labels ஐ print செய்ய <span class="ui">Print labels</span> ஐத் தேர்ந்தெடுங்கள் —
+[Barcodes மற்றும் labels](/ta/catalog/barcodes-and-labels/) ஐப் பாருங்கள்.
 
 **Reorder level** என்பது inventory மற்றும் reports இல் item *low stock* ஆகக் கணக்கிடப்படும் quantity.
 

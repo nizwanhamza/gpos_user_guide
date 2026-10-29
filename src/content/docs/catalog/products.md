@@ -42,10 +42,15 @@ on the product page. See [Plans and features](/getting-started/plans/).
 4. **Codes and price** — for each variant (<span class="ui">+ Add variant</span> for more rows):
    - **SKU** — your own product code, unique per variant.
    - **Barcodes** — separate several with `;`. For a **pack barcode** write `code:quantity`, for
-     example `4791234567890:24` — scanning it adds 24 units.
+     example `4791234567890:24` — scanning it adds 24 units. No barcode? If your plan includes it,
+     select <span class="ui">Generate</span> to give the item an in-store barcode — see
+     [Barcodes and labels](/catalog/barcodes-and-labels/).
    - **Cost** — what you pay, for margin reports.
    - **Selling price** — for example `1250.00` (at most 2 decimals).
 5. Select <span class="ui">Create product</span>.
+
+If your plan includes **Print barcode labels**, GPOS then asks *Product saved. Print barcode labels
+for it?* — see [Barcodes and labels](/catalog/barcodes-and-labels/).
 
 :::note
 The **number** of options is fixed once the product exists (you can still rename them). Plan your
@@ -58,6 +63,9 @@ Open the product, change the details and select <span class="ui">Save details</s
 
 To add another size or colour later, select <span class="ui">Add variant</span>. To change a
 variant's SKU, barcodes, cost or reorder level, select <span class="ui">Edit</span> on its row.
+
+To print barcode labels for the product, select <span class="ui">Print labels</span> — see
+[Barcodes and labels](/catalog/barcodes-and-labels/).
 
 **Reorder level** is the quantity at which an item counts as *low stock* in inventory and
 reports.

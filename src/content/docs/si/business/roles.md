@@ -41,6 +41,7 @@ feature එකයි. [Plans and features](/si/getting-started/plans/) බලන
 | Products | View products and catalogue | Products බලන්න. |
 | Products | Create products · Update products · Archive products | Catalog එක manage කරන්න. |
 | Products | Add a new product at the till when a barcode is not found | Default විදිහට Owner, Administrator සහ Manager; අනිත් අයට manager ගේ PIN එක ඕන. Plan feature එකක්. |
+| Barcode labels | Print barcode labels | Back office එකේ සහ till එකේ labels print කරන්න. Default විදිහට Owner, Administrator, Manager සහ Inventory manager. Plan feature එකක්. |
 | Prices | Change selling prices | Prices set කරන්න සහ schedule කරන්න. |
 | Inventory | View inventory | Stock levels සහ movements බලන්න. |
 | Inventory | Post inventory adjustments | Opening stock, adjustments, write-offs, stock counts. |

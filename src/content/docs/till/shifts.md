@@ -19,9 +19,12 @@ reports.
 
 ## Open a shift
 
-When no shift is open the till shows *No shift is open*.
+When no shift is open the till shows a yellow banner **No shift open: sales are off**. Until a
+shift is opened the till only **checks prices**: scan an item or type its name to see its price
+(the search box says *Price check: …*), but nothing can be sold. A cashier without permission to
+open a shift sees *Ask a cashier or manager to open a shift*.
 
-1. Select **Open a shift**.
+1. Select <span class="ui">Open a shift</span> in the banner.
 2. Count the cash in the drawer — the **opening float**. Either:
    - <span class="ui">Count notes and coins</span> — enter how many of each note and coin, and the
      till adds them up; or

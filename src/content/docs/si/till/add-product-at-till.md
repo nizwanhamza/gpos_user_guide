@@ -17,11 +17,14 @@ GPOS තවම නොදන්නා barcode එකක් තියෙන item �
 
 1. Barcode එක scan කරන්න. Till එකේ *Nothing found for …* සහ <span class="ui">Add as a new product</span> button එකක්
    පෙන්නනවා. ඒක තෝරන්න.
-2. **New product** හි **Barcode** එක check කර මේවා දාන්න:
+2. **New product** හි **Barcode** එක check කරන්න — නැත්නම් item එකට barcode එකක් නැත්නම් in-store barcode එකක් දෙන්න
+   <span class="ui">Generate</span> තෝරන්න ([Barcodes සහ labels](/si/catalog/barcodes-and-labels/) බලන්න). ඊට පස්සේ මේවා දාන්න:
    - **Product name** — receipt එකේ පෙනෙන්න ඕන විදිහට;
    - **Selling price**;
    - **Tax** — tax group එක, නැත්නම් *Not taxed*.
-3. <span class="ui">Add and sell at {price}</span> තෝරන්න. Item එක sale එකට add වෙනවා.
+3. ඔබේ plan එකේ **Print barcode labels** තියෙනවා නම්, item එකට barcode label එකක් print කරන්න **Print a label for it**
+   tick කරන්න (barcode එක generate කළා නම් දැනටමත් tick වෙලා).
+4. <span class="ui">Add and sell at {price}</span> තෝරන්න. Item එක sale එකට add වෙනවා.
 
 Barcode එක අකුරු, ඉලක්කම්, `-` හෝ `.` 3–32ක් විය යුතුයි; EAN/UPC barcodes වල check digit එක හරි වෙන්න ඕන.
 

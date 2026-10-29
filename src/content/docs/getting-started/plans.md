@@ -50,6 +50,8 @@ dashboard's **Plan** card.
 | **Sizes and colours (variants)** | Products with sizes, colours and other options | [Products](/catalog/products/) |
 | **Product photos** | Pictures on products | [Products](/catalog/products/) |
 | **Excel / CSV upload and download** | Importing and exporting products | [Import and export](/catalog/import-export/) |
+| **Generate in-store barcodes** | Your own barcodes for items without one, in the back office and at the till | [Barcodes and labels](/catalog/barcodes-and-labels/) |
+| **Print barcode labels** | Barcode labels on a label printer or A4 sticker sheets | [Barcodes and labels](/catalog/barcodes-and-labels/) |
 | **Customer list** | Customer profiles in the back office and at the till, including PDPA export and erase | [Customers](/sales/customers/) |
 | ↳ **Customer discounts** | A customer's own discount, applied at the till | [Customers at the till](/till/customers/) |
 

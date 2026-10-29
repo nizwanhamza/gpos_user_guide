@@ -27,10 +27,12 @@ sidebar:
 | **Authenticator app** | තත්පර 30න් 30ට අලුත් ඉලක්කම් 6ක code එකක් පෙන්නන phone app එකක් (Microsoft Authenticator, Google Authenticator…). |
 | **Recovery code** | Phone එක ළඟ නැති වෙලාවට two-step sign-in සඳහා එක පාරක් භාවිතා කරන codes 10න් එකක්. |
 | **PDPA** | ශ්‍රී ලංකාවේ Personal Data Protection Act. Customers ට ඔවුන්ගේ data copy එකක් හෝ ඒක erase කරන්න ඉල්ලන්න පුළුවන්. |
-| **Receipt number** | `BRANCH-REGISTER-000123`, till අනුව number කරනවා; replacement till එකක් `.2`, `.3`… එකතු කරනවා. |
+| **Receipt number** | `BRANCH-REGISTER-000123`, till අනුව number කරනවා; replacement till එකක් `.2`, `.3`… එකතු කරනවා. හැම receipt එකකම පහළ barcode එකක් විදිහටත් print වෙනවා. |
 | **SKU** | Product variant එකකට ඔබේම code එක. |
 | **Variant** | Product එකක විකුණන්න පුළුවන් එක version එකක් (size, colour). |
 | **Pack barcode** | Units කිහිපයකට එකවර barcode එකක්, `code:quantity` විදිහට ලියනවා. |
+| **In-store barcode** | Barcode නැති item එකකට GPOS හදන barcode එකක්: `20` වලින් පටන් ගන්න EAN-13, ඒ නිසා manufacturer කෙනෙකුගේ barcode එකක් එක්ක කවදාවත් ගැටෙන්නේ නැහැ. |
+| **Barcode label** | Item එකේ නම, barcode එක සහ (ඕන නම්) price එක සහ shop නම තියෙන sticker එකක්, label printer එකක හෝ A4 sheet එකක print කරනවා. |
 | **Tax group** | Product එකකට දෙන දේ; tax rates එකක් හෝ කිහිපයක් එකතු කරනවා. |
 | **Quick-pick** | Barcodes නැති items සඳහා till එකේ product button එකක්. |
 | **Opening stock** | ඔබ පටන් ගන්න quantities. |

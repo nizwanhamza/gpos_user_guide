@@ -41,6 +41,7 @@ Ready-made roles ஒவ்வொரு plan இலும் உள்ளன. **�
 | Products | View products and catalogue | Products ஐப் பார்க்க. |
 | Products | Create products · Update products · Archive products | Catalog ஐ manage செய்ய. |
 | Products | Add a new product at the till when a barcode is not found | Default ஆக Owner, Administrator, Manager; மற்றவர்களுக்கு manager இன் PIN தேவை. Plan feature. |
+| Barcode labels | Print barcode labels | Back office இலும் till இலும் labels ஐ print செய்ய. Default ஆக Owner, Administrator, Manager, Inventory manager. Plan feature. |
 | Prices | Change selling prices | Prices ஐ set மற்றும் schedule செய்ய. |
 | Inventory | View inventory | Stock levels மற்றும் movements ஐப் பார்க்க. |
 | Inventory | Post inventory adjustments | Opening stock, adjustments, write-offs, stock counts. |

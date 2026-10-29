@@ -41,6 +41,7 @@ Every business gets these roles. They are marked **system** and cannot be edited
 | Products | View products and catalogue | See products. |
 | Products | Create products · Update products · Archive products | Manage the catalog. |
 | Products | Add a new product at the till when a barcode is not found | Owner, Administrator and Manager by default; others need a manager's PIN. Plan feature. |
+| Barcode labels | Print barcode labels | Print labels in the back office and at the till. Owner, Administrator, Manager and Inventory manager by default. Plan feature. |
 | Prices | Change selling prices | Set and schedule prices. |
 | Inventory | View inventory | See stock levels and movements. |
 | Inventory | Post inventory adjustments | Opening stock, adjustments, write-offs, stock counts. |

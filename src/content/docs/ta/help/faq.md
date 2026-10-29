@@ -28,6 +28,13 @@ application ஐ review செய்வார் — பொதுவாக சி
 உள்ளிட்டு விற்கவும். Cashiers க்கு manager இன் PIN தேவை. பின்னர் back office இல் product ஐ complete செய்யுங்கள்.
 [Add a product at the till](/ta/till/add-product-at-till/) ஐப் பாருங்கள்.
 
+### எங்கள் சில items க்கு barcode இல்லை. என்ன செய்வது?
+
+உங்கள் plan இல் இருந்தால், <span class="ui">Generate</span> மூலம் ஒவ்வொன்றுக்கும் **in-store barcode** கொடுங்கள் (அல்லது Products
+list இல் <span class="ui">Generate missing barcodes</span> மூலம் அனைத்துக்கும் ஒரே நேரத்தில்), அவற்றில் ஒட்ட **labels ஐ print
+செய்யுங்கள்**. [Barcodes மற்றும் labels](/ta/catalog/barcodes-and-labels/) ஐப் பாருங்கள். அந்த features இல்லாவிட்டால்
+[quick-pick buttons](/ta/catalog/quick-picks/) ஐப் பயன்படுத்துங்கள்.
+
 ### ஒரு shop இல் பல tills ஐப் பயன்படுத்தலாமா?
 
 ஆம். **Branches** இல் ஒவ்வொரு counter க்கும் **register** ஐ add செய்து ஒவ்வொன்றுக்கும் ஒரு till ஐ pair செய்யுங்கள். எத்தனை registers இருக்கலாம்

@@ -29,6 +29,13 @@ Yes, if your plan includes **Add a new item at the till**: scan it, select **Add
 product**, enter the name, price and tax, and sell. Cashiers need a manager's PIN. Complete the
 product later in the back office. See [Add a product at the till](/till/add-product-at-till/).
 
+### Some of our items have no barcode. What can we do?
+
+If your plan includes them, give each one an **in-store barcode** with <span class="ui">Generate</span>
+(or <span class="ui">Generate missing barcodes</span> on the Products list for all at once) and
+**print labels** to stick on them. See [Barcodes and labels](/catalog/barcodes-and-labels/). Without
+those features, use [quick-pick buttons](/catalog/quick-picks/).
+
 ### Can I use several tills in one shop?
 
 Yes. Add a **register** for each counter in **Branches** and pair one till to each. Your plan

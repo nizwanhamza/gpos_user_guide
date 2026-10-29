@@ -22,8 +22,9 @@ sidebar:
 
 1. **Sales on this till** ஐ open செய்ய <span class="ui">Sales</span> (**F9**) ஐத் தேர்ந்தெடுங்கள். இங்கே receipt ஐ reprint செய்யலாம்,
    அல்லது முழு page invoice க்கு <span class="ui">Print A4</span> செய்யலாம்.
-2. **Search receipt number**, அல்லது list இலிருந்து sale ஐத் தேர்ந்தெடுங்கள்.
-3. **வேறு till இன்** sale ஆ? Receipt number ஐ type செய்து <span class="ui">Find … (another till)</span> ஐத் தேர்ந்தெடுங்கள் — இதற்கு internet தேவை.
+2. **Search receipt number**, அல்லது list இலிருந்து sale ஐத் தேர்ந்தெடுங்கள். விரைவான வழி: **receipt இன் கீழே உள்ள barcode ஐ
+   scan செய்யுங்கள்** — till இன் search box இல் அல்லது இங்கே — sale உடனே open ஆகும்.
+3. **வேறு till இன்** sale ஆ? Receipt number ஐ type செய்து <span class="ui">Find … (another till)</span> ஐத் தேர்ந்தெடுங்கள் — இதற்கு internet தேவை. வேறு till இன் receipt ஐ scan செய்தால் அது தானாகத் தேடப்படும்.
 
 ## Items ஐ return செய்யுங்கள்
 

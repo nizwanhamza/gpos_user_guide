@@ -49,6 +49,8 @@ GPOS பல **plans** இல் வருகிறது — உதா. **Basic*
 | **Sizes and colours (variants)** | Sizes, colours மற்றும் பிற options உள்ள products | [Products](/ta/catalog/products/) |
 | **Product photos** | Products இல் pictures | [Products](/ta/catalog/products/) |
 | **Excel / CSV upload and download** | Products ஐ import மற்றும் export செய்தல் | [Import and export](/ta/catalog/import-export/) |
+| **Generate in-store barcodes** | Barcode இல்லாத items க்கு உங்கள் சொந்த barcodes, back office இலும் till இலும் | [Barcodes மற்றும் labels](/ta/catalog/barcodes-and-labels/) |
+| **Print barcode labels** | Label printer அல்லது A4 sticker sheets இல் barcode labels | [Barcodes மற்றும் labels](/ta/catalog/barcodes-and-labels/) |
 | **Customer list** | Back office மற்றும் till இல் customer profiles, PDPA export மற்றும் erase உட்பட | [Customers](/ta/sales/customers/) |
 | ↳ **Customer discounts** | Till இல் apply ஆகும் customer இன் சொந்த discount | [Customers at the till](/ta/till/customers/) |
 

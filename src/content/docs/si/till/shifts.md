@@ -18,9 +18,12 @@ reports වල එකම නම භාවිතා වෙනවා.
 
 ## Shift එකක් open කරන්න
 
-Shift එකක් open නැත්නම් till එකේ *No shift is open* පෙන්නනවා.
+Shift එකක් open නැත්නම් till එකේ කහ පාට banner එකක් **No shift open: sales are off** පෙන්නනවා. Shift එකක් open කරනකම්
+till එකෙන් **prices check කරන්න විතරයි** පුළුවන්: item එකක් scan කරලා හෝ නම type කරලා price එක බලන්න (search box එකේ
+*Price check: …* කියනවා), නමුත් කිසිම දෙයක් විකුණන්න බැහැ. Shift එකක් open කරන්න permission නැති cashier කෙනෙකුට
+*Ask a cashier or manager to open a shift* පෙනෙනවා.
 
-1. **Open a shift** තෝරන්න.
+1. Banner එකේ <span class="ui">Open a shift</span> තෝරන්න.
 2. Drawer එකේ තියෙන cash — **opening float** එක — ගණන් කරන්න. එක්කෝ:
    - <span class="ui">Count notes and coins</span> — හැම note එකක්ම සහ coin එකක්ම කීයද කියලා දාන්න, till එක එකතු කරනවා; නැත්නම්
    - <span class="ui">Enter the total</span> — මුළු ගණන type කරන්න.

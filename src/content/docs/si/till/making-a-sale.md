@@ -11,6 +11,7 @@ sidebar:
 :::
 
 දවසේ පළමු sale එකට කලින් till එකේ **shift එකක් open කරලා තියෙන්න ඕන** — [Cash shifts on the till](/si/till/shifts/) බලන්න.
+ඒ වෙනකම් till එකෙන් prices check කරන්න විතරයි පුළුවන්.
 
 ## 1. Items add කරන්න
 
@@ -26,6 +27,11 @@ Barcode එක හම්බ වුණේ නැද්ද? ඔබේ plan එක�
 [Add a product at the till](/si/till/add-product-at-till/) බලන්න.
 
 හැම result එකකම price එක (*incl. tax* හෝ *plus tax*), tax group එක සහ stock track කරනවා නම් *In stock here: …* පෙන්නනවා.
+ඔබේ plan එකයි role එකයි ඉඩ දෙනවා නම්, <span class="ui">Print label</span> (result එකක් ළඟ තියෙන tag button එක) item එකට
+barcode label එකක් print කරනවා — [Barcodes සහ labels](/si/catalog/barcodes-and-labels/) බලන්න.
+
+**Receipt එකක පහළ තියෙන barcode එක** scan කළොත් ඒ වෙනුවට ඒ sale එක open වෙනවා — reprint කරන්න, items return කරන්න හෝ void
+කරන්න. [Returns සහ voids](/si/till/returns-voids/) බලන්න.
 
 ### බරට විකුණන items
 
@@ -76,6 +82,9 @@ Till එක **Print after each sale** ට set කරලා නම් ([Till sett
 
 Customer ට පස්සේ receipt එක ඕනද? අන්තිම receipt එක ආයෙත් print කරන්න **F5** ඔබන්න. පරණ sales: **F9** (*Sales*) → sale එක →
 reprint, නැත්නම් full-page **invoice** එකකට <span class="ui">Print A4</span>. Reprints වල **COPY** කියලා mark වෙනවා.
+
+හැම receipt එකක්ම (සහ A4 invoice එකක්ම) ඉවර වෙන්නේ ඒකේ **receipt number එක barcode එකක් විදිහට**. ඒ sale එක open කරන්න till
+එකේ ඒක scan කරන්න.
 
 ## Offline වැඩ කරනවා
 

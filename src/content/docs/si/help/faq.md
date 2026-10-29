@@ -27,6 +27,13 @@ Connection එක ආපු ගමන් sales automatic යවනවා. Till �
 ඔව්, ඔබේ plan එකේ **Add a new item at the till** තියෙනවා නම්: scan කරලා **Add as a new product** තෝරන්න, නම, price සහ tax දාලා විකුණන්න.
 Cashiers ට manager ගේ PIN එක ඕන. පස්සේ back office එකේ product එක complete කරන්න. [Add a product at the till](/si/till/add-product-at-till/) බලන්න.
 
+### අපේ සමහර items වලට barcode එකක් නැහැ. මොකද කරන්නේ?
+
+ඔබේ plan එකේ තියෙනවා නම්, <span class="ui">Generate</span> එකෙන් හැම එකකටම **in-store barcode** එකක් දෙන්න (නැත්නම් Products
+list එකේ <span class="ui">Generate missing barcodes</span> එකෙන් ඔක්කොටම එකවර) සහ ඒවායේ අලවන්න **labels print කරන්න**.
+[Barcodes සහ labels](/si/catalog/barcodes-and-labels/) බලන්න. ඒ features නැත්නම් [quick-pick buttons](/si/catalog/quick-picks/)
+භාවිතා කරන්න.
+
 ### එක shop එකක tills කිහිපයක් භාවිතා කරන්න පුළුවන්ද?
 
 ඔව්. **Branches** හි හැම counter එකකටම **register** එකක් add කරලා හැම එකකටම till එකක් pair කරන්න. Registers කීයක් තියාගන්න පුළුවන්ද

@@ -23,12 +23,16 @@ Receive செய்த goods store இன் stock இல் **அவற்ற�
 
 GPOS *Received as GRN-…* எனக் காட்டும் — goods stock இல் உள்ளன.
 
+உங்கள் plan இல் **Print barcode labels** இருந்தால், receive செய்த ஒவ்வொரு item க்கும் label ஐ print செய்ய
+<span class="ui">Print labels for these items</span> ஐத் தேர்ந்தெடுங்கள் (தேவையெனில் எண்ணிக்கைகளை மாற்றுங்கள்).
+[Barcodes மற்றும் labels](/ta/catalog/barcodes-and-labels/) ஐப் பாருங்கள்.
+
 ## Order இல்லாமல் receive செய்யுங்கள்
 
 1. **Purchasing → Receive goods** → <span class="ui">Receive without an order</span> க்குச் செல்லுங்கள்.
 2. **Supplier** மற்றும் **Store** ஐத் தேர்ந்தெடுங்கள்.
 3. **Unit** (அல்லது pack), **Quantity**, **Cost per unit** உடன் items ஐ add செய்யுங்கள்.
-4. Invoice details ஐ உள்ளிட்டு <span class="ui">Post goods received</span> ஐத் தேர்ந்தெடுங்கள்.
+4. Invoice details ஐ உள்ளிட்டு <span class="ui">Post goods received</span> ஐத் தேர்ந்தெடுங்கள். இங்கும் items க்கு labels ஐ print செய்யலாம்.
 
 ## Packs மற்றும் cases
 

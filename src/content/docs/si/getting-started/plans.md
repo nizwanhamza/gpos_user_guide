@@ -50,6 +50,8 @@ GPOS **plans** කිහිපයක් යටතේ ලැබෙනවා — �
 | **Sizes and colours (variants)** | Sizes, colours සහ වෙනත් options තියෙන products | [Products](/si/catalog/products/) |
 | **Product photos** | Products වල pictures | [Products](/si/catalog/products/) |
 | **Excel / CSV upload and download** | Products import සහ export කිරීම | [Import and export](/si/catalog/import-export/) |
+| **Generate in-store barcodes** | Barcode නැති items වලට ඔබේම barcodes, back office එකේ සහ till එකේ | [Barcodes සහ labels](/si/catalog/barcodes-and-labels/) |
+| **Print barcode labels** | Label printer එකක හෝ A4 sticker sheets වල barcode labels | [Barcodes සහ labels](/si/catalog/barcodes-and-labels/) |
 | **Customer list** | Back office එකේ සහ till එකේ customer profiles, PDPA export සහ erase ඇතුළුව | [Customers](/si/sales/customers/) |
 | ↳ **Customer discounts** | Till එකේ apply වෙන customer ගේම discount එක | [Customers at the till](/si/till/customers/) |
 

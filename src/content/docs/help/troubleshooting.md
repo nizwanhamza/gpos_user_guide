@@ -82,8 +82,9 @@ You need a **POS PIN** and a role that may sell at **this branch**. Set the PIN 
 **"Too many wrong PINs. Try again in …"**
 Wait the time shown. Ask an administrator to set a new PIN if you have forgotten it.
 
-**I can't sell — "No shift is open"**
-Open a shift first: see [Cash shifts on the till](/till/shifts/).
+**I can't sell — "No shift open: sales are off"**
+Until a shift is open the till only checks prices. Open a shift first (or ask someone who may):
+see [Cash shifts on the till](/till/shifts/).
 
 **A scanned item is "Nothing found"**
 The barcode is not on any product. Add it to the product's **Barcodes** in the back office, then

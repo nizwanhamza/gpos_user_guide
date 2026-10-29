@@ -75,8 +75,9 @@ list කරනවා) සහ ඔබේ role එක ගැන owner ගෙන් 
 **"Too many wrong PINs. Try again in …"**
 පෙන්නන කාලය ඉන්න. PIN එක අමතක නම් අලුත් එකක් set කරන්න කියලා administrator ගෙන් ඉල්ලන්න.
 
-**විකුණන්න බැහැ — "No shift is open"**
-මුලින් shift එකක් open කරන්න: [Cash shifts on the till](/si/till/shifts/) බලන්න.
+**විකුණන්න බැහැ — "No shift open: sales are off"**
+Shift එකක් open කරනකම් till එකෙන් prices check කරන්න විතරයි පුළුවන්. මුලින් shift එකක් open කරන්න (නැත්නම් ඉඩ තියෙන
+කෙනෙකුගෙන් ඉල්ලන්න): [Cash shifts on the till](/si/till/shifts/) බලන්න.
 
 **Scan කරපු item එකකට "Nothing found"**
 Barcode එක කිසිම product එකක නැහැ. Back office එකේ product එකේ **Barcodes** වලට ඒක add කරලා till එක sync කරන්න. ඒ අතරේ නමින් search

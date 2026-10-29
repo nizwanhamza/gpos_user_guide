@@ -10,7 +10,7 @@ This page is part of the **Selling at the counter (POS), cash shifts and tills**
 :::
 
 Before your first sale of the day, a **shift must be open** on the till — see
-[Cash shifts on the till](/till/shifts/).
+[Cash shifts on the till](/till/shifts/). Until then the till only checks prices.
 
 ## 1. Add items
 
@@ -26,7 +26,12 @@ Barcode not found? If your plan includes it, select <span class="ui">Add as a ne
 and sell it straight away — see [Add a product at the till](/till/add-product-at-till/).
 
 Each result shows the price (*incl. tax* or *plus tax*), the tax group and, if stock is tracked,
-*In stock here: …*.
+*In stock here: …*. If your plan and role allow it, <span class="ui">Print label</span> (the tag
+button beside a result) prints a barcode label for the item — see
+[Barcodes and labels](/catalog/barcodes-and-labels/#at-the-till).
+
+Scanning the **barcode at the bottom of a receipt** opens that sale instead — to reprint it, return
+items or void it. See [Returns and voids](/till/returns-voids/).
 
 ### Items sold by weight
 
@@ -81,6 +86,9 @@ it prints at once without asking.
 Customer wants the receipt after all? Press **F5** to print the last receipt again. Older sales:
 **F9** (*Sales*) → the sale → reprint, or <span class="ui">Print A4</span> for a full-page
 **invoice**. Reprints are marked **COPY**.
+
+Every receipt (and A4 invoice) ends with its **receipt number as a barcode**. Scan it at the till to
+open that sale.
 
 ## Works offline
 

@@ -27,10 +27,12 @@ sidebar:
 | **Authenticator app** | ஒவ்வொரு 30 விநாடிக்கும் புதிய 6 இலக்க code ஐக் காட்டும் phone app (Microsoft Authenticator, Google Authenticator…). |
 | **Recovery code** | Phone கையில் இல்லாதபோது two-step sign-in க்கான 10 ஒருமுறை codes இல் ஒன்று. |
 | **PDPA** | இலங்கையின் Personal Data Protection Act. Customers தங்கள் data இன் copy அல்லது அதை erase செய்யக் கேட்கலாம். |
-| **Receipt number** | `BRANCH-REGISTER-000123`, till வாரியாக எண் இடப்படும்; replacement till `.2`, `.3`… ஐச் சேர்க்கும். |
+| **Receipt number** | `BRANCH-REGISTER-000123`, till வாரியாக எண் இடப்படும்; replacement till `.2`, `.3`… ஐச் சேர்க்கும். ஒவ்வொரு receipt இன் கீழும் barcode ஆகவும் print ஆகும். |
 | **SKU** | Product variant க்கான உங்கள் சொந்த code. |
 | **Variant** | Product இன் விற்கக்கூடிய ஒரு version (size, colour). |
 | **Pack barcode** | பல units க்கு ஒரே barcode, `code:quantity` என எழுதப்படும். |
+| **In-store barcode** | Barcode இல்லாத item க்கு GPOS உருவாக்கும் barcode: `20` இல் தொடங்கும் EAN-13, எனவே manufacturer இன் barcode உடன் ஒருபோதும் மோதாது. |
+| **Barcode label** | Item இன் பெயர், barcode, (விரும்பினால்) price மற்றும் shop பெயர் உள்ள sticker, label printer அல்லது A4 sheet இல் print செய்யப்படும். |
 | **Tax group** | Product க்குக் கொடுப்பது; ஒன்று அல்லது பல tax rates ஐ இணைக்கும். |
 | **Quick-pick** | Barcodes இல்லாத items க்கு till இல் உள்ள product button. |
 | **Opening stock** | நீங்கள் தொடங்கும் quantities. |

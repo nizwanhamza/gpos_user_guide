@@ -18,9 +18,12 @@ back office இலும், reports இலும் அதே பெயர் �
 
 ## Shift ஐ open செய்யுங்கள்
 
-Shift open ஆக இல்லாதபோது till *No shift is open* எனக் காட்டும்.
+Shift open ஆக இல்லாதபோது till மஞ்சள் banner **No shift open: sales are off** ஐக் காட்டும். Shift open ஆகும் வரை till
+**prices ஐச் சரிபார்க்க மட்டுமே** முடியும்: item ஐ scan செய்து அல்லது பெயரை type செய்து price ஐப் பாருங்கள் (search box
+*Price check: …* எனச் சொல்லும்), ஆனால் எதையும் விற்க முடியாது. Shift ஐ open செய்ய permission இல்லாத cashier
+*Ask a cashier or manager to open a shift* ஐப் பார்ப்பார்.
 
-1. **Open a shift** ஐத் தேர்ந்தெடுங்கள்.
+1. Banner இல் <span class="ui">Open a shift</span> ஐத் தேர்ந்தெடுங்கள்.
 2. Drawer இல் உள்ள cash ஐ — **opening float** — எண்ணுங்கள். ஒன்று:
    - <span class="ui">Count notes and coins</span> — ஒவ்வொரு note மற்றும் coin எத்தனை என்று உள்ளிடுங்கள், till கூட்டும்; அல்லது
    - <span class="ui">Enter the total</span> — மொத்தத்தை type செய்யுங்கள்.
