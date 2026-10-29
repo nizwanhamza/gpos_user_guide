@@ -89,3 +89,8 @@ item එකක් නැත්නම්, බොහෝ විට ඒක ඔබේ
 
 නැහැ. හැම business එකකටම පෙනෙන්නේ තමන්ගේ data විතරයි. ඔබේ service provider support session එකකින් උදව් කළොත්, banner එකක් පෙන්නනවා,
 හැම දෙයක්ම ඔබේ [audit log](/si/reports/audit-log/) එකේ record වෙනවා.
+
+### අපේ products online විකුණන්න පුළුවන්ද?
+
+ඔව්, ඔබේ plan එකේ **Sell on Gocart.lk** තියෙනවා නම්. **Sell online** එකෙන් Gocart.lk marketplace එකේ ඔබේම shop එකකට apply කරලා
+විකුණන items තෝරන්න; prices සහ stock GPOS අනුව යනවා. [Sell on Gocart.lk](/si/sales/sell-online/) බලන්න.

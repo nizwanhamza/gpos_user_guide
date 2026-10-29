@@ -97,3 +97,9 @@ also **Export data** to give them a copy first. See [Personal data (PDPA)](/sale
 
 No. Each business only sees its own data. If your service provider helps you in a support session,
 a banner is shown and everything is recorded in your [audit log](/reports/audit-log/).
+
+### Can we sell our products online?
+
+Yes, if your plan includes **Sell on Gocart.lk**. From **Sell online** you apply for your own shop
+on the Gocart.lk marketplace and choose which items to sell; prices and stock follow GPOS. See
+[Sell on Gocart.lk](/sales/sell-online/).

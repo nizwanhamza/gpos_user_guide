@@ -64,6 +64,12 @@ GPOS பல **plans** இல் வருகிறது — உதா. **Basic*
 | ↳ **Purchase orders** | Suppliers இடம் order செய்தல் | [Purchase orders](/ta/purchasing/purchase-orders/) |
 | ↳ **Supplier returns** | Supplier க்குப் பொருட்களைத் திருப்பி அனுப்புதல் | [Supplier returns](/ta/purchasing/supplier-returns/) |
 
+#### Online விற்பனை
+
+| Feature | என்ன உள்ளடக்கும் | Guide pages |
+|---------|----------------|-------------|
+| **Sell on Gocart.lk** | Gocart.lk marketplace இல் உங்கள் சொந்த shop; prices மற்றும் stock GPOS ஐப் பின்பற்றும் | [Sell on Gocart.lk](/ta/sales/sell-online/) |
+
 #### Reports மற்றும் உங்கள் team
 
 | Feature | என்ன உள்ளடக்கும் | Guide pages |

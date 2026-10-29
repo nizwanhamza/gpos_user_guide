@@ -39,6 +39,7 @@ The stock ledger, newest first. Filter by store and **Type**:
 |------|------------|
 | Opening stock | [Opening stock](/inventory/opening-stock/) |
 | Sale / Return | The tills |
+| Sold online / Online order cancelled | [Orders on Gocart.lk](/sales/sell-online/) |
 | Goods received / Returned to supplier | [Purchasing](/purchasing/receiving-goods/) |
 | Transfer out / Transfer in | [Transfers](/inventory/transfers/) |
 | Adjustment / Write-off | [Adjustments](/inventory/adjustments/) and [stock counts](/inventory/counts/) |

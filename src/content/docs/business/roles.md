@@ -58,6 +58,8 @@ Every business gets these roles. They are marked **system** and cannot be edited
 | Reports | View reports | Open Reports. |
 | Reports | See cost, margin and stock value in reports | Show cost figures. |
 | Audit | View the business audit log | Open the Audit log. |
+| Online marketplace | View online marketplace selling (connection and listings) | See Sell online. Owner, Administrator and Manager by default. Plan feature. |
+| Online marketplace | Connect to an online marketplace and choose what is sold there | Apply to Gocart.lk, choose the store and items, stop selling. Owner and Administrator by default. |
 
 Some permissions only work if the matching feature is part of your plan (for example inventory or
 purchasing).

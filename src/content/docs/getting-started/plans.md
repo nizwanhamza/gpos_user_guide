@@ -65,6 +65,12 @@ dashboard's **Plan** card.
 | ↳ **Purchase orders** | Ordering from suppliers | [Purchase orders](/purchasing/purchase-orders/) |
 | ↳ **Supplier returns** | Sending goods back to a supplier | [Supplier returns](/purchasing/supplier-returns/) |
 
+#### Selling online
+
+| Feature | What it covers | Guide pages |
+|---------|----------------|-------------|
+| **Sell on Gocart.lk** | Your own shop on the Gocart.lk marketplace; prices and stock follow GPOS | [Sell on Gocart.lk](/sales/sell-online/) |
+
 #### Reports and your team
 
 | Feature | What it covers | Guide pages |

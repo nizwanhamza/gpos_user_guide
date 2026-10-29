@@ -58,6 +58,8 @@ Ready-made roles ஒவ்வொரு plan இலும் உள்ளன. **�
 | Reports | View reports | Reports ஐ open செய்ய. |
 | Reports | See cost, margin and stock value in reports | Cost figures ஐக் காட்ட. |
 | Audit | View the business audit log | Audit log ஐ open செய்ய. |
+| Online marketplace | View online marketplace selling (connection and listings) | Sell online ஐப் பார்க்க. Default ஆக Owner, Administrator, Manager. Plan feature. |
+| Online marketplace | Connect to an online marketplace and choose what is sold there | Gocart.lk க்கு apply செய்ய, store மற்றும் items ஐத் தேர்ந்தெடுக்க, விற்பனையை நிறுத்த. Default ஆக Owner மற்றும் Administrator. |
 
 சில permissions தொடர்புடைய feature உங்கள் plan இல் இருந்தால் மட்டுமே வேலை செய்யும் (உதா. inventory அல்லது purchasing).
 

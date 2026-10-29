@@ -39,6 +39,7 @@ Stock ledger එක, අලුත්ම ඒවා මුලින්. Store ස�
 |------|-------|
 | Opening stock | [Opening stock](/si/inventory/opening-stock/) |
 | Sale / Return | Tills වලින් |
+| Sold online / Online order cancelled | [Gocart.lk orders](/si/sales/sell-online/) |
 | Goods received / Returned to supplier | [Purchasing](/si/purchasing/receiving-goods/) |
 | Transfer out / Transfer in | [Transfers](/si/inventory/transfers/) |
 | Adjustment / Write-off | [Adjustments](/si/inventory/adjustments/) සහ [stock counts](/si/inventory/counts/) |

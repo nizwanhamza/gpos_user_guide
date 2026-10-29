@@ -90,3 +90,8 @@ menu item காணவில்லையெனில், பெரும்ப�
 
 இல்லை. ஒவ்வொரு business உம் தன் data ஐ மட்டுமே பார்க்கும். உங்கள் service provider support session இல் உதவினால், banner காட்டப்படும்,
 அனைத்தும் உங்கள் [audit log](/ta/reports/audit-log/) இல் record ஆகும்.
+
+### எங்கள் products ஐ online இல் விற்கலாமா?
+
+ஆம், உங்கள் plan இல் **Sell on Gocart.lk** இருந்தால். **Sell online** மூலம் Gocart.lk marketplace இல் உங்கள் சொந்த shop க்கு apply
+செய்து விற்க வேண்டிய items ஐத் தேர்ந்தெடுங்கள்; prices மற்றும் stock GPOS ஐப் பின்பற்றும். [Sell on Gocart.lk](/ta/sales/sell-online/) ஐப் பாருங்கள்.

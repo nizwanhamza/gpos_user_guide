@@ -58,6 +58,8 @@ feature එකයි. [Plans and features](/si/getting-started/plans/) බලන
 | Reports | View reports | Reports open කරන්න. |
 | Reports | See cost, margin and stock value in reports | Cost figures පෙන්නන්න. |
 | Audit | View the business audit log | Audit log එක open කරන්න. |
+| Online marketplace | View online marketplace selling (connection and listings) | Sell online බලන්න. Default විදිහට Owner, Administrator සහ Manager. Plan feature එකක්. |
+| Online marketplace | Connect to an online marketplace and choose what is sold there | Gocart.lk වලට apply කරන්න, store එක සහ items තෝරන්න, විකිණීම නවත්වන්න. Default විදිහට Owner සහ Administrator. |
 
 සමහර permissions වැඩ කරන්නේ අදාළ feature එක ඔබේ plan එකේ තියෙනවා නම් විතරයි (උදා. inventory හෝ purchasing).
 

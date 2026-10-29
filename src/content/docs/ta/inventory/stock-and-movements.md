@@ -39,6 +39,7 @@ Stock ledger, புதியவை முதலில். Store மற்று
 |------|------------------------|
 | Opening stock | [Opening stock](/ta/inventory/opening-stock/) |
 | Sale / Return | Tills |
+| Sold online / Online order cancelled | [Gocart.lk orders](/ta/sales/sell-online/) |
 | Goods received / Returned to supplier | [Purchasing](/ta/purchasing/receiving-goods/) |
 | Transfer out / Transfer in | [Transfers](/ta/inventory/transfers/) |
 | Adjustment / Write-off | [Adjustments](/ta/inventory/adjustments/) மற்றும் [stock counts](/ta/inventory/counts/) |

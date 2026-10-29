@@ -49,3 +49,5 @@ sidebar:
 | **Sync issue** | Record කළ විදිහටම back office එකට accept කරන්න බැරි වුණු till එකක යමක්; administrator කෙනෙක් තීරණය කරනවා. |
 | **Robot check** | Public pages වල (sign-in, passwords, applications) ඔබ bot කෙනෙක් නෙවෙයි, මනුස්සයෙක් කියලා බලන ඉක්මන් check එකක්. |
 | **Support session** | ඔබේ service provider ඔබේ account එක ඇතුළේ උදව් කිරීම; හැම විටම පෙන්නනවා, record කරනවා. |
+| **Gocart.lk** | GPOS එකෙන්ම ඔබේම shop එකක් open කරන්න පුළුවන් online marketplace එකක් (**Sell online**). |
+| **Sold online** | Gocart.lk හි order කරපු item එකකට stock movement එකක්. |

@@ -49,3 +49,5 @@ sidebar:
 | **Sync issue** | Something from a till the back office could not accept as recorded; an administrator decides. |
 | **Robot check** | A quick check on public pages (sign-in, passwords, applications) that you are a person, not a bot. |
 | **Support session** | Your service provider helping you inside your account; always shown and recorded. |
+| **Gocart.lk** | An online marketplace where you can open your own shop from GPOS (**Sell online**). |
+| **Sold online** | A stock movement for an item ordered on Gocart.lk. |

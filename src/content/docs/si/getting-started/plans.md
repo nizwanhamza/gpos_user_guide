@@ -65,6 +65,12 @@ GPOS **plans** කිහිපයක් යටතේ ලැබෙනවා — �
 | ↳ **Purchase orders** | Suppliers ගෙන් order කිරීම | [Purchase orders](/si/purchasing/purchase-orders/) |
 | ↳ **Supplier returns** | Supplier ට බඩු ආපසු යැවීම | [Supplier returns](/si/purchasing/supplier-returns/) |
 
+#### Online විකිණීම
+
+| Feature | ආවරණය කරන දේ | Guide pages |
+|---------|----------------|-------------|
+| **Sell on Gocart.lk** | Gocart.lk marketplace එකේ ඔබේම shop එකක්; prices සහ stock GPOS අනුව යනවා | [Sell on Gocart.lk](/si/sales/sell-online/) |
+
 #### Reports සහ ඔබේ team
 
 | Feature | ආවරණය කරන දේ | Guide pages |

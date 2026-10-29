@@ -49,3 +49,5 @@ sidebar:
 | **Sync issue** | Record ஆனபடியே back office ஏற்க முடியாத till இன் ஒன்று; administrator முடிவு செய்வார். |
 | **Robot check** | Public pages இல் (sign-in, passwords, applications) நீங்கள் bot அல்ல, மனிதர் என்று சரிபார்க்கும் விரைவான check. |
 | **Support session** | உங்கள் service provider உங்கள் account க்குள் உதவுதல்; எப்போதும் காட்டப்படும், record ஆகும். |
+| **Gocart.lk** | GPOS இலிருந்தே உங்கள் சொந்த shop ஐத் திறக்கக்கூடிய online marketplace (**Sell online**). |
+| **Sold online** | Gocart.lk இல் order செய்யப்பட்ட item க்கான stock movement. |
