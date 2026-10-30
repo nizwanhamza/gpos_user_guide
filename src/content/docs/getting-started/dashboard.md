@@ -23,6 +23,10 @@ The **Dashboard** is the first page after you sign in.
 
 What appears depends on your permissions. A cashier, for example, does not see sales figures.
 
+The **menu** on the left shows your business name (with your [logo](/business/settings/#logo), if
+you uploaded one). At the bottom it shows the **version** of GPOS you are using, for example
+*Version 2026.10.29-1*. Tell your service provider this number when you report a problem.
+
 ## Working with lists
 
 Every list in the back office — sales, shifts, products, customers, stock movements, purchase

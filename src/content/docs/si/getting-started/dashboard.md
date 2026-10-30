@@ -20,6 +20,10 @@ Sign in වුණාම මුලින්ම පෙනෙන page එක **Dash
 
 පෙනෙන දේ ඔබේ permissions අනුව වෙනස් වෙනවා. උදාහරණයක් ලෙස cashier කෙනෙකුට sales figures පෙනෙන්නේ නැහැ.
 
+වම් පැත්තේ **menu** එකේ ඔබේ business නම පෙන්නනවා (ඔබ upload කළා නම් [logo](/si/business/settings/) එකත් එක්ක). පහළින් ඔබ
+භාවිතා කරන GPOS **version** එක පෙන්නනවා, උදා. *Version 2026.10.29-1*. ප්‍රශ්නයක් report කරනකොට මේ number එක ඔබේ service
+provider ට කියන්න.
+
 ## Lists එක්ක වැඩ කිරීම
 
 Back office එකේ හැම list එකක්ම — sales, shifts, products, customers, stock movements, purchase orders,

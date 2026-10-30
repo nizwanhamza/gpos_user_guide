@@ -23,6 +23,11 @@ stock value ஆகியவை costs ஐப் பார்க்க அனு�
 3. சில reports இல் rows ஐ எப்படி **Show** செய்வது என்று தேர்ந்தெடுக்கலாம் — *Per day* / *Per month*, *Per supplier* / *Per product*.
 4. Excel இல் data ஐ open செய்ய <span class="ui">Export CSV</span>, அல்லது <span class="ui">Print / PDF</span> ஐத் தேர்ந்தெடுங்கள்.
 
+**Print / PDF** A4 இல் report ஐ மட்டுமே print செய்யும்: உங்கள் **letterhead** (logo, business பெயர், address), report பெயர்,
+**Period** (stock reports க்கு **Stock on** தேதி), நீங்கள் தேர்ந்தெடுத்த **Filters**, கீழே யார் எப்போது print செய்தார் என்பது.
+Figures இன்னும் மாறக்கூடுமெனில் printout இலும் அது சொல்லப்படும். File ஆக வைத்திருக்க print window இல் **Save as PDF** ஐத்
+தேர்ந்தெடுங்கள்.
+
 Screen 2,000 rows வரை காட்டும் — அனைத்தும் வேண்டுமானால் CSV ஐ export செய்யுங்கள்.
 
 :::caution[இந்த figures இன்னும் மாறலாம்]

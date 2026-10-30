@@ -82,6 +82,12 @@ dashboard's **Plan** card.
 | **Your own roles** | Creating and changing roles | [Roles](/business/roles/) |
 | **Activity history (audit log)** | The **Audit log** screen | [Audit log](/reports/audit-log/) |
 
+#### Your business
+
+| Feature | What it covers | Guide pages |
+|---------|----------------|-------------|
+| **Own logo** | Your logo in the back office, on the tills, on A4 prints and (if switched on) on receipts | [Business settings](/business/settings/#logo) |
+
 Pages about these features carry a **Depends on your plan** note.
 
 ### Limits

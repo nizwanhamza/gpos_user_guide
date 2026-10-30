@@ -27,6 +27,16 @@ order இல்லாமலும் goods ஐ receive செய்யலாம�
 
 Order ஐ open செய்து supplier க்கு அனுப்ப <span class="ui">Print / save as PDF</span> ஐத் தேர்ந்தெடுங்கள், பிறகு <span class="ui">Mark as ordered</span>.
 
+A4 இல் order மட்டுமே print ஆகும் — menus அல்லது buttons இல்லை:
+
+- உங்கள் **letterhead** — logo (இருந்தால்), business பெயர், address, phone, e-mail, tax registration no.;
+- **Purchase order** மற்றும் அதன் number, **Order date**, **Expected delivery**, **Status**;
+- **Supplier** (அவர்களின் tax no. மற்றும் payment terms உடன்) மற்றும் **Deliver to** இடம்;
+- quantity, cost per unit, line totals உடன் items, **Total**, உங்கள் **Note**;
+- கீழே *Printed … by …*.
+
+E-mail செய்ய print window இல் **Save as PDF** ஐத் தேர்ந்தெடுங்கள். File பெயர் உங்களுக்குப் பரிந்துரைக்கப்படும், உதா. *Purchase order PO-000012*.
+
 ## Statuses
 
 | Status | அர்த்தம் |

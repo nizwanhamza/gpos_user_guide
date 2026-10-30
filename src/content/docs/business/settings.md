@@ -15,6 +15,36 @@ If another person changed the settings while you were editing, GPOS will not ove
 Select <span class="ui">Reload latest</span>, make your change again and save.
 :::
 
+## Logo
+
+:::note[Depends on your plan]
+This is the plan feature **Own logo**. Without it, there is no **Logo** card. See
+[Plans and features](/getting-started/plans/).
+:::
+
+Upload your logo once in the **Logo** card at the top of Settings. It then appears:
+
+- in the **back office** — at the top of the menu, above your business name;
+- on the **tills** — in the header, and large on the **Who is using the till?** and lock screens.
+  Tills keep it, so it shows **offline** too;
+- on **A4 prints** — till invoices and shift reports, and purchase orders and reports printed from
+  the back office, as a letterhead;
+- on **receipts** — only if you switch on **Print the logo on receipts** (see [Receipts](#receipts)).
+
+1. Select <span class="ui">Upload logo</span> and choose a **PNG, JPEG or WebP** file of up to
+   **5 MB**. A **wide** logo works best; square is fine. (SVG is not accepted.)
+2. Check the three previews: **In the admin and on A4**, **On the till** (dark header) and **On a
+   receipt (black and white)**.
+
+To change it, select <span class="ui">Replace logo</span>. <span class="ui">Remove logo</span> goes
+back to showing the business name only. Tills pick up the change on their next sync.
+
+:::tip[Check the receipt preview]
+Receipt printers print only black. GPOS makes a sharp black-and-white copy of your logo for
+receipts — look at the **On a receipt** preview before you switch receipt printing on. A pale or
+detailed logo may print poorly.
+:::
+
 ## Business profile
 
 | Field | What it is for |
@@ -103,6 +133,7 @@ manager's PIN for returns and voids unless their role allows them. See
 | **Header lines** | Up to **4 lines** under the name — address, hotline, website. |
 | **Footer text** | Printed at the bottom — return policy, thank-you note. |
 | **Print tax registration number** | Adds your tax registration no. to every receipt. |
+| **Print the logo on receipts** | Prints your [logo](#logo) in black and white at the top of each receipt. **Off** to start with. Shown only if your plan includes **Own logo**. |
 
 Receipts are printed from the till; see [Till settings](/till/shortcuts-and-settings/#receipt-printing).
 

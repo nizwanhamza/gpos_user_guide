@@ -27,6 +27,16 @@ order එකක් නැතුවත් goods receive කරන්න පුළ
 
 Order එක open කරලා supplier ට යවන්න <span class="ui">Print / save as PDF</span> තෝරන්න, ඊට පස්සේ <span class="ui">Mark as ordered</span>.
 
+A4 එකේ print වෙන්නේ order එක විතරයි — menus හෝ buttons නැහැ:
+
+- ඔබේ **letterhead** එක — logo එක (තියෙනවා නම්), business නම, address, phone, e-mail සහ tax registration no.;
+- **Purchase order** එක, ඒකේ number එක, **Order date**, **Expected delivery** සහ **Status**;
+- **Supplier** (ඔවුන්ගේ tax no. සහ payment terms එක්ක) සහ **Deliver to** තැන;
+- quantity, cost per unit සහ line totals එක්ක items, **Total** එක සහ ඔබේ **Note** එක;
+- පහළින් *Printed … by …*.
+
+E-mail කරන්න print window එකේ **Save as PDF** තෝරන්න. File නම ඔබට suggest කරනවා, උදා. *Purchase order PO-000012*.
+
 ## Statuses
 
 | Status | තේරුම |

@@ -81,6 +81,12 @@ GPOS பல **plans** இல் வருகிறது — உதா. **Basic*
 | **Your own roles** | Roles ஐ உருவாக்குதல் மற்றும் மாற்றுதல் | [Roles](/ta/business/roles/) |
 | **Activity history (audit log)** | **Audit log** screen | [Audit log](/ta/reports/audit-log/) |
 
+#### உங்கள் business
+
+| Feature | என்ன உள்ளடக்கும் | Guide pages |
+|---------|-------------------|-------------|
+| **Own logo** | Back office, tills, A4 prints மற்றும் (on செய்தால்) receipts இல் உங்கள் logo | [Business settings](/ta/business/settings/) |
+
 இந்த features பற்றிய pages இல் **உங்கள் plan ஐப் பொறுத்தது** என்ற note இருக்கும்.
 
 ### Limits

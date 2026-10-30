@@ -82,6 +82,12 @@ GPOS **plans** කිහිපයක් යටතේ ලැබෙනවා — �
 | **Your own roles** | Roles හදීම සහ වෙනස් කිරීම | [Roles](/si/business/roles/) |
 | **Activity history (audit log)** | **Audit log** screen එක | [Audit log](/si/reports/audit-log/) |
 
+#### ඔබේ business එක
+
+| Feature | ආවරණය කරන දේ | Guide pages |
+|---------|--------------|-------------|
+| **Own logo** | Back office එකේ, tills වල, A4 prints වල සහ (on කළොත්) receipts වල ඔබේ logo එක | [Business settings](/si/business/settings/) |
+
 මේ features ගැන pages වල **ඔබේ plan එක අනුව වෙනස් වේ** කියන note එකක් තියෙනවා.
 
 ### Limits

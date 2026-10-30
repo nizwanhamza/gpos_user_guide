@@ -133,3 +133,12 @@ Till එකකට තවම යවන්න sales තියෙනවා, නැ�
 
 **"Someone else's change" / "This conflicts with existing data"**
 වෙන කෙනෙක් එකම record එක save කළා. <span class="ui">Reload latest</span> තෝරලා ඔබේ වෙනස ආයෙත් කරන්න.
+
+## උදව් ඉල්ලනකොට
+
+ඔබේ service provider අමතනකොට මේවා කියන්න:
+
+- ඔබේ **Business code** එක;
+- **version** එක — back office menu එකේ පහළින් (*Version …*), නැත්නම් till එකේ sync panel එකේ **This till** යටතේ
+  ([Offline and sync](/si/till/offline-sync/));
+- ඔබ කළේ මොකක්ද, බලාපොරොත්තු වුණේ මොකක්ද, සහ screen එකේ තිබුණු message එක හරියටම.

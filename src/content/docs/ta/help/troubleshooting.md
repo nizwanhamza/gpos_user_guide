@@ -134,3 +134,12 @@ Till இன்னும் அனுப்ப வேண்டிய sales உள
 
 **"Someone else's change" / "This conflicts with existing data"**
 வேறொருவர் அதே record ஐ save செய்தார். <span class="ui">Reload latest</span> ஐத் தேர்ந்தெடுத்து உங்கள் மாற்றத்தை மீண்டும் செய்யுங்கள்.
+
+## உதவி கேட்கும்போது
+
+உங்கள் service provider ஐத் தொடர்பு கொள்ளும்போது இவற்றைச் சொல்லுங்கள்:
+
+- உங்கள் **Business code**;
+- **version** — back office menu இன் கீழே (*Version …*), அல்லது till இல் sync panel இல் **This till** இன் கீழ்
+  ([Offline and sync](/ta/till/offline-sync/));
+- நீங்கள் என்ன செய்தீர்கள், என்ன எதிர்பார்த்தீர்கள், screen இல் இருந்த message சரியாக.

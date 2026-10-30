@@ -23,6 +23,10 @@ Cost, margin සහ stock value පෙන්නන්නේ costs බලන්�
 3. සමහර reports වල rows **Show** කරන විදිහ තෝරන්න පුළුවන් — *Per day* / *Per month*, *Per supplier* / *Per product*.
 4. Excel වල data open කරන්න <span class="ui">Export CSV</span>, නැත්නම් <span class="ui">Print / PDF</span> තෝරන්න.
 
+**Print / PDF** එකෙන් A4 එකේ print වෙන්නේ report එක විතරයි: ඔබේ **letterhead** එක (logo, business නම සහ address),
+report නම, **Period** එක (stock reports වලට **Stock on** දිනය), ඔබ තෝරපු **Filters**, සහ පහළින් print කළේ කවුද කවදාද කියලා.
+Figures තවම වෙනස් වෙන්න පුළුවන් නම් printout එකේත් ඒක කියනවා. File එකක් තියාගන්න print window එකේ **Save as PDF** තෝරන්න.
+
 Screen එකේ rows 2,000ක් දක්වා පෙන්නනවා — ඔක්කොම ඕන නම් CSV එක export කරන්න.
 
 :::caution[මේ figures තවම වෙනස් වෙන්න පුළුවන්]

@@ -15,6 +15,35 @@ sidebar:
 <span class="ui">Reload latest</span> ஐத் தேர்ந்தெடுத்து, உங்கள் மாற்றத்தை மீண்டும் செய்து save செய்யுங்கள்.
 :::
 
+## Logo
+
+:::note[உங்கள் plan ஐப் பொறுத்தது]
+இது **Own logo** plan feature. அது இல்லாவிட்டால் **Logo** card இருக்காது.
+[Plans and features](/ta/getting-started/plans/) ஐப் பாருங்கள்.
+:::
+
+Settings இன் மேலே உள்ள **Logo** card இல் உங்கள் logo ஐ ஒருமுறை upload செய்யுங்கள். பிறகு அது தெரியும்:
+
+- **back office** இல் — menu இன் மேலே, உங்கள் business பெயருக்கு மேலே;
+- **tills** இல் — header இல், மேலும் **Who is using the till?** மற்றும் lock screens இல் பெரிதாக. Tills அதை வைத்திருப்பதால்
+  **offline** இலும் தெரியும்;
+- **A4 prints** இல் — till invoices, shift reports, back office இலிருந்து print செய்யும் purchase orders மற்றும் reports இல்,
+  letterhead ஆக;
+- **receipts** இல் — **Print the logo on receipts** ஐ on செய்தால் மட்டும் (கீழே **Receipts** ஐப் பாருங்கள்).
+
+1. <span class="ui">Upload logo</span> ஐத் தேர்ந்தெடுத்து **5 MB** வரையிலான **PNG, JPEG அல்லது WebP** file ஐத் தேர்ந்தெடுங்கள்.
+   **அகலமான** logo சிறப்பாகப் பொருந்தும்; square உம் பரவாயில்லை. (SVG ஏற்கப்படாது.)
+2. மூன்று previews ஐயும் பாருங்கள்: **In the admin and on A4**, **On the till** (இருண்ட header), **On a receipt (black and white)**.
+
+மாற்ற <span class="ui">Replace logo</span> ஐத் தேர்ந்தெடுங்கள். <span class="ui">Remove logo</span> செய்தால் மீண்டும் business
+பெயர் மட்டும் காட்டப்படும். Tills அடுத்த sync இல் மாற்றத்தைப் பெறும்.
+
+:::tip[Receipt preview ஐப் பாருங்கள்]
+Receipt printers கருப்பு மட்டுமே print செய்யும். GPOS receipts க்கு உங்கள் logo இன் தெளிவான கருப்பு-வெள்ளை copy ஐ உருவாக்கும்
+— receipt printing ஐ on செய்யும் முன் **On a receipt** preview ஐப் பாருங்கள். வெளிர் நிற அல்லது அதிக விவரங்கள் உள்ள logo
+சரியாக print ஆகாமல் போகலாம்.
+:::
+
 ## Business profile
 
 | Field | எதற்கு |
@@ -100,6 +129,7 @@ returns மற்றும் voids க்கு cashiers க்கு manager �
 | **Header lines** | பெயரின் கீழ் **4 lines** வரை — address, hotline, website. |
 | **Footer text** | கீழே print ஆகும் — return policy, நன்றிக் குறிப்பு. |
 | **Print tax registration number** | ஒவ்வொரு receipt இலும் உங்கள் tax registration no. ஐச் சேர்க்கும். |
+| **Print the logo on receipts** | ஒவ்வொரு receipt இன் மேலேயும் உங்கள் logo ஐக் கருப்பு-வெள்ளையில் print செய்யும். தொடக்கத்தில் **off**. உங்கள் plan இல் **Own logo** இருந்தால் மட்டுமே தெரியும். |
 
 Receipts till இலிருந்து print ஆகும்; [Till settings](/ta/till/shortcuts-and-settings/) ஐப் பாருங்கள்.
 

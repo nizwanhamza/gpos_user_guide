@@ -15,6 +15,35 @@ permission එක ඕන (owners සහ administrators); access තියෙන 
 <span class="ui">Reload latest</span> තෝරා, ඔබේ වෙනස ආයෙත් කර save කරන්න.
 :::
 
+## Logo
+
+:::note[ඔබේ plan එක අනුව වෙනස් වේ]
+මේක **Own logo** plan feature එකයි. ඒක නැත්නම් **Logo** card එක නැහැ.
+[Plans and features](/si/getting-started/plans/) බලන්න.
+:::
+
+Settings එකේ උඩම තියෙන **Logo** card එකේ ඔබේ logo එක එක පාරක් upload කරන්න. ඊට පස්සේ ඒක පෙනෙනවා:
+
+- **back office** එකේ — menu එකේ උඩ, ඔබේ business නමට උඩින්;
+- **tills** වල — header එකේ, සහ **Who is using the till?** සහ lock screens වල ලොකුවට. Tills ඒක තියාගන්න නිසා **offline**
+  වුණත් පෙනෙනවා;
+- **A4 prints** වල — till invoices සහ shift reports, සහ back office එකෙන් print කරන purchase orders සහ reports වල,
+  letterhead එකක් විදිහට;
+- **receipts** වල — **Print the logo on receipts** on කළොත් විතරයි (පහළ **Receipts** බලන්න).
+
+1. <span class="ui">Upload logo</span> තෝරලා **5 MB** දක්වා **PNG, JPEG හෝ WebP** file එකක් තෝරන්න. **පළල** logo එකක්
+   හොඳටම ගැළපෙනවා; square එකකුත් කමක් නැහැ. (SVG ගන්නේ නැහැ.)
+2. Previews තුන බලන්න: **In the admin and on A4**, **On the till** (අඳුරු header එක) සහ **On a receipt (black and white)**.
+
+වෙනස් කරන්න <span class="ui">Replace logo</span> තෝරන්න. <span class="ui">Remove logo</span> කළාම ආයෙත් business නම
+විතරක් පෙන්නනවා. Tills ඊළඟ sync එකේදී වෙනස ගන්නවා.
+
+:::tip[Receipt preview එක බලන්න]
+Receipt printers print කරන්නේ කළු පාට විතරයි. GPOS receipts වලට ඔබේ logo එකේ පැහැදිලි කළු-සුදු copy එකක් හදනවා —
+receipt printing on කරන්න කලින් **On a receipt** preview එක බලන්න. ලා පාට හෝ ගොඩක් details තියෙන logo එකක් හොඳට print
+නොවෙන්න පුළුවන්.
+:::
+
 ## Business profile
 
 | Field | මොකටද |
@@ -101,6 +130,7 @@ returns සහ voids වලට cashiers ට manager ගේ PIN එක ඕන. [R
 | **Header lines** | නම යටින් **lines 4ක්** දක්වා — address, hotline, website. |
 | **Footer text** | පහළින් print වෙනවා — return policy, ස්තූති පණිවිඩයක්. |
 | **Print tax registration number** | හැම receipt එකකටම ඔබේ tax registration no. එක එකතු කරනවා. |
+| **Print the logo on receipts** | හැම receipt එකකම උඩින් ඔබේ logo එක කළු-සුදු විදිහට print කරනවා. මුලින් **off**. ඔබේ plan එකේ **Own logo** තියෙනවා නම් විතරයි පෙනෙන්නේ. |
 
 Receipts print වෙන්නේ till එකෙන්; [Till settings](/si/till/shortcuts-and-settings/) බලන්න.
 

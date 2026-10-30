@@ -28,6 +28,11 @@ costs (for example the *Accountant* role).
 4. Select <span class="ui">Export CSV</span> to open the data in Excel, or
    <span class="ui">Print / PDF</span>.
 
+**Print / PDF** prints only the report, on A4, with your **letterhead** (logo, business name and
+address), the report name, the **Period** (or **Stock on** date for stock reports), the **Filters**
+you chose and, at the bottom, who printed it and when. If the figures may still change, the printout
+says so too. Choose **Save as PDF** in the print window to keep a file.
+
 The screen shows up to 2,000 rows — export the CSV for all of them.
 
 :::caution[These figures may still change]

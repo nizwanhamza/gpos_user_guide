@@ -28,6 +28,18 @@ A **purchase order (PO)** is what you order from a supplier. Using POs is option
 Open the order and select <span class="ui">Print / save as PDF</span> to send it to the supplier,
 then <span class="ui">Mark as ordered</span>.
 
+Only the order is printed, on A4 — no menus or buttons:
+
+- your **letterhead** — logo (if you have one), business name, address, phone, e-mail and tax
+  registration no.;
+- **Purchase order** with its number, **Order date**, **Expected delivery** and **Status**;
+- the **Supplier** (with their tax no. and payment terms) and where to **Deliver to**;
+- the items with quantity, cost per unit and line totals, the **Total**, and your **Note**;
+- at the bottom, *Printed … by …*.
+
+To e-mail it, choose **Save as PDF** in the print window. The file name is suggested for you, for
+example *Purchase order PO-000012*.
+
 ## Statuses
 
 | Status | Meaning |

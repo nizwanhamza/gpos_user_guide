@@ -146,3 +146,12 @@ A till still has sales to send, or something waits in Sync issues. Check again l
 **"Someone else's change" / "This conflicts with existing data"**
 Another person saved the same record. Select <span class="ui">Reload latest</span> and make your
 change again.
+
+## Asking for help
+
+When you contact your service provider, tell them:
+
+- your **Business code**;
+- the **version** — at the bottom of the back office menu (*Version …*), or on the till under
+  **This till** in the sync panel ([Offline and sync](/till/offline-sync/));
+- what you did, what you expected and the exact message on the screen.

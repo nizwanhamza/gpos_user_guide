@@ -20,6 +20,10 @@ Sign in செய்ததும் முதலில் தெரியும�
 
 என்ன தெரியும் என்பது உங்கள் permissions ஐப் பொறுத்தது. உதாரணமாக cashier க்கு sales figures தெரியாது.
 
+இடது பக்க **menu** உங்கள் business பெயரைக் காட்டும் (upload செய்திருந்தால் [logo](/ta/business/settings/) உடன்). கீழே நீங்கள்
+பயன்படுத்தும் GPOS **version** ஐக் காட்டும், உதா. *Version 2026.10.29-1*. பிரச்சினையை report செய்யும்போது இந்த number ஐ
+உங்கள் service provider க்குச் சொல்லுங்கள்.
+
 ## Lists உடன் வேலை செய்தல்
 
 Back office இல் உள்ள ஒவ்வொரு list உம் — sales, shifts, products, customers, stock movements, purchase orders,
