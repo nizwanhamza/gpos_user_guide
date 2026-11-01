@@ -85,6 +85,7 @@ out க்கும் manager approve செய்ய வேண்டும் 
 | Discount limit with sales.discount | `100` % |
 | Discount limit for everyone else | `0` % (ஒவ்வொரு cashier discount க்கும் manager தேவை) |
 | Return window | `30` நாட்கள் |
+| Open the edit window for every item | Off |
 
 ### Blind close
 
@@ -119,6 +120,13 @@ Customer discounts (customer இன் profile இல் set செய்தவ�
 
 Sale க்குப் பிறகு எத்தனை நாட்களுக்குள் **till இல் return செய்யலாம்**. `0` = limit இல்லை. Role அனுமதிக்காவிட்டால்
 returns மற்றும் voids க்கு cashiers க்கு manager இன் PIN தேவை. [Returns and voids](/ta/till/returns-voids/) ஐப் பாருங்கள்.
+
+### Open the edit window for every item
+
+Tick செய்தால், item சேர்க்கப்பட்டவுடன் — scan, search அல்லது quick-pick மூலம் — till அதன் **Edit** window ஐ open
+செய்யும், எனவே cashier உடனே quantity, variant அல்லது discount ஐ set செய்யலாம். **Enter** save செய்யும்; **Esc** item ஐ
+அப்படியே வைக்கும். பெரும்பாலான items வெவ்வேறு quantities இல் விற்கப்படும் இடங்களுக்குப் பயனுள்ளது. Off எனில், தேவைப்படும்போது
+cashier <span class="ui">Edit</span> அல்லது **F1** மூலம் அதை open செய்வார்.
 
 ## Receipts
 

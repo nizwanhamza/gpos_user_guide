@@ -6,7 +6,8 @@ sidebar:
 ---
 
 ඔබේම sign-in විස්තර — password එක, **two-step sign-in** සහ POS PIN එක — manage කරන්න menu එකේ පහළ
-<span class="ui">My account</span> තෝරන්න.
+<span class="ui">My account</span> තෝරන්න — නැත්නම් ඔබේ නමේ මුල් අකුරු තියෙන රවුම් button එක. ඒක වෙනම page එකක් විදිහට
+open වෙනවා, උඩින් ඔබේ නම සහ e-mail එක පෙන්නනවා.
 
 ## Password එක වෙනස් කරන්න
 

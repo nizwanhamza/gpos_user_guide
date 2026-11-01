@@ -28,7 +28,9 @@ on the product page. See [Plans and features](/getting-started/plans/).
 1. Go to **Products** → <span class="ui">New product</span>.
 2. **Details**:
    - **Name** (and the **Sinhala name** / **Tamil name** if you use them).
-   - **Category** and **Brand** (optional).
+   - **Category** and **Brand** (optional). Not in the list yet? Select
+     <span class="ui">+ New category</span> or <span class="ui">+ New brand</span> beside the field —
+     it is created and chosen for this product without leaving the page.
    - **Tax group** — or *Not taxed*.
    - **Unit** — prices and stock are per this unit.
    - **Sold by** — *Quantity* (pieces) or *Weight* (the till asks for the weight on the scale).

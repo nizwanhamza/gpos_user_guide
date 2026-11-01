@@ -53,6 +53,12 @@ Record ஆனபடியே back office ஏதோ ஒன்றை ஏற்க 
 ## புதிய version ready
 
 Till *A new version is ready* எனக் காட்டும்போது, customers இடையே <span class="ui">Update now</span> ஐத் தேர்ந்தெடுங்கள்.
+Sale இன் நடுவில் till ஒருபோதும் update ஆகாது.
+
+Till open ஆகும்போது புதிய version உள்ளதா எனப் பார்க்கும். நாள் முழுவதும் open ஆக இருந்தால், உடனே பார்க்க
+<span class="ui">Check for updates</span> (top bar இல் **↻** button, lock screen இலும் உள்ளது) ஐத் தேர்ந்தெடுங்கள். அது
+*Checking for updates…* எனக் காட்டி, பிறகு *A new version is ready* banner அல்லது *Up to date (version …)* ஐக் காட்டும்.
+Offline எனில், network திரும்பியதும் மீண்டும் பார்க்கச் சொல்லும்.
 
 :::danger[Till இன் browser data ஐ ஒருபோதும் clear செய்யாதீர்கள்]
 Site data ஐ clear செய்வது, incognito mode ஐப் பயன்படுத்துவது அல்லது browser ஐ reset செய்வது இன்னும் waiting உள்ள அனைத்தையும் delete செய்யும்.

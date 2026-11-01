@@ -14,6 +14,14 @@ GPOS — back office, till, இந்த guide — **English**, **සිංහ�
    செய்யலாம். *Business default* என்றால் business இன் மொழியே பயன்படும்.
 3. **Business default** — owner **Settings → Regional settings → Default language** இல் set செய்வார்.
 
+சிங்களம் மற்றும் தமிழ் screens இந்த guide போலவே **அன்றாட மொழியைப்** பயன்படுத்தும், technical சொற்களை English இலேயே வைத்திருக்கும்.
+
+:::note[தேர்ந்தெடுக்க முடியாத மொழியா?]
+எந்த மொழிகள் வழங்கப்படும் என்பதை உங்கள் service provider தீர்மானிப்பார்; English எப்போதும் இருக்கும். ஒரு மொழி off
+செய்யப்பட்டால் அது language lists இலிருந்து மறையும், அதைத் தேர்ந்தெடுத்தவர்கள் business default மொழியைப் பார்ப்பார்கள்
+(அதுவும் off எனில் English). Open ஆக உள்ள screens மற்றும் tills சில நிமிடங்களுக்குள் மாறும். E-mails உம் இதே விதியைப் பின்பற்றும்.
+:::
+
 ## Products இன் சிங்களம் மற்றும் தமிழ் பெயர்கள்
 
 Customers receipts ஐத் தங்கள் மொழியில் படிக்க விரும்புவார்கள். சிங்களம் மற்றும் தமிழ் பெயர்களை add செய்ய:

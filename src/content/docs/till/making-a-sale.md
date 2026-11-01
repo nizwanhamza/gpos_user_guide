@@ -48,6 +48,10 @@ select <span class="ui">Edit</span> on the line (**F1** edits the last item adde
 - the **Discount** on this line — see [Discounts](/till/discounts/);
 - or <span class="ui">Remove item</span>.
 
+If your business turned on **Open the edit window for every item**
+([Settings](/business/settings/#open-the-edit-window-for-every-item)), this window opens by itself
+for each item you add: **Enter** saves, **Esc** keeps the item as it is.
+
 Select <span class="ui">Save</span>. On a keyboard, **Num +** and **Num −** add or take away one of
 the last item.
 

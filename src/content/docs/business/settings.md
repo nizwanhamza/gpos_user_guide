@@ -86,6 +86,7 @@ discount and every cash out — so review them before you open:
 | Discount limit with sales.discount | `100` % |
 | Discount limit for everyone else | `0` % (every cashier discount needs a manager) |
 | Return window | `30` days |
+| Open the edit window for every item | Off |
 
 ### Blind close
 
@@ -123,6 +124,13 @@ See [Customers](/sales/customers/).
 How many days after a sale it can be **returned at the till**. `0` = no limit. Cashiers need a
 manager's PIN for returns and voids unless their role allows them. See
 [Returns and voids](/till/returns-voids/).
+
+### Open the edit window for every item
+
+When ticked, the till opens the **Edit** window for each item as soon as it is added — by scan,
+search or quick-pick — so the cashier can set the quantity, variant or discount straight away.
+**Enter** saves it; **Esc** keeps the item as it is. Useful where most items are sold in different
+quantities. When off, the cashier opens it with <span class="ui">Edit</span> or **F1** when needed.
 
 ## Receipts
 

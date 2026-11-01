@@ -50,6 +50,10 @@ sidebar:
 | **Ctrl + K** | Keys list |
 | **Esc** | Open ஆக உள்ள window ஐ close செய்யுங்கள் |
 
+**Tab** fields மற்றும் buttons இடையே நகரும், screen இல் உள்ள number pads ஐ skip செய்யும் (அவை touch screens க்கு —
+பதிலாக இலக்கங்களை type செய்யுங்கள்). Window க்குள் **Tab** மற்றும் **Shift + Tab** அந்த window இன் fields மற்றும்
+buttons இடையே மட்டுமே சுற்றும், பின்னால் உள்ள screen க்கு ஒருபோதும் செல்லாது.
+
 நேரடியாக type அல்லது scan செய்யத் தொடங்கலாம் — till அதை scan box க்கு அனுப்பும். Function keys ஒருபோதும் scan box க்குச் செல்லாது,
 எனவே barcode scanner உடன் மோதாது.
 
@@ -81,8 +85,9 @@ Chrome அல்லது Edge இன் print dialog இல் headers மற�
 ### Screen
 
 - **Screen** (sync panel இல்) — browser அனுமதித்தால், till open ஆக இருக்கும் வரை screen ஐ on ஆக வைத்திருக்கும்.
-- **Top bar** இல்: பெரிய buttons மற்றும் prices க்கு <span class="ui">Larger text</span> / <span class="ui">Normal text</span>, மற்றும்
-  <span class="ui">Full screen</span> / <span class="ui">Exit full screen</span>.
+- **Top bar** இல்: பெரிய buttons மற்றும் prices க்கு <span class="ui">Larger text</span> / <span class="ui">Normal text</span>,
+  <span class="ui">Full screen</span> / <span class="ui">Exit full screen</span>, மற்றும் <span class="ui">Check for updates</span>
+  (**↻**) — [Offline மற்றும் sync](/ta/till/offline-sync/) ஐப் பாருங்கள்.
 
 ### Scan sounds
 

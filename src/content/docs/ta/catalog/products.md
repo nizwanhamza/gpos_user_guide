@@ -27,7 +27,8 @@ features — ஒன்று இல்லாவிட்டால் அதன�
 1. **Products** → <span class="ui">New product</span> க்குச் செல்லுங்கள்.
 2. **Details**:
    - **Name** (பயன்படுத்தினால் **Sinhala name** / **Tamil name** உம்).
-   - **Category** மற்றும் **Brand** (கட்டாயமில்லை).
+   - **Category** மற்றும் **Brand** (கட்டாயமில்லை). List இல் இன்னும் இல்லையா? Field அருகே உள்ள <span class="ui">+ New category</span>
+     அல்லது <span class="ui">+ New brand</span> ஐத் தேர்ந்தெடுங்கள் — page ஐ விட்டு வெளியேறாமல் அது உருவாக்கப்பட்டு இந்த product க்குத் தேர்ந்தெடுக்கப்படும்.
    - **Tax group** — அல்லது *Not taxed*.
    - **Unit** — prices மற்றும் stock இந்த unit க்கு.
    - **Sold by** — *Quantity* (pieces) அல்லது *Weight* (till scale இல் எடையைக் கேட்கும்).

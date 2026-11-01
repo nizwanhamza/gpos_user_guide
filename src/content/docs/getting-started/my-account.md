@@ -5,8 +5,9 @@ sidebar:
   order: 4
 ---
 
-Select <span class="ui">My account</span> at the bottom of the menu to manage your own sign-in
-details: your password, **two-step sign-in** and your POS PIN.
+Select <span class="ui">My account</span> at the bottom of the menu — or the round button with your
+initials — to manage your own sign-in details: your password, **two-step sign-in** and your POS
+PIN. It opens as its own page, showing your name and e-mail at the top.
 
 ## Change your password
 

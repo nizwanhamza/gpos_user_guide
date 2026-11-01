@@ -50,6 +50,10 @@ sidebar:
 | **Ctrl + K** | Keys list එක |
 | **Esc** | Open වෙලා තියෙන window එක close කරන්න |
 
+**Tab** එකෙන් fields සහ buttons අතර යනවා, screen එකේ number pads skip කරනවා (ඒවා touch screens වලට — ඒ වෙනුවට
+ඉලක්කම් type කරන්න). Window එකක් ඇතුළේ **Tab** සහ **Shift + Tab** යන්නේ ඒ window එකේම fields සහ buttons අතර විතරයි,
+පිටිපස්සේ screen එකට කවදාවත් නැහැ.
+
 ඕන නම් කෙලින්ම type කරන්න හෝ scan කරන්න පටන් ගන්න — till එක ඒක scan box එකට යවනවා. Function keys කවදාවත් scan box එකට
 යන්නේ නැහැ, ඒ නිසා barcode scanner එක එක්ක ගැටෙන්නේ නැහැ.
 
@@ -80,8 +84,9 @@ Print වෙන දේ (නම, header lines, footer, tax number) set කරන�
 ### Screen
 
 - **Screen** (sync panel එකේ) — browser එක ඉඩ දෙනවා නම්, till එක open කරලා තියෙනකම් screen එක on තියාගන්නවා.
-- **Top bar** එකේ: ලොකු buttons සහ prices වලට <span class="ui">Larger text</span> / <span class="ui">Normal text</span>, සහ
-  <span class="ui">Full screen</span> / <span class="ui">Exit full screen</span>.
+- **Top bar** එකේ: ලොකු buttons සහ prices වලට <span class="ui">Larger text</span> / <span class="ui">Normal text</span>,
+  <span class="ui">Full screen</span> / <span class="ui">Exit full screen</span>, සහ <span class="ui">Check for updates</span>
+  (**↻**) — [Offline සහ sync](/si/till/offline-sync/) බලන්න.
 
 ### Scan sounds
 

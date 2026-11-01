@@ -15,6 +15,16 @@ and **தமிழ் (Tamil)**.
    **Employees → Edit**. *Business default* follows the business.
 3. **The business default** — set by the owner in **Settings → Regional settings → Default language**.
 
+The Sinhala and Tamil screens use **everyday language** and keep technical words in English, like
+this guide.
+
+:::note[A language you cannot choose?]
+Your service provider decides which languages are offered; English is always there. If a language
+is switched off, it disappears from the language lists, and anyone who chose it sees the business
+default language instead (or English, if that is off too). Open screens and tills follow within a
+few minutes. E-mails follow the same rule.
+:::
+
 ## Sinhala and Tamil product names
 
 Customers like to read receipts in their own language. To add Sinhala and Tamil names:

@@ -58,7 +58,13 @@ permission while offline. It is **not dropped**: an administrator decides in
 ## A new version is ready
 
 When the till shows *A new version is ready*, select <span class="ui">Update now</span> between
-customers.
+customers. The till never updates in the middle of a sale.
+
+A till looks for a new version when it is opened. If it stays open all day, select
+<span class="ui">Check for updates</span> (the **↻** button in the top bar, also on the lock
+screen) to look at once. It shows *Checking for updates…*, then either the *A new version is
+ready* banner or *Up to date (version …)*. Offline, it says to check again when the network is
+back.
 
 :::danger[Never clear a till's browser data]
 Clearing site data, using incognito mode or resetting the browser deletes anything still waiting.

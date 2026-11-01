@@ -6,7 +6,8 @@ sidebar:
 ---
 
 உங்கள் சொந்த sign-in விவரங்களை — password, **two-step sign-in**, POS PIN — manage செய்ய menu இன் கீழே
-<span class="ui">My account</span> ஐத் தேர்ந்தெடுங்கள்.
+<span class="ui">My account</span> ஐத் தேர்ந்தெடுங்கள் — அல்லது உங்கள் பெயரின் முதல் எழுத்துகள் உள்ள வட்ட button ஐ. அது
+தனி page ஆக open ஆகும், மேலே உங்கள் பெயரையும் e-mail ஐயும் காட்டும்.
 
 ## Password ஐ மாற்றுங்கள்
 

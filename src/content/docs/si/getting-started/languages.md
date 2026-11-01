@@ -14,6 +14,14 @@ GPOS — back office එක, till එක සහ මේ guide එක — **Englis
    **Language** එක set කරන්න පුළුවන්. *Business default* තේරුවොත් business එකේ භාෂාවම ගන්නවා.
 3. **Business default එක** — owner විසින් **Settings → Regional settings → Default language** හි set කරනවා.
 
+සිංහල සහ දෙමළ screens මේ guide එක වගේම **එදිනෙදා භාෂාව** භාවිතා කරනවා, technical වචන English වලින්ම තියාගන්නවා.
+
+:::note[තෝරන්න බැරි භාෂාවක්ද?]
+දෙන භාෂා තීරණය කරන්නේ ඔබේ service provider; English හැමවිටම තියෙනවා. භාෂාවක් off කළොත් ඒක language lists වලින්
+අයින් වෙනවා, ඒක තෝරපු අයට business default භාෂාව පෙනෙනවා (ඒකත් off නම් English). Open කරලා තියෙන screens සහ tills
+විනාඩි කිහිපයක් ඇතුළත ඒ අනුව වෙනස් වෙනවා. E-mails ත් ඒ නීතියම අනුගමනය කරනවා.
+:::
+
 ## Products වල සිංහල සහ දෙමළ නම්
 
 Customers ට receipts තමන්ගේ භාෂාවෙන් කියවන්න කැමතියි. සිංහල සහ දෙමළ නම් add කරන්න:

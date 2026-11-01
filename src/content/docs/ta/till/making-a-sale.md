@@ -48,6 +48,9 @@ label ஐ print செய்யும் — [Barcodes மற்றும் lab
 - இந்த line இன் **Discount** — [Discounts](/ta/till/discounts/) ஐப் பாருங்கள்;
 - அல்லது <span class="ui">Remove item</span>.
 
+உங்கள் business **Open the edit window for every item** ஐ on செய்திருந்தால் ([Settings](/ta/business/settings/)), நீங்கள்
+சேர்க்கும் ஒவ்வொரு item க்கும் இந்த window தானாக open ஆகும்: **Enter** save செய்யும், **Esc** item ஐ அப்படியே வைக்கும்.
+
 <span class="ui">Save</span> ஐத் தேர்ந்தெடுங்கள். Keyboard இல் **Num +** மற்றும் **Num −** கடைசி item இல் ஒன்றைச் சேர்க்கும் அல்லது குறைக்கும்.
 
 கீழே **Subtotal**, **Tax** (அல்லது *Tax included*), **Total** தெரியும்.

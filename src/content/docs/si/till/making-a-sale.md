@@ -48,6 +48,9 @@ barcode label එකක් print කරනවා — [Barcodes සහ labels](/s
 - මේ line එකේ **Discount** එක — [Discounts](/si/till/discounts/) බලන්න;
 - නැත්නම් <span class="ui">Remove item</span>.
 
+ඔබේ business එක **Open the edit window for every item** on කරලා නම් ([Settings](/si/business/settings/)), ඔබ add කරන
+හැම item එකකටම මේ window එක තනියම open වෙනවා: **Enter** save කරනවා, **Esc** item එක තිබුණු විදිහටම තියනවා.
+
 <span class="ui">Save</span> තෝරන්න. Keyboard එකේ **Num +** සහ **Num −** වලින් අන්තිම item එකෙන් එකක් එකතු කරනවා හෝ අඩු කරනවා.
 
 පහළින් **Subtotal**, **Tax** (හෝ *Tax included*) සහ **Total** පෙන්නනවා.

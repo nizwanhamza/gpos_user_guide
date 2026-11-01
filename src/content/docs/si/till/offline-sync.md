@@ -53,7 +53,13 @@ Record කළ විදිහටම back office එකට යමක් accept �
 
 ## අලුත් version එකක් ready
 
-Till එකේ *A new version is ready* පෙන්නුවාම, customers දෙන්නෙක් අතර <span class="ui">Update now</span> තෝරන්න.
+Till එකේ *A new version is ready* පෙන්නුවාම, customers දෙන්නෙක් අතර <span class="ui">Update now</span> තෝරන්න. Sale
+එකක් මැද till එක කවදාවත් update වෙන්නේ නැහැ.
+
+Till එක open කරනකොට අලුත් version එකක් තියෙනවද බලනවා. දවස පුරාම open කරලා තියෙනවා නම්, වහාම බලන්න
+<span class="ui">Check for updates</span> (top bar එකේ **↻** button එක, lock screen එකේත් තියෙනවා) තෝරන්න. ඒක
+*Checking for updates…* පෙන්නලා, ඊට පස්සේ *A new version is ready* banner එක හෝ *Up to date (version …)* පෙන්නනවා.
+Offline නම්, network එක ආවම ආයෙත් බලන්න කියනවා.
 
 :::danger[Till එකක browser data කවදාවත් clear කරන්න එපා]
 Site data clear කිරීම, incognito mode භාවිතය හෝ browser එක reset කිරීම තවම waiting තියෙන හැම දෙයක්ම delete කරනවා. Till එකක් මාරු

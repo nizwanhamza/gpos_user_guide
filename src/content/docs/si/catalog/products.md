@@ -27,7 +27,8 @@ status හෝ **Added at till** අනුව filter කරන්න, column එ�
 1. **Products** → <span class="ui">New product</span> වෙත යන්න.
 2. **Details**:
    - **Name** (භාවිතා කරනවා නම් **Sinhala name** / **Tamil name** ත්).
-   - **Category** සහ **Brand** (අනිවාර්ය නැහැ).
+   - **Category** සහ **Brand** (අනිවාර්ය නැහැ). List එකේ තවම නැද්ද? Field එක ළඟ තියෙන <span class="ui">+ New category</span>
+     හෝ <span class="ui">+ New brand</span> තෝරන්න — page එකෙන් අයින් නොවී ඒක හදලා මේ product එකට තෝරනවා.
    - **Tax group** — නැත්නම් *Not taxed*.
    - **Unit** — prices සහ stock තියෙන්නේ මේ unit එකට.
    - **Sold by** — *Quantity* (pieces) හෝ *Weight* (till එක scale එකේ බර අහනවා).

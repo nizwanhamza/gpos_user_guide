@@ -85,6 +85,7 @@ approve කරන්න ඕන — ඒ නිසා shop එක open කරන�
 | Discount limit with sales.discount | `100` % |
 | Discount limit for everyone else | `0` % (හැම cashier discount එකකටම manager ඕන) |
 | Return window | දින `30` |
+| Open the edit window for every item | Off |
 
 ### Blind close
 
@@ -120,6 +121,13 @@ Customer discounts (customer ගේ profile එකේ set කරපු) automati
 
 Sale එකකට පස්සේ දින කීයක් ඇතුළත **till එකේ return කරන්න** පුළුවන්ද. `0` = limit නැහැ. Role එකෙන් ඉඩ නැත්නම්
 returns සහ voids වලට cashiers ට manager ගේ PIN එක ඕන. [Returns and voids](/si/till/returns-voids/) බලන්න.
+
+### Open the edit window for every item
+
+Tick කළොත්, item එකක් add කරපු ගමන් — scan, search හෝ quick-pick එකෙන් — till එක ඒකේ **Edit** window එක open කරනවා,
+ඒ නිසා cashier ට වහාම quantity, variant හෝ discount set කරන්න පුළුවන්. **Enter** save කරනවා; **Esc** item එක තිබුණු
+විදිහටම තියනවා. බොහෝ items විවිධ quantities වලින් විකුණන තැන්වලට ප්‍රයෝජනවත්. Off නම්, ඕන වුණාම cashier
+<span class="ui">Edit</span> හෝ **F1** එකෙන් ඒක open කරනවා.
 
 ## Receipts
 

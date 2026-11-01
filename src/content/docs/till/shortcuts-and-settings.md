@@ -49,6 +49,10 @@ The same list is on the till: the **keyboard button** at the top right, or **Ctr
 | **Ctrl + K** | The list of keys |
 | **Esc** | Close the open window |
 
+**Tab** moves between the fields and buttons and skips the on-screen number pads (they are for
+touch screens — type the digits instead). In a window, **Tab** and **Shift + Tab** go round that
+window's own fields and buttons only, never to the screen behind it.
+
 You can also just start typing or scanning — the till sends it to the scan box. Function keys
 never reach the scan box, so they never clash with a barcode scanner.
 
@@ -87,7 +91,8 @@ What is printed (name, header lines, footer, tax number) is set in
   allows it.
 - In the **top bar**: <span class="ui">Larger text</span> / <span class="ui">Normal text</span> for
   bigger buttons and prices, and <span class="ui">Full screen</span> /
-  <span class="ui">Exit full screen</span>.
+  <span class="ui">Exit full screen</span>, and <span class="ui">Check for updates</span> (**↻**) —
+  see [A new version is ready](/till/offline-sync/#a-new-version-is-ready).
 
 ### Scan sounds
 
