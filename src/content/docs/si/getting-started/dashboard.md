@@ -15,8 +15,8 @@ Sign in වුණාම මුලින්ම පෙනෙන page එක **Dash
 - **Business** — business නම, **Business code** එක, currency, time zone, contact විස්තර සහ join වූ දිනය.
 - **Your access** — ඔබට තියෙන roles සහ permissions, සහ ඒවා කුමන branches වලටද කියලා.
 - **Plan** — plan එකේ නම, ඔබේ plan එකේ තියෙන හැම feature එකක්ම (✓ සමඟ), සහ limits: active branches,
-  registers, employees, products, සහ plan එකේ තියෙනවා නම් warehouses සහ customer profiles. *Plan එක වෙනස්
-  කරන්න ඔබේ service provider අමතන්න.* [Plans and features](/si/getting-started/plans/) බලන්න.
+  registers, employees, products, සහ plan එකේ තියෙනවා නම් warehouses සහ customer profiles. Plan එක වෙනස්
+  කරන්න [Billing සහ subscription](/si/getting-started/billing/) බලන්න. [Plans and features](/si/getting-started/plans/) ත් බලන්න.
 
 පෙනෙන දේ ඔබේ permissions අනුව වෙනස් වෙනවා. උදාහරණයක් ලෙස cashier කෙනෙකුට sales figures පෙනෙන්නේ නැහැ.
 

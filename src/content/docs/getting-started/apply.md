@@ -15,6 +15,13 @@ application is approved.
 **Apply at: [https://app.gpos.lk/register](https://app.gpos.lk/register)** — or select
 **New business? Apply for an account** on the [sign-in page](https://app.gpos.lk).
 
+:::tip[Buying GPOS through a partner?]
+GPOS is also sold by **partners** — companies that set it up and bill you themselves. Use the
+registration link your partner gives you: the form then says *You are signing up through our
+partner …*. Your partner may also send the application for you. See
+[Billing and subscription](/getting-started/billing/#subscribed-through-a-partner).
+:::
+
 :::note
 If the page says *We are not taking new applications online at the moment*, contact GPOS Support
 and they will set up your business for you.
@@ -57,6 +64,13 @@ Have these ready:
 | **Mobile number** | |
 | **Language for e-mails** | English, Sinhala or Tamil. |
 | **Your e-mail** | You sign in with this once approved. |
+
+### Plan and promotion
+
+- **Plan** — choose the plan you want, with its yearly price and free-trial days (if any), or
+  *Not sure yet*. We confirm the plan when we approve. See [Plans and features](/getting-started/plans/)
+  and [Billing and subscription](/getting-started/billing/).
+- **Promotion code** (optional) — if you have one. It is applied when your application is approved.
 
 Then:
 

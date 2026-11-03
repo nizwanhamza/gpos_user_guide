@@ -133,6 +133,8 @@ mark செய்யும், என்ன நடந்தது என்ற�
 
 ## Plan ஐ மாற்றுங்கள்
 
-*Plan ஐ மாற்ற உங்கள் service provider ஐத் தொடர்பு கொள்ளுங்கள்.* Plan மாற்றப்பட்டதும், அடுத்த முறை back office ஐ open
+Owners மற்றும் administrators **[Billing](/ta/getting-started/billing/)** page இல் plan ஐ மாற்றுவார்கள் — upgrade அதன் invoice
+செலுத்தப்பட்டதும் தொடங்கும், downgrade உங்கள் அடுத்த வருடத்தின் தொடக்கத்தில். உங்கள் plan GPOS உடன் ஏற்பாடு செய்யப்பட்டிருந்தால்
+(end date இல்லை) அல்லது partner மூலம் subscribe செய்திருந்தால், அவர்களைத் தொடர்பு கொள்ளுங்கள். Plan மாற்றப்பட்டதும், அடுத்த முறை back office ஐ open
 அல்லது reload செய்யும்போது புதிய features தெரியும் — எதையும் மீண்டும் install செய்ய வேண்டியதில்லை. முன்பு உள்ளிட்ட data
 அப்படியே இருக்கும்.

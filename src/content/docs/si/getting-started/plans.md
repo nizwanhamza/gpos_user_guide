@@ -134,5 +134,7 @@ sale එකක් **කවදාවත් reject කරන්නේ නැහැ
 
 ## Plan එක වෙනස් කරන්න
 
-*Plan එක වෙනස් කරන්න ඔබේ service provider අමතන්න.* Plan එක වෙනස් කළාට පස්සේ, ඊළඟ පාර back office එක open කරනකොට
+Owners සහ administrators plan එක වෙනස් කරන්නේ **[Billing](/si/getting-started/billing/)** page එකේ — upgrade එකක් පටන්
+ගන්නේ ඒකේ invoice එක ගෙව්වාම, downgrade එකක් ඊළඟ අවුරුද්ද පටන් ගන්නකොට. ඔබේ plan එක GPOS එක්ක arrange කරලා නම් (end date
+එකක් නැහැ) හෝ partner කෙනෙක් හරහා subscribe කළා නම්, ඒ අය අමතන්න. Plan එක වෙනස් කළාට පස්සේ, ඊළඟ පාර back office එක open කරනකොට
 හෝ reload කරනකොට අලුත් features පෙනෙනවා — කිසිම දෙයක් ආයෙත් install කරන්න ඕන නැහැ. කලින් දාපු data එහෙමම තියෙනවා.

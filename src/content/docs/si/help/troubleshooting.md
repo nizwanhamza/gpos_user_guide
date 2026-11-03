@@ -42,13 +42,18 @@ Recovery code එකකින් sign in වෙන්න, නැත්නම් 
 ඊළඟ sign in එකේදී owner update කරපු terms of service accept කරන්න ඕන.
 
 **"This business account is suspended"**
-ඔබේ service provider අමතන්න.
+ඔබේ service provider අමතන්න. Subscription එක නොගෙවපු නිසා suspend කළා නම්, ගෙවීම record කරපු ගමන් ආයෙත් වැඩ කරනවා —
+[Billing සහ subscription](/si/getting-started/billing/) බලන්න.
+
+**"The subscription is unpaid: changes are paused until it is renewed"**
+Subscription එක ගෙවනකම් back office එක read-only; tills දිගටම විකුණනවා. Owner **Billing** හි පෙන්නන invoice එක ගෙවනවා —
+[Billing සහ subscription](/si/getting-started/billing/) බලන්න.
 
 **"You do not have permission to do this"**
 ඔබේ role එකෙන් ඒකට ඉඩ නැහැ. Owner ගෙන් හෝ administrator ගෙන් අහන්න — [Roles and permissions](/si/business/roles/) බලන්න.
 
 **"This feature is not included in your plan" / "Your plan limit has been reached"**
-උදා. ඔබේ plan එකට වඩා තව branch එකක් හෝ employee කෙනෙක් add කරනකොට. Plan එක වෙනස් කරන්න ඔබේ service provider අමතන්න. Disable කළ
+උදා. ඔබේ plan එකට වඩා තව branch එකක් හෝ employee කෙනෙක් add කරනකොට. Plan එක [Billing](/si/getting-started/billing/) හි වෙනස් කරන්න, නැත්නම් ඔබේ partner හෝ service provider අමතන්න. Disable කළ
 employees සහ inactive branches ගණන් කරන්නේ නැහැ. [Plans and features](/si/getting-started/plans/) බලන්න.
 
 **මේ guide එකේ තියෙන menu item එකක් නැහැ**
@@ -67,6 +72,9 @@ list කරනවා) සහ ඔබේ role එක ගැන owner ගෙන් 
 **"Setting up needs an internet connection"** — device එක connect කරලා ආයෙත් try කරන්න.
 
 ## Till එකේ
+
+**"The business's subscription is waiting for payment" / "… is unpaid"**
+විකිණීම සාමාන්‍ය විදිහටම යනවා. Owner ට කියන්න — ඔවුන් back office එකේ **Billing** page එකෙන් renew කරනවා.
 
 **"Who is using the till?" හි මගේ නම නැහැ**
 ඔබට **POS PIN** එකක් සහ **මේ branch එකේ** විකුණන්න පුළුවන් role එකක් ඕන. [My account](/si/getting-started/my-account/) හි PIN එක set

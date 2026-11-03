@@ -88,7 +88,22 @@ feature your plan includes. See [Plans and features](/getting-started/plans/).
 
 ### How do I change my plan?
 
-Contact your service provider. Your current plan and limits are on the dashboard.
+Owners and administrators can do it on the **Billing** page: an upgrade starts once its invoice is
+paid, a downgrade at the start of your next year. Subscribed through a partner, or on an arranged
+plan? Contact them. See [Billing and subscription](/getting-started/billing/).
+
+### Can we buy GPOS through a partner?
+
+Yes. Besides subscribing directly with GPOS, you can subscribe through a **GPOS partner**, who sets
+you up and bills you in their own way. Sign up with the link your partner gives you. Your partner
+sees your plan and subscription dates only, never your business data. See
+[Billing and subscription](/getting-started/billing/#subscribed-through-a-partner).
+
+### What happens if we pay our subscription late?
+
+Your tills **keep selling**. After a few days the back office becomes read-only until the payment
+is recorded, and later the account can be suspended. See
+[When a payment is late](/getting-started/billing/#when-a-payment-is-late).
 
 ### Do cashiers need two-step sign-in on the till?
 

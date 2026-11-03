@@ -59,6 +59,8 @@ feature එකයි. [Plans and features](/si/getting-started/plans/) බලන
 | Reports | View reports | Reports open කරන්න. |
 | Reports | See cost, margin and stock value in reports | Cost figures පෙන්නන්න. |
 | Audit | View the business audit log | Audit log එක open කරන්න. |
+| Billing | See the plan, subscription dates and billing | [Billing](/si/getting-started/billing/) open කරන්න. Default විදිහට Owner සහ Administrator. |
+| Billing | Change the plan, cancel the subscription and use promotion codes | Plan වෙනස් කරන්න, cancel කරන්න, promotion codes දාන්න. Default විදිහට Owner සහ Administrator. |
 | Online marketplace | View online marketplace selling (connection and listings) | Sell online බලන්න. Default විදිහට Owner, Administrator සහ Manager. Plan feature එකක්. |
 | Online marketplace | Connect to an online marketplace and choose what is sold there | Gocart.lk වලට apply කරන්න, store එක සහ items තෝරන්න, විකිණීම නවත්වන්න. Default විදිහට Owner සහ Administrator. |
 

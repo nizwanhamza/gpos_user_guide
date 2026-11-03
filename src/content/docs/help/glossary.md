@@ -15,6 +15,9 @@ sidebar:
 | **Register** | A checkout counter in a branch. Each has one till. |
 | **Till** | The device and screen used to sell, paired to a register. Also called POS. |
 | **Store / warehouse** | A place where stock is kept. Every branch has a default one. |
+| **Subscription** | Your yearly agreement for a plan: its price, the paid period and the renewal date. See Billing. |
+| **Invoice / credit note** | What GPOS bills you (`INV-2026-…`), and a correction to an invoice (`CN-2026-…`). |
+| **Partner** | A company that sells GPOS to its own customers and bills them itself. |
 | **Shift** | A period of selling on one till, from opening (with a float) to closing (with a count). Named after who opened it and when, e.g. `Shift-Chamari-20261027-8.00am`. |
 | **Float** | The cash in the drawer when a shift opens, for giving change. |
 | **Cash in / cash out** | Money put in or taken out of the drawer that is not a sale or refund. |

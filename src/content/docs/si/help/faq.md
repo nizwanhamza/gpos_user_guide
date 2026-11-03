@@ -81,7 +81,20 @@ item එකක් නැත්නම්, බොහෝ විට ඒක ඔබේ
 
 ### මගේ plan එක වෙනස් කරන්නේ කොහොමද?
 
-ඔබේ service provider අමතන්න. ඔබේ දැනට තියෙන plan එක සහ limits dashboard එකේ තියෙනවා.
+Owners සහ administrators ට **Billing** page එකේ ඒක කරන්න පුළුවන්: upgrade එකක් පටන් ගන්නේ ඒකේ invoice එක ගෙව්වාම,
+downgrade එකක් ඊළඟ අවුරුද්ද පටන් ගන්නකොට. Partner කෙනෙක් හරහා subscribe කළාද, නැත්නම් arrange කරපු plan එකක්ද? ඒ අය අමතන්න.
+[Billing සහ subscription](/si/getting-started/billing/) බලන්න.
+
+### Partner කෙනෙක් හරහා GPOS ගන්න පුළුවන්ද?
+
+ඔව්. කෙලින්ම GPOS එක්ක subscribe කරනවා වගේම, **GPOS partner** කෙනෙක් හරහාත් subscribe කරන්න පුළුවන්. Partner ඔබව setup
+කරලා තමන්ගේම විදිහට bill කරනවා. ඔබේ partner දෙන link එකෙන් sign up වෙන්න. ඔබේ partner ට පෙනෙන්නේ ඔබේ plan එක සහ subscription
+දින විතරයි, ඔබේ business data කවදාවත් නැහැ. [Billing සහ subscription](/si/getting-started/billing/) බලන්න.
+
+### Subscription එක පරක්කු වෙලා ගෙව්වොත් මොකද වෙන්නේ?
+
+ඔබේ tills **දිගටම විකුණනවා**. දින කිහිපයකට පස්සේ ගෙවීම record කරනකම් back office එක read-only වෙනවා, ඊට පස්සේ account එක
+suspend වෙන්න පුළුවන්. [Billing සහ subscription](/si/getting-started/billing/) බලන්න.
 
 ### Till එකේ cashiers ට two-step sign-in ඕනද?
 

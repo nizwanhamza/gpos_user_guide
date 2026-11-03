@@ -82,7 +82,21 @@ menu item காணவில்லையெனில், பெரும்ப�
 
 ### என் plan ஐ எப்படி மாற்றுவது?
 
-உங்கள் service provider ஐத் தொடர்பு கொள்ளுங்கள். உங்கள் தற்போதைய plan மற்றும் limits dashboard இல் உள்ளன.
+Owners மற்றும் administrators **Billing** page இல் அதைச் செய்யலாம்: upgrade அதன் invoice செலுத்தப்பட்டதும் தொடங்கும்,
+downgrade அடுத்த வருடத்தின் தொடக்கத்தில். Partner மூலம் subscribe செய்தீர்களா, அல்லது ஏற்பாடு செய்த plan ஆ? அவர்களைத் தொடர்பு
+கொள்ளுங்கள். [Billing மற்றும் subscription](/ta/getting-started/billing/) ஐப் பாருங்கள்.
+
+### Partner மூலம் GPOS ஐ வாங்கலாமா?
+
+ஆம். நேரடியாக GPOS உடன் subscribe செய்வதுடன், **GPOS partner** மூலமும் subscribe செய்யலாம். Partner உங்களை setup செய்து
+தங்கள் சொந்த முறையில் bill செய்வார். உங்கள் partner கொடுக்கும் link மூலம் sign up செய்யுங்கள். உங்கள் partner உங்கள் plan
+மற்றும் subscription தேதிகளை மட்டுமே பார்ப்பார், உங்கள் business data ஐ ஒருபோதும் பார்க்க மாட்டார்.
+[Billing மற்றும் subscription](/ta/getting-started/billing/) ஐப் பாருங்கள்.
+
+### Subscription ஐத் தாமதமாகச் செலுத்தினால் என்ன நடக்கும்?
+
+உங்கள் tills **தொடர்ந்து விற்பனை செய்யும்**. சில நாட்களுக்குப் பின் கட்டணம் record ஆகும் வரை back office read-only ஆகும்,
+பின்னர் account suspend ஆகலாம். [Billing மற்றும் subscription](/ta/getting-started/billing/) ஐப் பாருங்கள்.
 
 ### Till இல் cashiers க்கு two-step sign-in தேவையா?
 

@@ -15,6 +15,9 @@ sidebar:
 | **Register** | Branch இல் உள்ள checkout counter. ஒவ்வொன்றுக்கும் ஒரு till. |
 | **Till** | விற்கப் பயன்படும் device மற்றும் screen, register க்கு pair செய்யப்பட்டது. POS என்றும் அழைக்கப்படும். |
 | **Store / warehouse** | Stock வைக்கும் இடம். ஒவ்வொரு branch க்கும் ஒரு default உண்டு. |
+| **Subscription** | ஒரு plan க்கான உங்கள் வருடாந்த ஒப்பந்தம்: அதன் price, செலுத்திய காலம், renewal தேதி. Billing ஐப் பாருங்கள். |
+| **Invoice / credit note** | GPOS உங்களுக்கு bill செய்வது (`INV-2026-…`), மற்றும் invoice திருத்தம் (`CN-2026-…`). |
+| **Partner** | தன் சொந்த customers க்கு GPOS ஐ விற்று தானே bill செய்யும் company. |
 | **Shift** | ஒரு till இல் விற்பனை செய்யும் காலம், open செய்வது (float உடன்) முதல் close செய்வது (count உடன்) வரை. யார் எப்போது open செய்தார் என்பதன்படி பெயர், உதா. `Shift-Chamari-20261027-8.00am`. |
 | **Float** | Change கொடுக்க, shift open ஆகும்போது drawer இல் உள்ள cash. |
 | **Cash in / cash out** | Sale அல்லது refund அல்லாத, drawer இல் போடும் அல்லது எடுக்கும் பணம். |

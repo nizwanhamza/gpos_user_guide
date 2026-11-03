@@ -140,6 +140,9 @@ till go online and it picks up the new plan.
 
 ## Change your plan
 
-*To change your plan, contact your service provider.* Once your plan is changed, the new features
+Owners and administrators change the plan on the **[Billing](/getting-started/billing/#change-your-plan)**
+page — an upgrade starts once its invoice is paid, a downgrade at the start of your next year. If
+your plan is arranged with GPOS (no end date) or you subscribed through a partner, contact them
+instead. Once your plan is changed, the new features
 appear the next time you open or reload the back office — nothing needs to be reinstalled. Data
 you entered before stays as it is.

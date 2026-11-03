@@ -15,6 +15,9 @@ sidebar:
 | **Register** | Branch එකක checkout counter එකක්. හැම එකකටම till එකයි. |
 | **Till** | විකුණන්න භාවිතා කරන device එක සහ screen එක, register එකකට pair කරලා. POS කියලත් කියනවා. |
 | **Store / warehouse** | Stock තියාගන්න තැනක්. හැම branch එකකටම default එකක් තියෙනවා. |
+| **Subscription** | Plan එකක් සඳහා ඔබේ අවුරුදු ගිවිසුම: ඒකේ price එක, ගෙවපු කාලය සහ renewal දිනය. Billing බලන්න. |
+| **Invoice / credit note** | GPOS ඔබට bill කරන දේ (`INV-2026-…`), සහ invoice එකක නිවැරදි කිරීමක් (`CN-2026-…`). |
+| **Partner** | තමන්ගේම customers ට GPOS විකුණලා තමන්ම bill කරන company එකක්. |
 | **Shift** | එක till එකක විකුණන කාලයක්, open කරන (float එකක් එක්ක) වෙලාවේ සිට close කරන (count එකක් එක්ක) වෙලාව දක්වා. Open කළේ කවුද, කවදාද අනුව නම් කරනවා, උදා. `Shift-Chamari-20261027-8.00am`. |
 | **Float** | Change දෙන්න, shift එක open කරනකොට drawer එකේ තියෙන cash. |
 | **Cash in / cash out** | Sale එකක් හෝ refund එකක් නොවන, drawer එකට දාන හෝ ගන්න සල්ලි. |

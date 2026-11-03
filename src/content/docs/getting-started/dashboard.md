@@ -18,8 +18,8 @@ The **Dashboard** is the first page after you sign in.
 - **Your access** — the roles and permissions you have, and for which branches.
 - **Plan** — your plan's name, every feature your plan includes (marked ✓), and its
   limits: active branches, registers, employees, products, and — when they are in your plan —
-  warehouses and customer profiles. *To change your plan, contact your
-  service provider.* See [Plans and features](/getting-started/plans/).
+  warehouses and customer profiles. To change your plan, see
+  [Billing and subscription](/getting-started/billing/). See also [Plans and features](/getting-started/plans/).
 
 What appears depends on your permissions. A cashier, for example, does not see sales figures.
 

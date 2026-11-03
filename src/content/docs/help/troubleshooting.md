@@ -45,15 +45,20 @@ Your business (or your service provider, for owners) requires two-step sign-in. 
 The owner must accept the updated terms of service at the next sign-in.
 
 **"This business account is suspended"**
-Contact your service provider.
+Contact your service provider. If it was suspended for an unpaid subscription, it works again as
+soon as the payment is recorded — see [Billing and subscription](/getting-started/billing/#when-a-payment-is-late).
+
+**"The subscription is unpaid: changes are paused until it is renewed"**
+The back office is read-only until the subscription is paid; the tills keep selling. The owner pays
+the invoice shown on **Billing** — see [When a payment is late](/getting-started/billing/#when-a-payment-is-late).
 
 **"You do not have permission to do this"**
 Your role does not allow it. Ask your owner or administrator — see
 [Roles and permissions](/business/roles/).
 
 **"This feature is not included in your plan" / "Your plan limit has been reached"**
-For example, adding another branch or employee beyond your plan. Contact your service provider to
-change your plan. Disabled employees and inactive branches do not count. See
+For example, adding another branch or employee beyond your plan. Change your plan on
+[Billing](/getting-started/billing/#change-your-plan), or contact your partner or service provider. Disabled employees and inactive branches do not count. See
 [Plans and features](/getting-started/plans/).
 
 **A menu item described in this guide is missing**
@@ -73,6 +78,9 @@ your service provider.
 **"Setting up needs an internet connection"** — connect the device, then try again.
 
 ## On the till
+
+**"The business's subscription is waiting for payment" / "… is unpaid"**
+Selling continues as usual. Tell the owner — they renew it on the back office's **Billing** page.
 
 **My name is not on "Who is using the till?"**
 You need a **POS PIN** and a role that may sell at **this branch**. Set the PIN in

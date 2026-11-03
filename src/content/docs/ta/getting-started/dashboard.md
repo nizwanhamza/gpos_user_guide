@@ -15,8 +15,8 @@ Sign in செய்ததும் முதலில் தெரியும�
 - **Business** — business பெயர், **Business code**, currency, time zone, contact விவரங்கள், join செய்த தேதி.
 - **Your access** — உங்களுக்கு உள்ள roles மற்றும் permissions, அவை எந்த branches க்கு என்பது.
 - **Plan** — plan இன் பெயர், உங்கள் plan இல் உள்ள ஒவ்வொரு feature உம் (✓ உடன்), மற்றும் limits: active branches,
-  registers, employees, products, plan இல் இருந்தால் warehouses மற்றும் customer profiles. *Plan ஐ மாற்ற உங்கள்
-  service provider ஐத் தொடர்பு கொள்ளுங்கள்.* [Plans and features](/ta/getting-started/plans/) ஐப் பாருங்கள்.
+  registers, employees, products, plan இல் இருந்தால் warehouses மற்றும் customer profiles. Plan ஐ மாற்ற
+  [Billing மற்றும் subscription](/ta/getting-started/billing/) ஐப் பாருங்கள். [Plans and features](/ta/getting-started/plans/) ஐயும் பாருங்கள்.
 
 என்ன தெரியும் என்பது உங்கள் permissions ஐப் பொறுத்தது. உதாரணமாக cashier க்கு sales figures தெரியாது.
 

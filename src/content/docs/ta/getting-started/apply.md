@@ -15,6 +15,12 @@ review செய்து உங்களுக்கு email அனுப்�
 **Apply செய்ய: [https://app.gpos.lk/register](https://app.gpos.lk/register)** — அல்லது
 [sign-in page இல்](https://app.gpos.lk) **New business? Apply for an account** ஐத் தேர்ந்தெடுங்கள்.
 
+:::tip[Partner மூலம் GPOS ஐ வாங்குகிறீர்களா?]
+GPOS **partners** மூலமும் விற்கப்படுகிறது — அதை setup செய்து தாங்களே உங்களுக்கு bill செய்யும் companies. உங்கள் partner கொடுக்கும்
+registration link ஐப் பயன்படுத்துங்கள்: அப்போது form *You are signing up through our partner …* எனக் காட்டும். உங்களுக்காக
+partner application ஐ அனுப்பவும் முடியும். [Billing மற்றும் subscription](/ta/getting-started/billing/) ஐப் பாருங்கள்.
+:::
+
 :::note
 Page இல் *We are not taking new applications online at the moment* எனக் காட்டினால், GPOS Support ஐத் தொடர்பு
 கொள்ளுங்கள் — அவர்கள் உங்கள் business ஐ setup செய்து தருவார்கள்.
@@ -58,6 +64,13 @@ Page இல் *We are not taking new applications online at the moment* என�
 | **Mobile number** | |
 | **Language for e-mails** | English, Sinhala அல்லது Tamil. |
 | **Your e-mail** | Approve ஆனதும் இதன் மூலம் sign in செய்வீர்கள். |
+
+### Plan மற்றும் promotion
+
+- **Plan** — உங்களுக்கு வேண்டிய plan ஐ அதன் வருடாந்த price மற்றும் free-trial நாட்களுடன் (இருந்தால்) தேர்ந்தெடுங்கள், அல்லது
+  *Not sure yet*. Approve செய்யும்போது plan ஐ உறுதிப்படுத்துவோம். [Plans and features](/ta/getting-started/plans/) மற்றும்
+  [Billing மற்றும் subscription](/ta/getting-started/billing/) ஐப் பாருங்கள்.
+- **Promotion code** (கட்டாயமில்லை) — இருந்தால். உங்கள் application approve ஆனதும் அது apply ஆகும்.
 
 பிறகு:
 

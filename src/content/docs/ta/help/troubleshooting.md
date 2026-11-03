@@ -42,14 +42,19 @@ Owners: [Two-step sign-in](/ta/getting-started/two-step-sign-in/) ஐப் ப�
 அடுத்த sign in இல் owner update செய்த terms of service ஐ accept செய்ய வேண்டும்.
 
 **"This business account is suspended"**
-உங்கள் service provider ஐத் தொடர்பு கொள்ளுங்கள்.
+உங்கள் service provider ஐத் தொடர்பு கொள்ளுங்கள். Subscription செலுத்தாததால் suspend செய்யப்பட்டிருந்தால், கட்டணம் record
+ஆனவுடன் மீண்டும் வேலை செய்யும் — [Billing மற்றும் subscription](/ta/getting-started/billing/) ஐப் பாருங்கள்.
+
+**"The subscription is unpaid: changes are paused until it is renewed"**
+Subscription செலுத்தப்படும் வரை back office read-only; tills தொடர்ந்து விற்பனை செய்யும். Owner **Billing** இல் காட்டப்படும்
+invoice ஐச் செலுத்துவார் — [Billing மற்றும் subscription](/ta/getting-started/billing/) ஐப் பாருங்கள்.
 
 **"You do not have permission to do this"**
 உங்கள் role அதை அனுமதிக்கவில்லை. Owner அல்லது administrator இடம் கேளுங்கள் — [Roles and permissions](/ta/business/roles/) ஐப் பாருங்கள்.
 
 **"This feature is not included in your plan" / "Your plan limit has been reached"**
-உதா. உங்கள் plan க்கு மேல் இன்னொரு branch அல்லது employee ஐ add செய்யும்போது. Plan ஐ மாற்ற உங்கள் service provider ஐத் தொடர்பு
-கொள்ளுங்கள். Disable செய்த employees மற்றும் inactive branches கணக்கிடப்படாது. [Plans and features](/ta/getting-started/plans/) ஐப் பாருங்கள்.
+உதா. உங்கள் plan க்கு மேல் இன்னொரு branch அல்லது employee ஐ add செய்யும்போது. Plan ஐ [Billing](/ta/getting-started/billing/) இல் மாற்றுங்கள், அல்லது
+உங்கள் partner அல்லது service provider ஐத் தொடர்பு கொள்ளுங்கள். Disable செய்த employees மற்றும் inactive branches கணக்கிடப்படாது. [Plans and features](/ta/getting-started/plans/) ஐப் பாருங்கள்.
 
 **இந்த guide இல் உள்ள menu item காணவில்லை**
 ஒன்று feature உங்கள் plan இல் இல்லை, அல்லது உங்கள் role இல் அது இல்லை. Dashboard இல் **Plan** card ஐப் பாருங்கள் (உங்களிடம் உள்ள
@@ -67,6 +72,9 @@ features ஐ அது பட்டியலிடும்), உங்கள்
 **"Setting up needs an internet connection"** — device ஐ connect செய்து மீண்டும் முயலுங்கள்.
 
 ## Till இல்
+
+**"The business's subscription is waiting for payment" / "… is unpaid"**
+விற்பனை வழக்கம்போல் தொடரும். Owner இடம் சொல்லுங்கள் — அவர் back office இன் **Billing** page இல் renew செய்வார்.
 
 **"Who is using the till?" இல் என் பெயர் இல்லை**
 உங்களுக்கு **POS PIN** மற்றும் **இந்த branch இல்** விற்கக்கூடிய role தேவை. [My account](/ta/getting-started/my-account/) இல் PIN ஐ set

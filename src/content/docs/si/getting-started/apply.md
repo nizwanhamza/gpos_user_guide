@@ -15,6 +15,12 @@ business account එක හදන්නේ.
 **Apply කරන්න: [https://app.gpos.lk/register](https://app.gpos.lk/register)** — නැත්නම්
 [sign-in page එකේ](https://app.gpos.lk) **New business? Apply for an account** තෝරන්න.
 
+:::tip[Partner කෙනෙක් හරහා GPOS ගන්නවද?]
+GPOS **partners** ලාත් විකුණනවා — ඒක setup කරලා තමන්ම ඔබට bill කරන companies. ඔබේ partner දෙන registration link එක භාවිතා
+කරන්න: එතකොට form එකේ *You are signing up through our partner …* කියනවා. ඔබ වෙනුවෙන් partner application එක යවන්නත්
+පුළුවන්. [Billing සහ subscription](/si/getting-started/billing/) බලන්න.
+:::
+
 :::note
 Page එකේ *We are not taking new applications online at the moment* කියලා පෙන්නුවොත්, GPOS Support අමතන්න —
 ඔවුන් ඔබේ business එක setup කරලා දෙයි.
@@ -57,6 +63,13 @@ Page එකේ *We are not taking new applications online at the moment* කි�
 | **Mobile number** | |
 | **Language for e-mails** | English, Sinhala හෝ Tamil. |
 | **Your e-mail** | Approve වුණාම sign in වෙන්නේ මේකෙන්. |
+
+### Plan සහ promotion
+
+- **Plan** — ඔබට ඕන plan එක, ඒකේ අවුරුදු price එක සහ free-trial දින (තියෙනවා නම්) එක්ක තෝරන්න, නැත්නම් *Not sure yet*.
+  Approve කරනකොට අපි plan එක confirm කරනවා. [Plans and features](/si/getting-started/plans/) සහ
+  [Billing සහ subscription](/si/getting-started/billing/) බලන්න.
+- **Promotion code** (අනිවාර්ය නැහැ) — තියෙනවා නම්. ඔබේ application එක approve කළාම ඒක apply වෙනවා.
 
 ඊට පස්සේ:
 
