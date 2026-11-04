@@ -18,6 +18,11 @@ if needed.
 **"This link is invalid, was already used or has expired"**
 Password reset links work once and for 30 minutes. Ask for a new one.
 
+**"This code is wrong or has expired"** (applying for GPOS)
+The 6-digit code works for 30 minutes, and stops after 5 wrong tries. Check that you typed the
+code from the **latest** e-mail, or select **Send a new code**. See
+[Apply for GPOS](/getting-started/apply/#2-confirm-your-e-mail).
+
 **"The robot check failed; please try again"**
 The sign-in, password and application pages may ask you to prove you are not a robot. Wait for the
 check to finish (or tick it), then try again. Turn off VPNs or ad blockers if it keeps failing.

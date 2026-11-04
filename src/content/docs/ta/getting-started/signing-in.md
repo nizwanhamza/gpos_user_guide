@@ -74,7 +74,8 @@ Owner accept செய்யும் வரை owner back office ஐப் ப�
 1. Sign-in page இல் <span class="ui">Forgot password?</span> ஐத் தேர்ந்தெடுங்கள்.
 2. உங்கள் **Business code** மற்றும் **Email** ஐ type செய்து <span class="ui">Send link</span> ஐத் தேர்ந்தெடுங்கள்.
 3. Email ஐ open செய்து link ஐப் பின்பற்றுங்கள் (**30 நிமிடங்கள்** valid, ஒரு முறை மட்டுமே வேலை செய்யும்). வரவில்லையெனில்
-   spam folder ஐப் பாருங்கள்.
+   spam folder ஐப் பாருங்கள். இன்னும் வரவில்லையா? ஒரு நிமிடத்துக்குப் பிறகு <span class="ui">Send the link again</span> ஐத்
+   தேர்ந்தெடுங்கள்.
 4. புதிய password ஐத் தேர்ந்தெடுத்து <span class="ui">Save new password</span> ஐத் தேர்ந்தெடுங்கள்.
 
 பிறகு எல்லா இடங்களிலிருந்தும் sign out ஆகும், புதிய password மூலம் மீண்டும் sign in செய்யுங்கள்.

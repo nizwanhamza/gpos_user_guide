@@ -8,7 +8,7 @@ sidebar:
 
 ### GPOS க்கு எப்படி sign up செய்வது?
 
-[app.gpos.lk/register](https://app.gpos.lk/register) இல் online ஆக apply செய்யுங்கள். உங்கள் email ஐ confirm செய்யுங்கள், ஒருவர் உங்கள்
+[app.gpos.lk/register](https://app.gpos.lk/register) இல் online ஆக apply செய்யுங்கள் — சில நிமிடங்களே ஆகும். நாங்கள் அனுப்பும் 6 இலக்க code மூலம் உங்கள் email ஐ confirm செய்யுங்கள், ஒருவர் உங்கள்
 application ஐ review செய்வார் — பொதுவாக சில வேலை நாட்களுக்குள். [GPOS க்கு apply செய்யுங்கள்](/ta/getting-started/apply/) ஐப் பாருங்கள்.
 
 ### Internet இல்லாமல் till வேலை செய்யுமா?

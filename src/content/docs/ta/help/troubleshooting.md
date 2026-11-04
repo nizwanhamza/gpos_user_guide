@@ -17,6 +17,10 @@ password ஐச் சரிபாருங்கள் (passwords இல் cap
 **"This link is invalid, was already used or has expired"**
 Password reset links ஒரு முறை, 30 நிமிடங்களுக்கு மட்டுமே வேலை செய்யும். புதியதைக் கேளுங்கள்.
 
+**"This code is wrong or has expired"** (GPOS க்கு apply செய்யும்போது)
+6 இலக்க code 30 நிமிடங்கள் வேலை செய்யும், 5 தவறான முயற்சிகளுக்குப் பிறகு நின்றுவிடும். **கடைசியாக வந்த** email இல் உள்ள code
+ஐ type செய்தீர்களா எனப் பாருங்கள், அல்லது **Send a new code** ஐத் தேர்ந்தெடுங்கள். [GPOS க்கு apply செய்யுங்கள்](/ta/getting-started/apply/) ஐப் பாருங்கள்.
+
 **"The robot check failed; please try again"**
 Sign-in, password, application pages நீங்கள் robot அல்ல என்று நிரூபிக்கக் கேட்கலாம். Check முடியும் வரை காத்திருங்கள் (அல்லது tick
 செய்யுங்கள்), பிறகு மீண்டும் முயலுங்கள். தொடர்ந்து fail ஆனால் VPNs அல்லது ad blockers ஐ off செய்யுங்கள்.

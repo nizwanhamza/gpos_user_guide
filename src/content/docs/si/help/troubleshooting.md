@@ -17,6 +17,10 @@ check කරන්න (passwords වල capital සහ simple අකුරු �
 **"This link is invalid, was already used or has expired"**
 Password reset links වැඩ කරන්නේ එක පාරයි, විනාඩි 30ක් විතරයි. අලුත් එකක් ඉල්ලන්න.
 
+**"This code is wrong or has expired"** (GPOS සඳහා apply කරනකොට)
+ඉලක්කම් 6ක code එක විනාඩි 30ක් වැඩ කරනවා, වැරදි උත්සාහ 5කට පස්සේ නවතිනවා. **අන්තිමට ආපු** email එකේ code එක type කළාද
+බලන්න, නැත්නම් **Send a new code** තෝරන්න. [GPOS සඳහා apply කරන්න](/si/getting-started/apply/) බලන්න.
+
 **"The robot check failed; please try again"**
 Sign-in, password සහ application pages වල ඔබ robot කෙනෙක් නෙවෙයි කියලා ඔප්පු කරන්න කියන්න පුළුවන්. Check එක ඉවර වෙනකම් ඉන්න (හෝ tick
 කරන්න), ඊට පස්සේ ආයෙත් try කරන්න. දිගටම fail වෙනවා නම් VPNs හෝ ad blockers off කරන්න.

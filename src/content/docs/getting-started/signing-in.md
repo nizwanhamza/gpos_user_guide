@@ -79,7 +79,8 @@ done.
 1. On the sign-in page select <span class="ui">Forgot password?</span>.
 2. Enter your **Business code** and **Email**, then select <span class="ui">Send link</span>.
 3. Open the e-mail and follow the link (it is valid for **30 minutes** and works once). Check your
-   spam folder if it does not arrive.
+   spam folder if it does not arrive. Still nothing? After a minute select
+   <span class="ui">Send the link again</span>.
 4. Choose a new password and select <span class="ui">Save new password</span>.
 
 You are then signed out everywhere and sign in again with the new password.

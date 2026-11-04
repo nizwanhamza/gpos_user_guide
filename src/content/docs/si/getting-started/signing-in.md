@@ -72,6 +72,7 @@ two-step sign-in** පෙන්නනවා. Screen එකේ පියවර �
 1. Sign-in page එකේ <span class="ui">Forgot password?</span> තෝරන්න.
 2. ඔබේ **Business code** සහ **Email** type කර <span class="ui">Send link</span> තෝරන්න.
 3. Email එක open කර link එකට යන්න (**විනාඩි 30ක්** valid, එක පාරයි වැඩ කරන්නේ). ආවේ නැත්නම් spam folder එක බලන්න.
+   තවමත් නැද්ද? විනාඩියකට පස්සේ <span class="ui">Send the link again</span> තෝරන්න.
 4. අලුත් password එකක් තෝරා <span class="ui">Save new password</span> තෝරන්න.
 
 ඊට පස්සේ හැම තැනකින්ම sign out වෙනවා, අලුත් password එකෙන් ආයෙත් sign in වෙන්න.

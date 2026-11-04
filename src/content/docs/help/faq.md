@@ -8,7 +8,8 @@ sidebar:
 
 ### How do we sign up for GPOS?
 
-Apply online at [app.gpos.lk/register](https://app.gpos.lk/register). Confirm your e-mail, and a
+Apply online at [app.gpos.lk/register](https://app.gpos.lk/register) — it takes a few minutes. Confirm
+your e-mail with the 6-digit code we send, and a
 person reviews your application — usually within a few working days. See
 [Apply for GPOS](/getting-started/apply/).
 

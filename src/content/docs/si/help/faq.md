@@ -8,7 +8,7 @@ sidebar:
 
 ### GPOS වලට sign up වෙන්නේ කොහොමද?
 
-[app.gpos.lk/register](https://app.gpos.lk/register) හි online apply කරන්න. ඔබේ email එක confirm කරන්න, එතකොට කෙනෙක් ඔබේ application එක
+[app.gpos.lk/register](https://app.gpos.lk/register) හි online apply කරන්න — විනාඩි කිහිපයයි. අපි එවන ඉලක්කම් 6ක code එකෙන් ඔබේ email එක confirm කරන්න, එතකොට කෙනෙක් ඔබේ application එක
 review කරනවා — සාමාන්‍යයෙන් වැඩ කරන දින කිහිපයක් ඇතුළත. [GPOS සඳහා apply කරන්න](/si/getting-started/apply/) බලන්න.
 
 ### Internet නැතුව till එක වැඩ කරනවාද?

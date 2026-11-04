@@ -1,6 +1,6 @@
 ---
 title: GPOS සඳහා apply කරන්න
-description: ඔබේ business එක GPOS සඳහා online register කරන්න, email එක confirm කරන්න, application එක follow කරන්න, approve වුණාම account එක activate කරන්න.
+description: ඔබේ business එක විනාඩි කිහිපයකින් GPOS සඳහා online register කරන්න, ඉලක්කම් 6ක code එකකින් email එක confirm කරන්න, application එක follow කරන්න, approve වුණාම account එක activate කරන්න.
 sidebar:
   order: 0
   badge:
@@ -8,7 +8,7 @@ sidebar:
     variant: tip
 ---
 
-තවම GPOS භාවිතා කරන්නේ නැද්ද? Online apply කරන්න. GPOS එකේ කෙනෙක් හැම application එකක්ම review කර ඔබට
+තවම GPOS භාවිතා කරන්නේ නැද්ද? Online apply කරන්න — form එක පුරවන්න විනාඩි කිහිපයයි. GPOS එකේ කෙනෙක් හැම application එකක්ම review කර ඔබට
 email කරනවා — සාමාන්‍යයෙන් **වැඩ කරන දින කිහිපයක් ඇතුළත**. Application එක approve වුණාට පස්සේ විතරයි ඔබේ
 business account එක හදන්නේ.
 
@@ -30,11 +30,13 @@ Page එකේ *We are not taking new applications online at the moment* කි�
 
 මේවා සූදානම් කරගන්න:
 
-- business එකේ නම, සහ register කරලා නම් **business registration (BR) number** එක සහ register කළ විදිහටම
-  **legal name** එක;
-- business එකේ address, phone සහ email;
-- **ඔබේම email address එක** — approve වුණාම sign in වෙන්නේ මේකෙන්, ඒ නිසා දිගටම තියාගන්න email එකක් දෙන්න;
+- ඔබේ **business එකේ නම** සහ ඒක මොන වගේ business එකක්ද කියලා;
+- **ඔබේම email address එක** — approve වුණාම sign in වෙන්නේ මේකෙන්, ඒ නිසා දිගටම තියාගන්න email එකක් දෙන්න.
+  Apply කරන අතරේ අපි ඒකට code එකක් එවනවා, ඒ නිසා mailbox එක open කරලා තියාගන්න;
 - ඔබේ mobile number එක.
+
+එච්චරයි. අපිට තව දේවල් ඕන නම් — උදා. business registration (BR) number එක, legal name එක හෝ address එක — ඔබ apply
+කළාට පස්සේ අපි අහනවා.
 
 ## 1. Application එක පුරවන්න
 
@@ -44,15 +46,6 @@ Page එකේ *We are not taking new applications online at the moment* කි�
 |-------|-------------|
 | **Business name** | Customers ඔබව දන්නා නම. |
 | **Type of business** | උදා. grocery, pharmacy, clothing, restaurant. |
-| **Legal form** | Sole proprietorship, partnership, private හෝ public limited company, company limited by guarantee, හෝ වෙනත් registered entity එකක්. |
-| **Business registration** | *Registered*, *Not registered* හෝ *Registration in progress*. Company එකක් නම් register කරලා තියෙන්නම ඕන. |
-| **Registration number** | Register කරලා නම් ඔබේ BR number එක. |
-| **Legal name** | Register කළ විදිහටම — company එකකට අනිවාර්යයි. |
-| **Address**, **Town / city**, **District** | Business එක තියෙන තැන (ශ්‍රී ලංකාව). |
-| **Business phone**, **Business e-mail**, **Website** | Business එකට කතා කරන්න පුළුවන් විදිහ. Website එක අනිවාර්ය නැහැ. |
-| **Number of branches** | ඔබට shops කීයක් තියෙනවාද. |
-| **POS system you use now** | අනිවාර්ය නැහැ — GPOS වලට මාරු වෙන්න උදව් කරන්න අපිට ප්‍රයෝජනවත්. |
-| **Business code you would like** | ඔබේ business එකේ හැමෝම sign in වෙන්න භාවිතා කරන කෙටි code එක, උදා. `lanka-mart` (simple අකුරු, ඉලක්කම් සහ hyphens). Approve කරනකොට අපි එය confirm කරනවා; **පස්සේ වෙනස් කරන්න බැහැ**. |
 
 ### ඔබ ගැන
 
@@ -62,7 +55,7 @@ Page එකේ *We are not taking new applications online at the moment* කි�
 | **Your role in the business** | Owner, director, partner, manager, accountant, employee හෝ other. Owner වෙන්නම ඕන නැහැ, නමුත් apply කරන්න අවසර තියෙන්න ඕන. |
 | **Mobile number** | |
 | **Language for e-mails** | English, Sinhala හෝ Tamil. |
-| **Your e-mail** | Approve වුණාම sign in වෙන්නේ මේකෙන්. |
+| **Your e-mail** | Approve වුණාම sign in වෙන්නේ මේකෙන්. ඒක confirm කරන්න අපි ඒකට ඉලක්කම් 6ක code එකක් email කරනවා. |
 
 ### Plan සහ promotion
 
@@ -80,23 +73,31 @@ Page එකේ *We are not taking new applications online at the moment* කි�
 
 ## 2. Email එක confirm කරන්න
 
-GPOS **Check your e-mail** කියලා පෙන්නනවා. Address එක confirm කරන්න, අපි එවපු link එක **පැය 24ක් ඇතුළත**
-open කරන්න. ඊට පස්සේ විතරයි application එක review කරන්නේ. Email එක ආවේ නැත්නම් spam folder එක බලන්න.
+GPOS **Check your e-mail** කියලා පෙන්නලා **Code from the e-mail** ඉල්ලනවා.
+
+1. අපි එවපු email එක open කරන්න (subject එක *Your GPOS confirmation code: …*). ආවේ නැත්නම් spam folder එක බලන්න.
+2. **ඉලක්කම් 6ක code එක** **විනාඩි 30ක් ඇතුළත** page එකේ type කර <span class="ui">Confirm</span> තෝරන්න.
+3. ඔබේ application page එක open වෙනවා. මේ පියවරෙන් පස්සේ විතරයි application එක review කරන්නේ.
+
+Email එක ආවේ නැද්ද, නැත්නම් code එක expire වුණාද? <span class="ui">Send a new code</span> තෝරන්න — විනාඩියකට පස්සේ
+ආයෙත් භාවිතා කරන්න පුළුවන් (button එකේ countdown එකක් පෙන්නනවා). අලුත් code එක ආවම පරණ එක වැඩ කරන්නේ නැහැ.
+**වැරදි උත්සාහ 5කට** පස්සේ code එක වැඩ කරන්නේ නැහැ: අලුත් එකක් ඉල්ලන්න.
 
 :::caution
 Confirm නොකරපු applications දින 7කට පස්සේ delete වෙනවා. එක වෙලාවකට **එක email address එකකට open
-application එකයි** තියාගන්න පුළුවන්.
+application එකයි** තියාගන්න පුළුවන්: ඒ email එකෙන්ම ආයෙත් form එක පුරවුවොත්, ඔබ දැනටමත් යවපු application එක open
+කරන code එකක් අපි email කරනවා.
 :::
 
 ## 3. Application එක follow කරන්න
 
 Sign-in page එකේ **Check my application** තෝරන්න (නැත්නම් form එකේ **I already applied**), apply කරපු email
-එක type කර <span class="ui">Send me a link</span> තෝරන්න. Link එකෙන් (පැය 24ක් valid) **Your application**
-open වෙනවා — status එක සහ history එකත් එක්ක.
+එක type කර <span class="ui">Send me a code</span> තෝරන්න. Email එකේ තියෙන ඉලක්කම් 6ක code එක (විනාඩි 30ක් valid)
+type කර <span class="ui">Confirm</span> තෝරන්න: **Your application** open වෙනවා — status එක සහ history එකත් එක්ක.
 
 | Status | තේරුම |
 |--------|-------|
-| **E-mail not confirmed** | Address එක confirm කරන්න අපි email කරපු link එක open කරන්න. |
+| **E-mail not confirmed** | Address එක confirm කරන්න අපි email කරපු code එක type කරන්න. |
 | **Waiting for review** | කෙනෙක් ඔබේ application එක review කරනවා. අපි email කරන්නම්. |
 | **More information needed** | අපි ප්‍රශ්නයක් ඇහුවා — පහත බලන්න. |
 | **Approved** | ඔබේ business එක ready. Password එක තෝරන්න link එකක් අපි email කළා. |
@@ -111,6 +112,7 @@ open වෙනවා — status එක සහ history එකත් එක්ක.
 2. Application එකේ මොකක් හරි වැරදි නම් **Also correct my details** tick කර එය හදන්න.
 3. <span class="ui">Send answer</span> තෝරන්න. Application එක ආයෙත් review එකට යනවා.
 
+උදාහරණයක් විදිහට අපි ඔබේ legal form එක, business registration number එක, legal name එක හෝ address එක අහන්න පුළුවන්.
 Regulated trades වල businesses — උදා. **pharmacies, clinics, hospitals හෝ medical supplies** — licence විස්තර
 ඉල්ලන්න පුළුවන්.
 
@@ -123,6 +125,8 @@ Regulated trades වල businesses — උදා. **pharmacies, clinics, hospita
 Application එක approve වුණාම:
 
 - main branch එකක් එක්ක ඔබේ business එක හදනවා, **ඔබ එහි owner වෙනවා**;
+- GPOS ඔබේ **business code** එක තෝරනවා — ඔබේ business එකේ හැමෝම sign in වෙන්න භාවිතා කරන කෙටි code එක, උදා.
+  `lanka-mart`. **පස්සේ වෙනස් කරන්න බැහැ**;
 - online applications සඳහා එකඟ වූ plan එක දෙනවා ([Plans and features](/si/getting-started/plans/) බලන්න);
 - **password එක තෝරන්න** link එකක් අපි email කරනවා — **දින 7ක්** valid — සහ ඔබේ application page එකේ
   **Your business code** පෙන්නනවා.
@@ -132,7 +136,9 @@ Application එක approve වුණාම:
 1. Email එකේ link එක open කර password එකක් තෝරන්න (අවම අකුරු 12).
 2. [app.gpos.lk](https://app.gpos.lk) හි ඔබේ **business code**, **email** සහ අලුත් password එකෙන් sign in වෙන්න.
 3. Terms of service accept කරන්න, ඇහුවොත් [two-step sign-in](/si/getting-started/two-step-sign-in/) setup කරන්න.
-4. **[Quick start](/si/quick-start/)** එකෙන් දිගටම යන්න.
+4. ඔබේ business විස්තර — legal name, registration සහ tax numbers, phone, contact email සහ address —
+   [Settings](/si/business/settings/) වල සම්පූර්ණ කරන්න. ඒ වෙනකම් phone සහ email එක ඔබේම ඒවා.
+5. **[Quick start](/si/quick-start/)** එකෙන් දිගටම යන්න.
 
 :::tip[Link එක expire වුණාද?]
 Email link එක දින 7ක් ඇතුළත open කළේ නැත්නම්, password එක තෝරන්න අලුත් link එකක් GPOS Support ගෙන් ඉල්ලන්න.
